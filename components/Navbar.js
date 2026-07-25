@@ -1,6 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 
 const navLinks = [
@@ -72,10 +73,17 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-10 h-10 rounded-lg bg-[#C9A84C] flex items-center justify-center font-bold text-[#060F1E] text-lg group-hover:scale-105 transition-transform">CG</div>
+            <Image
+              src="/copia-logo.png"
+              alt="Copia Group"
+              width={40}
+              height={40}
+              className="rounded-lg group-hover:scale-105 transition-transform"
+              priority
+            />
             <div className="leading-tight">
-              <span className="block text-white font-bold text-sm tracking-widest uppercase">Copia Group</span>
-              <span className="block text-[#C9A84C] text-xs tracking-widest uppercase">Australia</span>
+              <span className="block text-white font-bold text-sm tracking-widest uppercase font-[family-name:var(--font-syne)]">Copia Group</span>
+              <span className="block text-[#6366F1] text-xs tracking-widest uppercase">Australia</span>
             </div>
           </Link>
 

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const footerLinks = {
   Company: [
@@ -69,10 +70,16 @@ export default function Footer() {
           {/* Brand column */}
           <div className="lg:col-span-2">
             <Link href="/" className="flex items-center gap-3 mb-5">
-              <div className="w-10 h-10 rounded-lg bg-[#C9A84C] flex items-center justify-center font-bold text-[#060F1E] text-lg">CG</div>
+              <Image
+                src="/copia-logo.png"
+                alt="Copia Group"
+                width={40}
+                height={40}
+                className="rounded-lg"
+              />
               <div className="leading-tight">
-                <span className="block text-white font-bold text-sm tracking-widest uppercase">Copia Group</span>
-                <span className="block text-[#C9A84C] text-xs tracking-widest uppercase">Australia</span>
+                <span className="block text-white font-bold text-sm tracking-widest uppercase font-[family-name:var(--font-syne)]">Copia Group</span>
+                <span className="block text-[#6366F1] text-xs tracking-widest uppercase">Australia</span>
               </div>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed max-w-xs mb-6">
