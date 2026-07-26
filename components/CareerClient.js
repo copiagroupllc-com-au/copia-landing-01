@@ -82,7 +82,7 @@ export default function CareerClient({ openings }) {
           </div>
           <div>
             <p className="text-white text-sm font-semibold">Want to talk to us first?</p>
-            <p className="text-gray-500 text-xs mt-0.5">Book a 15-minute intro call with our hiring team — no commitment needed.</p>
+            <p className="text-gray-500 text-xs mt-0.5">Book a 1 hour intro call with our hiring team — no commitment needed.</p>
           </div>
         </div>
         <a

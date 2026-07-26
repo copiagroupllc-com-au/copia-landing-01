@@ -105,7 +105,7 @@ export default function ApplyModal({ role, onClose }) {
             <div className="mb-6 p-5 rounded-2xl border border-[#6366F1]/20 bg-[#6366F1]/5 text-left">
               <p className="text-white font-semibold text-sm mb-1">Want to fast-track your application?</p>
               <p className="text-gray-500 text-xs mb-4">
-                Book a 15-minute intro call with our hiring team and skip the queue.
+                Book a 1 hour intro call with our hiring team and skip the queue.
               </p>
               <button
                 onClick={openCalendly}

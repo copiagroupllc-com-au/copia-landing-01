@@ -106,7 +106,7 @@ export default function ContactPage() {
                   <p className="text-[#6366F1] text-xs font-semibold uppercase tracking-widest">Book a Call</p>
                 </div>
                 <p className="text-gray-400 text-sm mb-4">
-                  Prefer to talk? Schedule a 15-minute call with our team directly — no back-and-forth required.
+                  Prefer to talk? Schedule a 1 hour call with our team directly — no back-and-forth required.
                 </p>
                 <a
                   href={CALENDLY_URL}
