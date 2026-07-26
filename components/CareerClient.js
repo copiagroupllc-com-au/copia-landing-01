@@ -5,6 +5,8 @@ import ApplyModal from "@/components/ApplyModal";
 
 const DEPARTMENTS = ["All", "Blockchain", "Engineering", "AI & Data", "Mobile", "Design", "Product", "Security", "DevOps", "QA", "Management", "Support"];
 
+const CALENDLY_URL = "https://calendly.com/24-7-hire";
+
 export default function CareerClient({ openings }) {
   const [activeModal, setActiveModal] = useState(null); // role object | null
   const [activeDept, setActiveDept] = useState("All");
@@ -68,6 +70,34 @@ export default function CareerClient({ openings }) {
       <p className="text-gray-600 text-xs mb-5">
         Showing <span className="text-white font-medium">{filtered.length}</span> of {openings.length} roles
       </p>
+
+      {/* ── Calendly banner ──────────────────────────── */}
+      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 p-5 rounded-2xl border border-[#6366F1]/20 bg-[#6366F1]/5 mb-5">
+        <div className="flex items-center gap-3">
+          <div className="w-9 h-9 rounded-xl bg-[#6366F1]/15 flex items-center justify-center flex-shrink-0">
+            <svg className="w-4 h-4 text-[#6366F1]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+                d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            </svg>
+          </div>
+          <div>
+            <p className="text-white text-sm font-semibold">Want to talk to us first?</p>
+            <p className="text-gray-500 text-xs mt-0.5">Book a 15-minute intro call with our hiring team — no commitment needed.</p>
+          </div>
+        </div>
+        <a
+          href={CALENDLY_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex-shrink-0 inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-[#6366F1] text-white text-sm font-bold hover:bg-indigo-400 transition-colors shadow-md shadow-indigo-500/20 whitespace-nowrap"
+        >
+          <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+              d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+          </svg>
+          Book an Interview
+        </a>
+      </div>
 
       {/* ── Role rows ────────────────────────────────── */}
       {filtered.length === 0 ? (

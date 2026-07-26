@@ -743,20 +743,36 @@ export default function CareerPage() {
       </section>
 
       {/* ── Open Application CTA ──────────────────────── */}
-      <section className="py-20 bg-[#0A0A0F] text-center">
-        <div className="max-w-2xl mx-auto px-4">
+      <section className="py-20 bg-[#0A0A0F]">
+        <div className="max-w-3xl mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-4 font-[family-name:var(--font-syne)]">
             Don&apos;t See the Right Role?
           </h2>
-          <p className="text-gray-500 mb-8">
-            We&apos;re always on the lookout for exceptional talent. Send us your CV and a note about what you&apos;d like to build here.
+          <p className="text-gray-500 mb-10">
+            We&apos;re always on the lookout for exceptional talent. Send us your CV or book a quick call — whichever works best for you.
           </p>
-          <a
-            href="mailto:contact@copiagroupllc.com.au?subject=Open Application — Copia Group AU"
-            className="inline-flex items-center gap-2 px-8 py-4 rounded-full bg-[#6366F1] text-white font-bold hover:bg-indigo-400 transition-colors shadow-lg shadow-indigo-500/20"
-          >
-            Send Open Application
-          </a>
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+            <a
+              href="mailto:contact@copiagroupllc.com.au?subject=Open Application — Copia Group AU"
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-[#6366F1] text-white font-bold hover:bg-indigo-400 transition-colors shadow-lg shadow-indigo-500/20"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+              </svg>
+              Send Open Application
+            </a>
+            <a
+              href="https://calendly.com/24-7-hire"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full border border-[#6366F1]/40 text-[#6366F1] font-bold hover:bg-[#6366F1] hover:text-white transition-all duration-200"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+              Book an Interview
+            </a>
+          </div>
         </div>
       </section>
     </>
