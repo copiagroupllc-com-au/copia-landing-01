@@ -24,14 +24,8 @@ export default function CareerClient({ openings }) {
   }, [openings, activeDept, search]);
 
   const openPdf = (e, pdfPath) => {
-    // Don't open PDF if clicking the Apply button itself
     if (e.target.closest("[data-apply-btn]")) return;
-    // Split folder and filename, encode only the filename so spaces/special chars work on Vercel
-    const slash = pdfPath.lastIndexOf("/");
-    const folder = pdfPath.slice(0, slash + 1);
-    const file = pdfPath.slice(slash + 1);
-    const safeUrl = folder + encodeURIComponent(file);
-    window.open(safeUrl, "_blank", "noopener,noreferrer");
+    window.open(pdfPath, "_blank", "noopener,noreferrer");
   };
 
   return (
