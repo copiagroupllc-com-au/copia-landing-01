@@ -7,7 +7,7 @@ const nextConfig = {
   async headers() {
     return [
       {
-        source: "/JD_for_Copia_and_Stripe/:file*",
+        source: "/JD for Copia and Stripe/:file*",
         headers: [
           { key: "Content-Disposition", value: "inline" },
           { key: "X-Content-Type-Options", value: "nosniff" },

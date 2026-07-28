@@ -6,7 +6,7 @@ export const metadata = {
 };
 
 // Raw paths — filenames match git exactly so Vercel serves them without encoding issues
-const JD = (filename) => `/JD_for_Copia_and_Stripe/${filename}`;
+const JD = (filename) => `/JD for Copia and Stripe/${filename}`;
 
 const openings = [
   // ── Blockchain ────────────────────────────────────────────────────────────
