@@ -17,7 +17,7 @@ const openings = [
     type: "Full-time",
     location: "Sydney, AU (Hybrid)",
     accent: "#8B5CF6",
-    pdf: JD("Blockchain Architect.pdf"),
+    pdf: JD("Blockchain_Architect.pdf"),
   },
   {
     title: "Blockchain Consultant",
@@ -25,7 +25,7 @@ const openings = [
     type: "Full-time",
     location: "Remote (AU)",
     accent: "#8B5CF6",
-    pdf: JD("Blockchain Consultant.pdf"),
+    pdf: JD("Blockchain_Consultant.pdf"),
   },
   {
     title: "Blockchain Tech Lead",
@@ -33,7 +33,7 @@ const openings = [
     type: "Full-time",
     location: "Sydney, AU (Hybrid)",
     accent: "#8B5CF6",
-    pdf: JD("Blockchain Tech Lead.pdf"),
+    pdf: JD("Blockchain_Tech_Lead.pdf"),
   },
   {
     title: "Lead Blockchain Consultant",
@@ -163,7 +163,7 @@ const openings = [
     type: "Full-time",
     location: "Sydney, AU (On-site)",
     accent: "#6366F1",
-    pdf: JD("Chief Technology Officer (CTO).pdf"),
+    pdf: JD("Chief_Technology_Officer_(CTO).pdf"),
   },
   {
     title: "Founding Engineer",
@@ -398,6 +398,7 @@ const openings = [
     location: "Sydney, AU (Hybrid)",
     accent: "#10B981",
     pdf: JD("Senior AI_ML Engineer.pdf"),
+
   },
   {
     title: "Senior Data Engineer",
