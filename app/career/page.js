@@ -5,9 +5,9 @@ export const metadata = {
   description: "Join Copia Group Australia — explore open roles across investment, fintech, Web3, AI, real estate, and gaming.",
 };
 
-// PDF base path — files live in /public/JD for Copia and Stripe/
+// PDF base path — files live in /public/JD_for_Copia_and_Stripe/
 const JD = (filename) =>
-  `/JD for Copia and Stripe/${encodeURIComponent(filename)}`;
+  `/JD_for_Copia_and_Stripe/${encodeURIComponent(filename)}`;
 
 const openings = [
   // ── Blockchain ────────────────────────────────────────────────────────────
