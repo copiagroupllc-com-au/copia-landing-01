@@ -5,9 +5,8 @@ export const metadata = {
   description: "Join Copia Group Australia — explore open roles across investment, fintech, Web3, AI, real estate, and gaming.",
 };
 
-// Folder is /public/jd — no spaces, no encoding issues on Vercel
-// Filenames use encodeURIComponent so parentheses, & etc. are safe
-const JD = (filename) => `/jd/${encodeURIComponent(filename)}`;
+// PDFs served via API route — handles filenames with spaces & special chars on Vercel
+const JD = (filename) => `/api/jd/${encodeURIComponent(filename)}`;
 
 const openings = [
   // ── Blockchain ────────────────────────────────────────────────────────────
