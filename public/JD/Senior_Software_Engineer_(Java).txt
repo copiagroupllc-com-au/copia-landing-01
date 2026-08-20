@@ -1,0 +1,97 @@
+﻿Senior Software Engineer (Java)
+Fintech Infrastructure & Commerce Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+☕ Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management and technology-focused firm supporting innovative companies across fintech, digital infrastructure, and emerging technology sectors.
+We collaborate on projects connected to Stripe’s ecosystem, helping build scalable payment systems, financial infrastructure, developer-focused platforms, and modern commerce solutions used by businesses globally.
+We are expanding our engineering organization and seeking experienced Java engineers passionate about building scalable backend systems, distributed services, and high-performance infrastructure platforms.
+________________
+
+
+The Opportunity
+We are seeking a Senior Software Engineer (Java) to help architect, develop, and scale modern backend systems powering fintech and commerce applications.
+In this role, you will work closely with engineering, product, and infrastructure teams to build secure, reliable, and scalable services supporting payment workflows, APIs, and platform infrastructure.
+This is a high-impact engineering role offering strong technical ownership, architectural influence, and the opportunity to contribute directly to large-scale platform initiatives.
+________________
+
+
+What You’ll Do
+Backend & Platform Development
+* Design, develop, and maintain scalable backend systems using Java and modern frameworks
+* Build secure APIs, distributed services, and platform infrastructure supporting fintech and commerce applications
+* Develop clean, maintainable, and production-ready code
+* Collaborate with frontend, DevOps, and product teams to deliver end-to-end solutions
+* Support high-availability systems handling large-scale transaction and platform workloads
+Architecture & Scalability
+* Contribute to system architecture and technical strategy
+* Improve application performance, scalability, reliability, and maintainability
+* Participate in architecture reviews, technical planning, and engineering discussions
+* Help establish development standards, testing strategies, and engineering best practices
+* Support cloud-native and microservices-based platform initiatives
+Collaboration & Leadership
+* Participate in code reviews and mentorship across engineering teams
+* Take ownership of technical projects from development through deployment
+* Collaborate cross-functionally with engineering, infrastructure, and business stakeholders
+* Contribute to long-term platform and engineering improvements
+________________
+
+
+What We’re Looking For
+Required Experience
+* 5+ years of professional software engineering experience
+* Strong expertise in Java and backend application development
+* Experience with frameworks such as Spring Boot, Spring MVC, or Hibernate
+* Experience building RESTful APIs and distributed backend services
+* Strong understanding of:
+   * scalable backend architecture
+   * microservices and distributed systems
+   * database design and optimization
+   * performance tuning and reliability
+   * secure software development practices
+* Experience with relational and NoSQL databases
+* Familiarity with cloud platforms, CI/CD pipelines, and containerized environments
+* Strong communication and problem-solving skills
+________________
+
+
+Preferred Experience
+● Experience working in fintech, payments, SaaS, or infrastructure platforms
+● Familiarity with Stripe APIs or financial systems
+● Experience with Kafka, Redis, or event-driven architecture
+● Experience with AWS, Docker, Kubernetes, or Terraform
+● Startup or high-growth engineering environment experience
+● Experience building large-scale transactional or platform systems
+________________
+
+
+Tech Environment
+Backend
+Java • Spring Boot • Hibernate • REST APIs
+Infrastructure
+AWS • Docker • Kubernetes • CI/CD
+Database & Messaging
+PostgreSQL • MySQL • MongoDB • Redis • Kafka
+Tools & Collaboration
+GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation
+✨ High-impact engineering ownership
+✨ Collaborative and engineering-driven culture
+✨ Opportunity to work on innovative fintech and infrastructure platforms
+✨ Long-term growth and leadership opportunities
+________________
+
+
+Apply
+If you are passionate about backend engineering, distributed systems, and building scalable financial technology platforms, we’d love to connect with you.

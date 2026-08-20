@@ -1,0 +1,121 @@
+﻿Senior React Native Engineer
+Cross-Platform Mobile Development, Native Performance & Mobile Innovation
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+📱 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, AI, blockchain, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of technology-driven businesses building scalable mobile applications, digital financial platforms, and next-generation software products. Our portfolio companies create seamless mobile experiences that prioritize performance, security, and user engagement across iOS and Android.
+We are seeking an experienced Senior React Native Engineer to build high-quality, cross-platform mobile applications that deliver exceptional user experiences while maintaining native-level performance.
+________________
+
+
+The Opportunity
+As a Senior React Native Engineer, you will lead the development of scalable mobile applications used by customers worldwide. You'll collaborate closely with Product Managers, Designers, Backend Engineers, QA, and DevOps teams to deliver robust mobile solutions across iOS and Android.
+This role offers significant ownership over mobile architecture, application performance, and technical direction while providing opportunities to mentor engineers and shape mobile engineering best practices across multiple products.
+________________
+
+
+What You'll Do
+Mobile Application Development
+* Design, develop, and maintain high-performance mobile applications using React Native
+* Build reusable, scalable, and maintainable UI components across iOS and Android
+* Integrate backend services, APIs, authentication, and third-party SDKs
+* Optimize application performance, responsiveness, and user experience
+* Write clean, well-tested, and production-ready code
+Mobile Architecture & Engineering
+* Define mobile architecture and establish React Native best practices
+* Implement scalable application structures and state management solutions
+* Optimize app startup time, memory usage, battery efficiency, and rendering performance
+* Ensure applications comply with platform security, accessibility, and usability standards
+* Improve mobile development workflows, testing, and release automation
+Platform Integration
+* Integrate native iOS and Android modules when required
+* Develop offline capabilities, local storage, and synchronization features
+* Implement push notifications, deep linking, biometric authentication, and analytics
+* Collaborate with backend teams on API design and mobile performance optimization
+* Support App Store and Google Play release management processes
+Collaboration & Leadership
+* Mentor junior and mid-level engineers through technical guidance and code reviews
+* Partner with Product Managers and Designers to deliver intuitive mobile experiences
+* Participate in sprint planning, architecture discussions, and technical estimation
+* Promote engineering excellence and knowledge sharing across teams
+* Stay current with React Native, mobile frameworks, and emerging technologies
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of professional mobile software engineering experience
+* 3+ years of hands-on React Native development experience
+* Proven experience delivering production-grade mobile applications for both iOS and Android
+* Experience working in Agile software development environments
+Technical Expertise
+Strong experience with:
+* React Native
+* React
+* TypeScript
+* JavaScript (ES6+)
+* Redux, Zustand, or React Context
+* REST APIs and GraphQL
+* Git
+* Native Modules
+Strong understanding of:
+* Mobile application architecture
+* Cross-platform development best practices
+* iOS and Android development lifecycles
+* Mobile performance optimization
+* Offline-first application design
+* Secure mobile authentication
+* Automated testing and CI/CD
+* App Store and Google Play deployment
+________________
+
+
+Preferred Qualifications
+● Experience developing fintech, healthcare, e-commerce, SaaS, or enterprise mobile applications
+● Familiarity with Swift, Objective-C, Kotlin, or Java for native module development
+● Experience with Expo, React Navigation, Firebase, and CodePush
+● Experience implementing biometric authentication, push notifications, deep linking, and in-app analytics
+● Knowledge of AWS Amplify, Firebase, or cloud-native mobile backend services
+● Contributions to open-source React Native libraries or active participation in the React Native community
+________________
+
+
+Technology Environment
+Mobile Development
+React Native • React • TypeScript • JavaScript • Expo • React Navigation
+State Management
+Redux Toolkit • Zustand • React Context
+Native Platforms
+Swift • Objective-C • Kotlin • Java
+Backend Integration
+REST APIs • GraphQL • Firebase • WebSockets
+Cloud & DevOps
+AWS • Firebase • Docker • GitHub Actions • Bitrise • CI/CD
+Testing & Quality
+Jest • React Native Testing Library • Detox • Appium
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to build innovative mobile products used by global audiences
+✨ Exposure to fintech, AI, blockchain, and emerging technology initiatives
+✨ Collaborative, engineering-first culture focused on innovation, ownership, and technical excellence
+✨ Career advancement into Lead Mobile Engineer, Mobile Architect, Engineering Manager, or Principal Engineer
+✨ Strong investment in continuous learning, mentorship, conference participation, and professional development
+________________
+
+
+Apply
+If you are passionate about building exceptional cross-platform mobile applications, creating seamless user experiences, and leveraging React Native to deliver high-performance products, we'd love to connect with you.

@@ -1,0 +1,122 @@
+﻿Lead Blockchain Engineer
+Blockchain Infrastructure, Smart Contracts & Web3 Platform Leadership
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+⛓️ Lead Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across blockchain, fintech, digital infrastructure, AI, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the development of decentralized technologies, digital asset ecosystems, and next-generation financial platforms. Our portfolio includes organizations building blockchain infrastructure, DeFi protocols, DAO platforms, tokenization solutions, and Web3 products that are shaping the future of digital finance and ownership.
+We are seeking an experienced Lead Blockchain Engineer to drive the technical vision, architecture, and implementation of secure, scalable blockchain solutions while mentoring engineering teams and advancing our Web3 initiatives.
+________________
+
+
+The Opportunity
+As a Lead Blockchain Engineer, you will combine deep blockchain expertise with technical leadership to deliver production-grade decentralized systems and digital asset platforms. You will work closely with Product Managers, Engineering Leaders, Security Teams, and Infrastructure Engineers to build innovative blockchain products across multiple ecosystems.
+This role offers significant ownership over technical strategy, architecture decisions, and engineering excellence while providing opportunities to mentor engineers and influence the future direction of Web3 technologies.
+________________
+
+
+What You'll Do
+Blockchain Engineering Leadership
+* Lead the design, development, and deployment of blockchain applications and decentralized systems
+* Define technical standards, development practices, and architectural guidelines for Web3 initiatives
+* Mentor engineers through code reviews, technical coaching, and knowledge sharing
+* Drive engineering excellence and continuous improvement across blockchain teams
+* Evaluate emerging blockchain technologies and recommend strategic adoption
+Smart Contract & Protocol Development
+* Design and implement secure smart contracts and decentralized protocols
+* Review smart contract architectures for security, scalability, and maintainability
+* Develop systems supporting tokenization, staking, governance, and digital asset management
+* Collaborate with security teams and external auditors on contract validation and risk mitigation
+* Support multi-chain and cross-chain integration initiatives
+Backend & Infrastructure Engineering
+* Build scalable backend services that interact with blockchain networks and decentralized applications
+* Develop blockchain indexing, transaction processing, and event-streaming systems
+* Optimize platform performance, reliability, and fault tolerance
+* Support cloud-native deployments and infrastructure automation practices
+* Improve monitoring, observability, and operational resilience across blockchain environments
+Cross-Functional Collaboration
+* Partner with Product Managers to translate business requirements into technical solutions
+* Collaborate with Frontend Engineers, DevOps teams, and Security Engineers throughout development cycles
+* Participate in roadmap planning, technical estimation, and architectural discussions
+* Identify and mitigate technical risks proactively
+* Foster a collaborative and innovation-driven engineering culture
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 7+ years of professional software engineering experience
+* 3+ years of hands-on blockchain or Web3 development experience
+* Proven experience delivering production blockchain applications and distributed systems
+* Experience leading technical initiatives or mentoring engineering teams
+* Strong background working in Agile development environments
+Technical Expertise
+Strong experience with:
+* Solidity
+* Rust, Go, TypeScript, or Node.js
+* Ethereum and EVM-compatible blockchains
+* Smart contract development frameworks
+* Web3 libraries (ethers.js, viem, web3.js)
+* REST APIs and GraphQL
+* Docker and Kubernetes
+* Git-based development workflows
+Strong understanding of:
+* Blockchain consensus mechanisms
+* Distributed systems architecture
+* Cryptography fundamentals
+* DeFi protocols and token economics
+* DAO governance frameworks
+* Layer 2 scaling solutions
+* Wallet authentication and transaction management
+* Security best practices for decentralized applications
+________________
+
+
+Preferred Qualifications
+● Experience building DeFi products, staking protocols, NFT marketplaces, or DAO platforms
+● Experience with Layer 2 ecosystems including Arbitrum, Optimism, Base, Polygon, Avalanche, or zkSync
+● Familiarity with blockchain infrastructure providers such as Alchemy, Infura, QuickNode, Chainlink, or The Graph
+● Experience with Hardhat, Foundry, OpenZeppelin, Tenderly, or other blockchain development tools
+● Experience implementing multi-chain or cross-chain solutions
+● Active contributions to open-source blockchain projects or participation in Web3 communities
+________________
+
+
+Technology Environment
+Blockchain Technologies
+Ethereum • Solidity • Rust • Go • EVM • Smart Contracts • Web3
+DeFi & DAO Ecosystems
+Uniswap • Aave • Compound • OpenZeppelin • Snapshot • Safe
+Web3 Development
+ethers.js • viem • Hardhat • Foundry • WalletConnect
+Cloud & Infrastructure
+AWS • Docker • Kubernetes • Terraform • GitHub Actions
+Data & Messaging
+PostgreSQL • Redis • MongoDB • Kafka
+Observability & Security
+Prometheus • Grafana • Datadog • OpenTelemetry
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to lead next-generation blockchain and Web3 engineering initiatives
+✨ Exposure to innovative DeFi, DAO, tokenization, and digital asset projects
+✨ Collaborative, engineering-first culture focused on ownership and innovation
+✨ Career advancement into Blockchain Architect, Engineering Manager, or Principal Engineer roles
+✨ Strong investment in continuous learning, open-source contributions, and emerging technologies
+________________
+
+
+Apply
+If you are passionate about blockchain engineering, decentralized technologies, and leading teams that build secure, scalable Web3 platforms, we'd love to connect with you.

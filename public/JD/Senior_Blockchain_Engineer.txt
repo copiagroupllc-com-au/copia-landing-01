@@ -1,0 +1,103 @@
+﻿Senior Blockchain Engineer
+Web3 Infrastructure & Digital Asset Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+⛓️ Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management and technology-focused firm supporting innovative companies across fintech, blockchain, digital infrastructure, and emerging technology sectors.
+We collaborate with projects connected to modern financial ecosystems, decentralized technologies, digital asset platforms, and next-generation commerce infrastructure. Our teams work closely with organizations building scalable blockchain applications, Web3 systems, and developer-focused platforms.
+We are expanding our blockchain engineering organization and seeking experienced engineers passionate about building secure, scalable, and high-performance decentralized systems.
+________________
+
+
+The Opportunity
+We are seeking a Senior Blockchain Engineer to help architect, develop, and scale blockchain infrastructure, smart contract systems, and decentralized applications.
+In this role, you will work closely with engineering, product, and infrastructure teams to build secure blockchain-based services, wallet integrations, transaction systems, and Web3 platform infrastructure supporting modern digital asset ecosystems.
+This is a high-impact engineering role offering strong technical ownership, architectural influence, and the opportunity to contribute directly to next-generation blockchain platforms.
+________________
+
+
+What You’ll Do
+Blockchain & Smart Contract Development
+* Design, develop, and maintain blockchain-based applications and smart contracts
+* Build secure decentralized systems supporting digital asset and transaction workflows
+* Develop smart contract integrations, token systems, and on-chain infrastructure
+* Implement wallet connectivity and blockchain interaction layers
+* Write clean, secure, and production-ready code
+Platform & Infrastructure Engineering
+* Build scalable backend services and APIs supporting blockchain applications
+* Improve blockchain infrastructure reliability, scalability, and operational performance
+* Support distributed systems, node infrastructure, and cloud-native deployments
+* Optimize transaction processing, monitoring, and system observability
+* Participate in architecture reviews and technical planning discussions
+Collaboration & Leadership
+* Collaborate cross-functionally with frontend, backend, DevOps, and product teams
+* Participate in code reviews and technical mentorship
+* Take ownership of engineering initiatives from development through deployment
+* Contribute to blockchain engineering standards and security best practices
+________________
+
+
+What We’re Looking For
+Required Experience
+* 5+ years of professional software engineering experience
+* Strong experience with blockchain development and decentralized applications
+* Expertise in:
+   * Solidity
+   * Ethereum or EVM-compatible ecosystems
+   * smart contract development
+   * Web3 integrations
+   * decentralized system architecture
+* Experience building scalable APIs, backend systems, and blockchain services
+* Strong understanding of:
+   * blockchain consensus and transaction workflows
+   * wallet infrastructure and token standards
+   * distributed systems and scalability
+   * smart contract security best practices
+   * cloud-native infrastructure and deployment workflows
+* Familiarity with databases, CI/CD pipelines, and containerized environments
+* Strong communication and problem-solving skills
+________________
+
+
+Preferred Experience
+● Experience working with DeFi, digital asset platforms, or blockchain infrastructure products
+● Familiarity with Layer 2 ecosystems, cross-chain systems, or interoperability solutions
+● Experience with Rust, Go, Node.js, or TypeScript
+● Experience with Hardhat, Foundry, ethers.js, or Web3 tooling
+● Experience with AWS, Docker, Kubernetes, or distributed cloud infrastructure
+● Startup or high-growth Web3 engineering environment experience
+________________
+
+
+Tech Environment
+Blockchain & Web3
+Solidity • Ethereum • EVM • Hardhat • Foundry • ethers.js
+Backend & Infrastructure
+Node.js • TypeScript • Go • Rust • REST APIs
+Cloud & DevOps
+AWS • Docker • Kubernetes • CI/CD
+Database & Messaging
+PostgreSQL • Redis • Kafka
+Tools & Collaboration
+GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation
+✨ High-impact engineering ownership
+✨ Collaborative and innovation-driven culture
+✨ Opportunity to work on modern blockchain and digital infrastructure platforms
+✨ Long-term growth and leadership opportunities
+________________
+
+
+Apply
+If you are passionate about blockchain engineering, decentralized systems, and building scalable Web3 infrastructure powering modern digital platforms, we’d love to connect with you.

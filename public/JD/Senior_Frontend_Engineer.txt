@@ -1,0 +1,83 @@
+﻿Senior Frontend Engineer
+Fintech Infrastructure & Commerce Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+👨‍💻 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management and technology-focused firm supporting innovative companies across fintech, digital infrastructure, and emerging technology sectors.
+We collaborate on projects connected to Stripe’s ecosystem, helping build scalable payment platforms, developer-focused products, financial infrastructure, and next-generation commerce experiences used by global businesses and modern digital platforms.
+We are expanding our engineering team and looking for talented frontend engineers passionate about building modern, high-performance web applications at scale.
+________________
+
+
+The Opportunity
+We are seeking a Senior Frontend Engineer to help design and develop modern frontend applications across fintech platforms, payment systems, and developer tools.
+You will work closely with product managers, designers, and backend engineers to create intuitive, scalable, and reliable user experiences powering next-generation financial technology products.
+This role offers strong technical ownership, collaborative product development, and the opportunity to contribute to impactful infrastructure projects.
+________________
+
+
+What You’ll Do
+Frontend Development
+* Build scalable and high-performance web applications using React, Next.js, and TypeScript
+* Develop responsive, accessible, and reusable UI components
+* Create intuitive user experiences for fintech, payments, and commerce platforms
+* Integrate frontend systems with APIs and backend services
+Architecture & Performance
+* Contribute to frontend architecture and technical decision-making
+* Optimize application performance, scalability, and maintainability
+* Improve frontend workflows, tooling, and developer experience
+* Maintain clean, testable, and well-documented codebases
+Collaboration & Leadership
+* Collaborate cross-functionally with product, design, and engineering teams
+* Participate in code reviews and technical planning
+* Mentor engineers and contribute to frontend best practices
+* Take ownership of frontend features and initiatives end-to-end
+________________
+
+
+What We’re Looking For
+Required Experience
+* 5+ years of professional frontend engineering experience
+* Strong expertise in React, Next.js, TypeScript, JavaScript, HTML, and CSS
+* Experience building scalable web applications and reusable component systems
+* Strong understanding of frontend architecture, state management, and API integrations
+* Experience optimizing frontend performance and accessibility
+* Familiarity with Git, CI/CD pipelines, and modern development workflows
+* Strong communication and collaboration skills
+Nice to Have
+* Experience working in fintech, payments, SaaS, or infrastructure platforms
+* Familiarity with Stripe APIs or payment systems
+* Experience with Tailwind CSS, design systems, or component libraries
+* Startup or high-growth product experience
+* Understanding of frontend security and authentication workflows
+________________
+
+
+Tech Stack
+Frontend
+React • Next.js • TypeScript • Tailwind CSS
+Infrastructure & Tools
+REST APIs • GraphQL • Git • CI/CD • AWS
+Collaboration
+Figma • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation
+✨ High-impact technical ownership
+✨ Modern engineering culture and collaborative environment
+✨ Opportunity to work on innovative fintech and infrastructure projects
+✨ Long-term growth and leadership opportunities
+________________
+
+
+Apply
+If you enjoy building modern frontend experiences and scalable digital products used at global scale, we’d love to connect with you.

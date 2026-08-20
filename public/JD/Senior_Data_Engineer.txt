@@ -1,0 +1,115 @@
+﻿Senior Data Engineer
+Data Platforms, Analytics Infrastructure & Scalable Systems
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+📊 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, digital infrastructure, commerce, and emerging technology sectors.
+Through strategic investments and partnerships, we help advance the development of modern financial services, developer platforms, data-driven products, and scalable technology solutions used by businesses worldwide.
+We are seeking an experienced Senior Data Engineer to design and build robust data platforms that enable analytics, operational intelligence, and informed decision-making across complex business environments.
+________________
+
+
+The Opportunity
+As a Senior Data Engineer, you will play a critical role in architecting and scaling data infrastructure that powers reporting, analytics, machine learning initiatives, and business operations.
+You will collaborate closely with software engineers, data analysts, product teams, and stakeholders to build reliable data pipelines, optimize data systems, and ensure high standards for data quality and accessibility.
+This role offers significant technical ownership and the opportunity to shape the future of data engineering within a growing technology ecosystem.
+________________
+
+
+What You'll Do
+Data Platform Engineering
+* Design, build, and maintain scalable data pipelines and ETL/ELT workflows
+* Develop and optimize data models that support analytical and operational use cases
+* Integrate data from multiple internal and external sources into centralized platforms
+* Ensure the availability, integrity, and consistency of business-critical datasets
+* Implement data processing solutions capable of handling large-scale workloads
+Data Architecture & Infrastructure
+* Contribute to the design and evolution of modern data architectures
+* Build and maintain cloud-based data warehouses and lakehouse environments
+* Optimize data storage, transformation, and retrieval processes
+* Establish standards for data governance, documentation, and lineage
+* Improve platform scalability, reliability, and performance
+Collaboration & Analytics Enablement
+* Partner with Data Analysts, Product Managers, and Engineering teams to understand data requirements
+* Support reporting, dashboarding, and business intelligence initiatives
+* Enable self-service analytics capabilities through well-structured datasets
+* Provide guidance on best practices for data management and usage
+* Translate complex technical concepts into actionable business insights
+Quality & Operational Excellence
+* Implement automated validation and monitoring processes for data pipelines
+* Identify and resolve data quality issues proactively
+* Participate in incident response and root cause analysis activities
+* Contribute to CI/CD practices and infrastructure automation initiatives
+* Promote engineering excellence through documentation and knowledge sharing
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of professional experience in data engineering or related fields
+* Proven experience building and maintaining production-grade data pipelines
+* Strong understanding of modern data architecture principles
+* Experience supporting large-scale analytical environments
+Technical Expertise
+Strong experience with:
+* SQL and advanced database concepts
+* Python for data engineering applications
+* ETL/ELT pipeline development
+* Data modeling and schema design
+* Workflow orchestration tools
+* Data warehousing concepts
+* Batch and stream processing methodologies
+* Performance optimization and troubleshooting
+Strong understanding of:
+* Data governance and quality practices
+* Cloud-based data platforms
+* Distributed data processing systems
+* Security and privacy considerations for data systems
+* Software engineering best practices within data environments
+________________
+
+
+Preferred Qualifications
+● Experience working in fintech, payments, investment management, or SaaS environments
+● Familiarity with transaction data, financial reporting, or operational analytics
+● Experience with Snowflake, BigQuery, Redshift, or Databricks
+● Experience with Apache Spark, Kafka, or other distributed data technologies
+● Experience supporting machine learning workflows and feature engineering pipelines
+● Experience working in startup or high-growth technology environments
+________________
+
+
+Technology Environment
+Programming & Processing
+Python • SQL • Apache Spark • PySpark
+Data Platforms
+Snowflake • Databricks • BigQuery • Amazon Redshift
+Orchestration & Streaming
+Airflow • Kafka • dbt
+Cloud & Infrastructure
+AWS • Azure • GCP • Docker • CI/CD
+Visualization & Collaboration
+Looker • Tableau • GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to build and scale modern data platforms
+✨ Exposure to innovative fintech and emerging technology initiatives
+✨ Collaborative and data-driven culture
+✨ Career advancement and technical leadership opportunities
+✨ Strong investment in continuous learning and professional growth
+________________
+
+
+Apply
+If you are passionate about building scalable data systems, enabling data-driven decision-making, and solving complex engineering challenges, we'd love to connect with you.

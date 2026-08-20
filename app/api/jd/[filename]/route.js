@@ -4,13 +4,9 @@ import { NextResponse } from "next/server";
 
 export async function GET(request, { params }) {
   const { filename } = await params;
-
-  // Decode the filename from the URL (handles %20, %28, %26 etc.)
   const decoded = decodeURIComponent(filename);
-
-  // Sanitize: strip any path traversal attempts
+  // Strip any path traversal
   const safe = decoded.replace(/[/\\]/g, "");
-
   const filePath = join(process.cwd(), "public", "jd", safe);
 
   try {
@@ -18,7 +14,7 @@ export async function GET(request, { params }) {
     return new NextResponse(buffer, {
       status: 200,
       headers: {
-        "Content-Type": "application/pdf",
+        "Content-Type": "text/plain; charset=utf-8",
         "Content-Disposition": `inline; filename="${safe}"`,
         "Cache-Control": "public, max-age=86400",
       },

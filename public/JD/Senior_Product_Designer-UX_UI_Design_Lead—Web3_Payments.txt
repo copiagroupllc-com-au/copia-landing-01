@@ -1,0 +1,81 @@
+﻿Senior Product Designer / UX/UI Design Lead — Web3 Payments
+Location: Australia / Remote
+Employment Type: Full-time
+Department: Product & Design
+Level: Senior / Lead
+About Copia Group
+Copia Group is building a Web3 fintech and payments platform — essentially “Stripe for Web3.”
+Our goal is to make blockchain-based payments and financial products feel as simple, intuitive, and trustworthy as the best modern fintech products. As we expand internationally, including our planned Australia presence, we're looking for a senior product designer who can help shape the user experience from the ground up.
+About the Role
+We're looking for a Senior Product Designer / UX/UI Design Lead to own the design experience across our Web3 payments platform.
+You'll work closely with Product, Engineering, Business Development, and leadership to turn complex blockchain and financial workflows into simple, intuitive, and user-friendly experiences.
+This is a hands-on leadership role. You'll have significant ownership over product discovery, UX strategy, design systems, prototyping, and the final product experience.
+Key Responsibilities
+* Own UX/UI design across key products and payment experiences.
+* Translate complex Web3, blockchain, and fintech concepts into simple user experiences.
+* Lead the design process from research → discovery → wireframes → prototypes → UI → production.
+* Work closely with Product Managers and Engineers to define product requirements and user journeys.
+* Conduct user research, interviews, usability testing, and competitive analysis.
+* Create high-fidelity prototypes and production-ready designs in Figma.
+* Build and evolve a scalable design system across web and mobile products.
+* Establish UX standards and design principles for the organization.
+* Collaborate with engineering teams to ensure designs are implemented accurately.
+* Use product analytics and user feedback to continuously improve the experience.
+* Mentor and provide design direction to other designers as the team grows.
+* Contribute to product strategy and roadmap discussions.
+* Help define the UX vision for Copia's Web3 payments ecosystem.
+What We're Looking For
+* 6+ years of experience in UX/UI, Product Design, or a related field.
+* Strong experience designing complex digital products, ideally fintech, payments, SaaS, Web3, or financial applications.
+* Experience taking products from 0 → 1.
+* Strong understanding of UX research, interaction design, information architecture, and visual design.
+* Excellent proficiency with Figma and modern design workflows.
+* Experience creating and maintaining design systems.
+* Strong understanding of responsive web and mobile design.
+* Ability to communicate design decisions clearly to technical and non-technical stakeholders.
+* Experience collaborating closely with engineering and product teams.
+* Strong product thinking and ability to balance user needs, business objectives, and technical constraints.
+* Comfortable working in a fast-moving startup environment.
+Web3 / Fintech Experience
+Web3 experience is strongly preferred, particularly experience with:
+* Crypto wallets and onboarding
+* Blockchain applications / DApps
+* DeFi
+* Tokenization
+* Stablecoins
+* Web3 payments
+* Trading or financial products
+* Blockchain-based identity
+* Crypto exchanges
+* On-chain transactions
+You don't need to be a blockchain engineer, but you should be comfortable understanding blockchain concepts and translating technical complexity into an excellent user experience.
+Nice to Have
+* Experience leading or mentoring designers.
+* Experience working on payments or financial infrastructure.
+* Experience designing products for international markets.
+* Experience with Web3 wallet UX and transaction flows.
+* Experience with design analytics and experimentation.
+* Experience working with engineering teams on design systems and component libraries.
+* Startup or 0→1 product experience.
+What You'll Own
+You will have ownership of:
+Product UX → Design System → User Journeys → Prototypes → UI → Design Quality → Continuous UX Improvement
+You'll play an important role in defining how users interact with Copia's "Stripe for Web3" platform.
+Why Join Copia Group?
+* Build a product at the intersection of Fintech, Payments, and Web3.
+* Significant ownership and influence over product direction.
+* Work on a 0→1 platform rather than simply maintaining an existing product.
+* Collaborate directly with product, engineering, and leadership teams.
+* Opportunity to help define the UX standards for a new generation of Web3 financial products.
+* International growth with Australia expansion.
+* Opportunity to grow into a broader Design Leadership / Head of Product Design position as the organization scales.
+Success in the First 6 Months
+You will have:
+* Established the core UX principles for the platform.
+* Designed key payment and onboarding journeys.
+* Created or strengthened the company's design system.
+* Established a repeatable research and design process.
+* Worked closely with engineering to bring designs into production.
+* Improved the usability of complex Web3 payment workflows.
+* Helped define the product experience and design roadmap for future releases.
+Ideal candidate: A senior product designer who can combine strong UX craft, product thinking, Web3 understanding, and design leadership to make complex financial technology feel remarkably simple.

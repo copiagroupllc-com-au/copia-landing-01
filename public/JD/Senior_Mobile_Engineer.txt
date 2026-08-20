@@ -1,0 +1,101 @@
+﻿Senior Mobile Engineer
+Fintech Infrastructure & Commerce Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+📱 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management and technology-focused firm supporting innovative companies across fintech, digital infrastructure, and emerging technology sectors.
+We collaborate on projects connected to Stripe’s ecosystem, helping build scalable payment systems, financial infrastructure, developer-focused platforms, and next-generation commerce solutions used by businesses globally.
+We are expanding our mobile engineering organization and seeking experienced mobile engineers passionate about building scalable, high-performance mobile applications and digital experiences.
+________________
+
+
+The Opportunity
+We are seeking a Senior Mobile Engineer to help design, develop, and scale mobile applications powering fintech and commerce platforms.
+In this role, you will work closely with product managers, designers, backend engineers, and platform teams to deliver secure, intuitive, and high-performance mobile experiences across iOS and Android platforms.
+This is a high-impact engineering role offering strong ownership, technical influence, and the opportunity to contribute directly to modern financial technology products used at scale.
+________________
+
+
+What You’ll Do
+Mobile Application Development
+* Design, build, and maintain scalable mobile applications for iOS and Android
+* Develop responsive and high-performance mobile experiences using modern frameworks and native technologies
+* Integrate mobile applications with APIs, backend services, and cloud infrastructure
+* Write clean, maintainable, and production-ready code
+* Collaborate with product and design teams to deliver polished user experiences
+Architecture & Performance
+* Contribute to mobile architecture and technical strategy
+* Optimize application performance, scalability, reliability, and usability
+* Improve mobile development workflows, testing, and release processes
+* Support application monitoring, debugging, and operational stability
+* Participate in technical planning, architecture reviews, and engineering discussions
+Collaboration & Leadership
+* Participate in code reviews and mentorship across engineering teams
+* Collaborate cross-functionally with backend, DevOps, product, and design teams
+* Take ownership of mobile features and technical initiatives end-to-end
+* Help establish mobile engineering standards and best practices
+________________
+
+
+What We’re Looking For
+Required Experience
+* 5+ years of professional mobile engineering experience
+* Strong experience building iOS and/or Android applications
+* Experience with:
+   * React Native
+   * Swift / SwiftUI
+   * Kotlin / Android SDK
+   * mobile architecture patterns
+   * REST APIs and backend integrations
+* Strong understanding of:
+   * mobile performance optimization
+   * scalable application architecture
+   * mobile security best practices
+   * testing and deployment workflows
+   * responsive and accessible UI development
+* Experience publishing and maintaining production mobile applications
+* Familiarity with Git, CI/CD pipelines, and cloud-based development workflows
+* Strong communication and problem-solving skills
+________________
+
+
+Preferred Experience
+● Experience working in fintech, payments, SaaS, or infrastructure platforms
+● Familiarity with Stripe APIs, mobile payments, or financial systems
+● Experience with Firebase, GraphQL, or real-time application features
+● Experience with AWS, Docker, or cloud-native backend systems
+● Startup or high-growth engineering environment experience
+● Experience building developer-focused or transaction-heavy mobile applications
+________________
+
+
+Tech Environment
+Mobile
+React Native • Swift • SwiftUI • Kotlin • Android SDK
+Backend & APIs
+REST APIs • GraphQL • Node.js • Python
+Infrastructure
+AWS • Firebase • CI/CD • Cloud Services
+Tools & Collaboration
+GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation
+✨ High-impact engineering ownership
+✨ Collaborative and engineering-driven culture
+✨ Opportunity to work on innovative fintech and infrastructure platforms
+✨ Long-term growth and leadership opportunities
+________________
+
+
+Apply
+If you are passionate about mobile engineering, scalable applications, and building modern digital experiences powering financial technology platforms, we’d love to connect with you.

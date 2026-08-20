@@ -1,0 +1,127 @@
+﻿Senior Web3 Frontend Engineer
+Decentralized Applications, Web3 User Experiences & Blockchain Interfaces
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🌐 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across blockchain, fintech, AI, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of decentralized technologies, digital asset ecosystems, and next-generation financial platforms. Our portfolio includes organizations building Web3 applications, DeFi protocols, blockchain infrastructure, and developer platforms that are shaping the future of digital ownership and global commerce.
+We are seeking an experienced Senior Web3 Frontend Engineer to build intuitive, secure, and high-performance user experiences for decentralized applications and blockchain-powered products.
+________________
+
+
+The Opportunity
+As a Senior Web3 Frontend Engineer, you will lead the development of modern frontend applications that connect users with decentralized ecosystems. You will collaborate closely with Product Managers, Designers, Smart Contract Engineers, and Backend Developers to deliver seamless blockchain experiences across wallets, DeFi protocols, NFT platforms, and DAO applications.
+This role offers significant ownership, architectural influence, and the opportunity to work on cutting-edge Web3 technologies while helping define the future of decentralized user experiences.
+________________
+
+
+What You'll Do
+Frontend Development
+* Design, develop, and maintain scalable Web3 applications using modern frontend technologies
+* Build responsive, accessible, and high-performance user interfaces
+* Create reusable UI components and design system integrations
+* Optimize application performance across desktop and mobile devices
+* Deliver clean, maintainable, and production-ready code
+Web3 Integration
+* Integrate decentralized applications with blockchain networks and smart contracts
+* Implement wallet connectivity using MetaMask, WalletConnect, and embedded wallet solutions
+* Develop interfaces for token transactions, staking, governance, NFTs, and DeFi products
+* Build real-time blockchain data experiences using on-chain and off-chain services
+* Collaborate with smart contract teams to deliver seamless end-to-end functionality
+Architecture & Engineering Excellence
+* Define frontend architecture and technical best practices for Web3 applications
+* Improve testing strategies, performance monitoring, and deployment processes
+* Ensure applications meet high standards for security, accessibility, and usability
+* Participate in code reviews and technical design discussions
+* Drive continuous improvements across development workflows and engineering practices
+Collaboration & Mentorship
+* Work closely with Product, Design, Backend, and Blockchain Engineering teams
+* Mentor junior developers through technical guidance and code reviews
+* Participate in sprint planning, technical estimation, and roadmap discussions
+* Contribute to a collaborative and innovation-driven engineering culture
+* Stay informed on emerging Web3 technologies and ecosystem developments
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of professional frontend software engineering experience
+* 2+ years of experience building Web3 or blockchain-enabled applications
+* Proven experience delivering production-grade web applications at scale
+* Experience working in Agile and fast-paced development environments
+Technical Expertise
+Strong experience with:
+* React
+* TypeScript
+* Next.js
+* JavaScript (ES6+)
+* HTML5 and CSS3
+* Tailwind CSS or modern UI frameworks
+* State management libraries
+* REST APIs and GraphQL
+Strong experience with Web3 technologies:
+* ethers.js
+* viem
+* wagmi
+* Web3.js
+* MetaMask integrations
+* WalletConnect
+* Smart contract interactions
+* EVM-compatible ecosystems
+Strong understanding of:
+* Decentralized application architecture
+* DeFi and DAO user experiences
+* Token standards (ERC-20, ERC-721, ERC-1155)
+* Blockchain transaction lifecycles
+* Web application security best practices
+* Frontend performance optimization
+* Accessibility standards (WCAG)
+________________
+
+
+Preferred Qualifications
+● Experience building DeFi platforms, NFT marketplaces, DAO dashboards, or staking applications
+● Familiarity with Layer 2 ecosystems including Arbitrum, Optimism, Base, Polygon, and zkSync
+● Experience using Web3 infrastructure providers such as Alchemy, Infura, QuickNode, or The Graph
+● Experience integrating hardware wallets and multi-signature wallet solutions
+● Experience with Storybook, design systems, and component libraries
+● Contributions to open-source Web3 projects or active participation in blockchain communities
+________________
+
+
+Technology Environment
+Frontend Technologies
+React • TypeScript • Next.js • Tailwind CSS • Storybook
+Web3 Stack
+ethers.js • viem • wagmi • Web3.js • MetaMask • WalletConnect
+Blockchain Ecosystems
+Ethereum • Base • Arbitrum • Optimism • Polygon • zkSync
+Backend & APIs
+GraphQL • REST APIs • Node.js
+Cloud & DevOps
+AWS • Docker • Vercel • GitHub Actions • CI/CD
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to build innovative Web3 products with real-world impact
+✨ Exposure to cutting-edge blockchain, DeFi, and digital asset initiatives
+✨ Collaborative, engineering-first culture focused on ownership and innovation
+✨ Career advancement into Staff Engineer, Frontend Architect, or Engineering Leadership
+✨ Strong investment in continuous learning, open-source contribution, and emerging technologies
+________________
+
+
+Apply
+If you are passionate about building exceptional Web3 user experiences, decentralized applications, and modern frontend platforms that shape the future of the internet, we'd love to connect with you.

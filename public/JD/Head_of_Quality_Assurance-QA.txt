@@ -1,0 +1,120 @@
+﻿Head of Quality Assurance (QA)
+Quality Engineering, Test Strategy & Engineering Excellence
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🏆 Executive Leadership
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, blockchain, AI, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of technology-driven businesses by providing strategic guidance and operational support. Our portfolio companies build secure, scalable software platforms that demand exceptional quality, reliability, and performance.
+We are seeking an experienced Head of Quality Assurance (QA) to define and execute our quality strategy, build world-class QA organizations, and establish engineering practices that ensure every product meets the highest standards before reaching customers.
+________________
+
+
+The Opportunity
+As the Head of QA, you will lead the organization's quality engineering function, overseeing test strategy, automation, release quality, and continuous improvement across multiple product teams. You'll partner closely with Engineering, Product, DevOps, Security, and Executive Leadership to create a quality-first culture and scalable testing practices.
+This is a leadership role for someone who combines deep technical expertise with operational excellence and a passion for mentoring high-performing QA teams.
+________________
+
+
+What You'll Do
+Quality Leadership
+* Define and execute the company's overall Quality Assurance and Quality Engineering strategy
+* Build, lead, and mentor high-performing QA Engineers, Automation Engineers, and QA Managers
+* Establish quality standards, testing methodologies, and engineering best practices
+* Develop career growth plans, performance management, and team development initiatives
+* Foster a culture of quality, accountability, collaboration, and continuous improvement
+Test Strategy & Automation
+* Define scalable test automation strategies across web, mobile, backend, and API platforms
+* Lead the adoption of automation-first testing practices throughout the SDLC
+* Establish comprehensive testing frameworks covering functional, regression, integration, performance, and security testing
+* Improve test coverage, execution efficiency, and release confidence
+* Drive continuous improvements in testing tools and engineering processes
+Quality Operations
+* Oversee quality planning throughout the software development lifecycle
+* Define QA metrics, KPIs, and reporting for engineering leadership
+* Monitor release quality and proactively identify product risks
+* Lead defect management, root cause analysis, and continuous quality improvement initiatives
+* Ensure predictable, high-quality software releases across multiple teams
+Cross-Functional Collaboration
+* Partner with Engineering and Product Leadership on release planning and product quality objectives
+* Collaborate with DevOps teams to integrate automated testing into CI/CD pipelines
+* Work closely with Security and Infrastructure teams on compliance, reliability, and operational quality
+* Participate in architecture reviews and technical planning sessions
+* Advocate for customer-focused quality improvements throughout the organization
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 10+ years of professional experience in Software Quality Assurance or Quality Engineering
+* 5+ years of leadership experience managing QA organizations or multiple QA teams
+* Proven experience building and scaling enterprise QA functions
+* Experience leading quality initiatives for SaaS, cloud, fintech, or enterprise software products
+* Strong background working in Agile software development environments
+Technical Expertise
+Strong experience with:
+* Test Automation Frameworks
+* API Testing
+* UI Automation
+* Performance Testing
+* Regression Testing
+* CI/CD Integration
+* Test Strategy & Planning
+* Quality Metrics & Reporting
+Strong understanding of:
+* Software Development Lifecycle (SDLC)
+* Agile and Scrum methodologies
+* Quality Engineering principles
+* Continuous Testing
+* Shift-Left Testing
+* Test-Driven Development (TDD)
+* Behavior-Driven Development (BDD)
+* Security and performance testing best practices
+________________
+
+
+Preferred Qualifications
+● Experience leading QA organizations supporting fintech, blockchain, AI, or enterprise software platforms
+● Strong experience with Selenium, Playwright, Cypress, Appium, Postman, or REST Assured
+● Experience implementing automated testing within Kubernetes and cloud-native environments
+● Familiarity with performance testing tools such as JMeter, k6, or Gatling
+● Experience with DevSecOps, compliance testing, and regulated technology environments
+● ISTQB Advanced Certification or equivalent quality certifications are a plus
+________________
+
+
+Technology Environment
+Test Automation
+Playwright • Cypress • Selenium • Appium • REST Assured • Postman
+Performance & Security
+JMeter • k6 • Gatling • OWASP ZAP • Burp Suite
+CI/CD & DevOps
+GitHub Actions • Jenkins • GitLab CI • Azure DevOps
+Cloud & Infrastructure
+AWS • Azure • Google Cloud Platform • Docker • Kubernetes
+Monitoring & Analytics
+Grafana • Prometheus • Datadog • New Relic
+Tools & Collaboration
+Jira • Confluence • GitHub • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive executive-level compensation package
+✨ Opportunity to define quality strategy across innovative technology companies
+✨ Exposure to fintech, blockchain, AI, cloud, and emerging technology initiatives
+✨ Collaborative, engineering-first culture focused on innovation, reliability, and customer success
+✨ Career advancement into VP of Engineering, Chief Technology Officer (CTO), or Chief Quality Officer (CQO)
+✨ Strong investment in leadership development, automation innovation, and continuous professional growth
+________________
+
+
+Apply
+If you are passionate about building world-class quality organizations, leading engineering excellence, and delivering reliable software at scale, we'd love to connect with you.

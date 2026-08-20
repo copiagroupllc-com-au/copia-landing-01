@@ -1,0 +1,115 @@
+﻿Senior Blockchain Engineer (Rust)
+Web3 Infrastructure, Protocol Development & Digital Asset Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🦀⛓️ Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, blockchain, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help advance the development of decentralized technologies, digital asset ecosystems, and next-generation financial platforms shaping the future of global commerce.
+We are seeking an experienced Senior Blockchain Engineer (Rust) to build secure, scalable, and high-performance blockchain solutions that support modern Web3 applications and infrastructure initiatives.
+________________
+
+
+The Opportunity
+As a Senior Blockchain Engineer specializing in Rust, you will play a critical role in designing and developing blockchain protocols, smart contract systems, and decentralized applications.
+You will work closely with product leaders, researchers, and engineering teams to deliver innovative blockchain solutions while driving technical excellence across distributed systems and digital asset platforms.
+This role offers significant technical ownership, architectural influence, and the opportunity to contribute to the evolution of blockchain technologies at scale.
+________________
+
+
+What You'll Do
+Blockchain & Protocol Engineering
+* Design, develop, and maintain blockchain applications using Rust
+* Build secure and efficient smart contract solutions for decentralized ecosystems
+* Develop core protocol components, validators, and node-related services
+* Implement wallet integrations and blockchain interaction layers
+* Write clean, maintainable, and production-ready code for mission-critical systems
+Distributed Systems & Infrastructure
+* Architect scalable backend services supporting blockchain applications
+* Optimize transaction processing, network performance, and system reliability
+* Develop event-driven services and infrastructure components
+* Improve monitoring, observability, and operational resilience across blockchain environments
+* Support cloud-native deployment strategies and infrastructure automation initiatives
+Security & Quality
+* Apply blockchain security best practices throughout the development lifecycle
+* Conduct code reviews, testing activities, and smart contract validation processes
+* Identify vulnerabilities and proactively address technical risks
+* Collaborate with internal teams and external auditors to strengthen platform security
+* Promote engineering excellence and quality standards across projects
+Leadership & Collaboration
+* Mentor engineers and contribute to technical knowledge sharing initiatives
+* Participate in architecture reviews and strategic technology discussions
+* Work cross-functionally with product, infrastructure, and research teams
+* Take ownership of projects from concept through deployment and maintenance
+* Contribute to the continuous improvement of engineering practices and development workflows
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of professional software engineering experience
+* 2+ years of experience building blockchain or distributed systems applications
+* Strong experience developing production systems using Rust
+* Proven track record delivering scalable and secure software solutions
+Technical Expertise
+Strong experience with:
+* Rust programming language
+* Blockchain architecture and decentralized systems
+* Smart contract development concepts
+* Distributed systems design
+* API development and backend engineering
+* Event-driven architectures
+* Performance optimization and concurrency models
+* Security best practices for blockchain applications
+Strong understanding of:
+* Consensus mechanisms and transaction lifecycles
+* Digital asset ecosystems and token standards
+* Cryptographic principles and blockchain fundamentals
+* Infrastructure automation and cloud-native environments
+* CI/CD pipelines and software delivery processes
+________________
+
+
+Preferred Qualifications
+● Experience working with Solana, Polkadot, Substrate, NEAR, or other Rust-based blockchain ecosystems
+● Familiarity with Ethereum and EVM interoperability concepts
+● Experience building DeFi applications, staking systems, or blockchain infrastructure products
+● Experience with Docker, Kubernetes, Terraform, and cloud platforms such as AWS or GCP
+● Experience working in fintech, Web3 startups, or high-growth technology environments
+● Contributions to open-source blockchain projects or developer communities
+________________
+
+
+Technology Environment
+Blockchain & Protocols
+Rust • Solana • Substrate • Polkadot • NEAR • Web3
+Backend & Infrastructure
+REST APIs • gRPC • Distributed Systems • Event-Driven Architecture
+Cloud & DevOps
+AWS • Docker • Kubernetes • Terraform • CI/CD
+Data & Messaging
+PostgreSQL • Redis • Kafka
+Tools & Collaboration
+GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to build cutting-edge blockchain infrastructure
+✨ Exposure to innovative Web3 and digital asset initiatives
+✨ Collaborative and engineering-driven culture
+✨ Career advancement and technical leadership opportunities
+✨ Strong emphasis on ownership, innovation, and continuous learning
+________________
+
+
+Apply
+If you are passionate about Rust development, decentralized technologies, and building secure blockchain systems that power the next generation of digital experiences, we'd love to connect with you.

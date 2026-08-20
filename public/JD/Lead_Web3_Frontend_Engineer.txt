@@ -1,0 +1,129 @@
+﻿Lead Web3 Frontend Engineer
+Decentralized Applications, Modern Frontend Architecture & Technical Leadership
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🌐 Lead Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across blockchain, fintech, AI, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of decentralized technologies, digital asset ecosystems, and next-generation financial platforms. Our portfolio companies build Web3 infrastructure, DeFi protocols, DAOs, NFT platforms, tokenized ecosystems, and decentralized applications that are redefining how users interact with the digital economy.
+We are seeking an experienced Lead Web3 Frontend Engineer to lead the development of modern, secure, and scalable decentralized applications while mentoring engineering teams and driving frontend architecture across innovative Web3 products.
+________________
+
+
+The Opportunity
+As a Lead Web3 Frontend Engineer, you will combine hands-on development with technical leadership to build world-class decentralized user experiences. You'll collaborate closely with Product Managers, Designers, Blockchain Engineers, Backend Engineers, and DevOps teams to deliver intuitive, high-performance applications that seamlessly integrate with blockchain networks.
+This role offers significant ownership over frontend architecture, Web3 integrations, engineering standards, and user experience while providing opportunities to mentor developers and shape the future of decentralized applications.
+________________
+
+
+What You'll Do
+Frontend Development
+* Design, develop, and maintain scalable Web3 applications using modern frontend technologies
+* Build responsive, accessible, and high-performance user interfaces for desktop and mobile browsers
+* Develop reusable UI components, design systems, and frontend libraries
+* Integrate REST APIs, GraphQL services, and blockchain data into frontend applications
+* Write clean, maintainable, and thoroughly tested production code
+Web3 Integration
+* Build seamless wallet connectivity using WalletConnect, MetaMask, Coinbase Wallet, and other providers
+* Integrate smart contracts into frontend applications using modern Web3 libraries
+* Develop secure transaction workflows, wallet authentication, and blockchain interactions
+* Build interfaces for DeFi platforms, DAOs, NFT marketplaces, staking, governance, and digital asset management
+* Optimize blockchain interactions for performance, scalability, and user experience
+Technical Leadership
+* Lead frontend architecture discussions and technical design reviews
+* Define engineering standards, coding guidelines, and frontend best practices
+* Mentor Frontend Engineers through code reviews, technical coaching, and knowledge sharing
+* Drive frontend modernization initiatives and evaluate emerging technologies
+* Promote security, accessibility, and engineering excellence across projects
+Platform & Collaboration
+* Partner with Product Managers to transform business requirements into intuitive user experiences
+* Collaborate with Blockchain Engineers to integrate smart contracts and decentralized infrastructure
+* Work closely with Designers to implement pixel-perfect interfaces and design systems
+* Coordinate with DevOps teams to improve deployment pipelines and application performance
+* Participate in sprint planning, technical estimation, and roadmap development
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 7+ years of professional frontend software engineering experience
+* 3+ years of hands-on Web3 frontend development experience
+* 2+ years of technical leadership or lead engineering experience
+* Proven experience building production-grade decentralized applications (dApps)
+* Experience working within Agile software development environments
+Technical Expertise
+Strong experience with:
+* TypeScript
+* JavaScript (ES6+)
+* React
+* Next.js
+* Tailwind CSS
+* Redux, Zustand, or React Query
+* REST APIs and GraphQL
+* Git
+Strong experience with Web3 technologies:
+* Ethereum
+* EVM-compatible networks
+* ethers.js or viem
+* Wagmi
+* WalletConnect
+* MetaMask
+* Smart contract integration
+* Web3 authentication
+Strong understanding of:
+* Modern frontend architecture
+* Component-driven development
+* Responsive and accessible UI design
+* Blockchain transaction lifecycle
+* DeFi ecosystems
+* NFT standards and digital assets
+* Secure frontend development
+* Performance optimization and code splitting
+________________
+
+
+Preferred Qualifications
+● Experience building DeFi platforms, DAO governance portals, NFT marketplaces, token launchpads, or blockchain wallets
+● Familiarity with Layer 2 ecosystems including Arbitrum, Optimism, Base, Polygon, Avalanche, or zkSync
+● Experience with Solidity and smart contract development concepts
+● Experience using The Graph, Alchemy, Infura, QuickNode, or Chainlink
+● Knowledge of Next.js Server Components, SSR, ISR, and edge deployments
+● Contributions to open-source Web3 projects or active participation in the blockchain developer community
+________________
+
+
+Technology Environment
+Frontend Technologies
+React • Next.js • TypeScript • JavaScript • Tailwind CSS • Zustand • React Query
+Web3 Development
+Ethereum • EVM • ethers.js • viem • Wagmi • WalletConnect • MetaMask • RainbowKit
+Blockchain Infrastructure
+The Graph • Alchemy • Infura • QuickNode • Chainlink
+Cloud & DevOps
+AWS • Vercel • Docker • Kubernetes • GitHub Actions
+Testing & Quality
+Playwright • Cypress • Jest • React Testing Library
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to lead the development of next-generation decentralized applications and Web3 platforms
+✨ Exposure to blockchain, DeFi, AI, fintech, and emerging technology initiatives
+✨ Collaborative, engineering-first culture focused on innovation, ownership, and technical excellence
+✨ Career advancement into Staff Engineer, Principal Frontend Engineer, Web3 Architect, Engineering Manager, or Director of Engineering
+✨ Strong investment in leadership development, blockchain education, open-source contributions, industry conferences, and continuous professional growth
+________________
+
+
+Apply
+If you are passionate about building world-class Web3 user experiences, leading frontend engineering teams, and creating decentralized applications that redefine how people interact with blockchain technology, we'd love to connect with you.

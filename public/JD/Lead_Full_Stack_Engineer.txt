@@ -1,0 +1,119 @@
+﻿Lead Full Stack Engineer
+Full Stack Architecture, Cloud-Native Development & Technical Leadership
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🚀 Lead Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, AI, blockchain, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of technology-driven businesses building scalable software platforms, financial services, enterprise applications, and next-generation digital products. Our portfolio companies rely on modern engineering practices to deliver secure, high-performance solutions that serve customers around the globe.
+We are seeking an experienced Lead Full Stack Engineer to lead the design and development of scalable web applications while mentoring engineering teams and driving technical excellence across frontend and backend platforms.
+________________
+
+
+The Opportunity
+As a Lead Full Stack Engineer, you will combine hands-on software development with technical leadership to build modern, cloud-native applications from end to end. You'll collaborate closely with Product Managers, Designers, DevOps Engineers, QA, and Engineering Leadership to architect scalable solutions, improve engineering processes, and deliver exceptional digital experiences.
+This role offers significant ownership over technical direction, software architecture, and engineering standards while providing opportunities to mentor developers and shape the future of our technology platforms.
+________________
+
+
+What You'll Do
+Full Stack Development
+* Design, develop, and maintain scalable frontend and backend applications
+* Build responsive, high-performance user interfaces using modern JavaScript frameworks
+* Develop secure APIs, microservices, and backend services supporting web and mobile applications
+* Deliver clean, maintainable, and well-tested production code
+* Optimize application performance, scalability, and reliability across the technology stack
+Technical Leadership
+* Lead architecture discussions and technical design reviews
+* Establish engineering standards, coding guidelines, and development best practices
+* Mentor engineers through technical coaching, code reviews, and knowledge sharing
+* Drive modernization initiatives and continuous improvement across engineering teams
+* Evaluate emerging technologies and recommend strategic adoption
+Platform & Cloud Engineering
+* Design cloud-native applications and distributed systems
+* Build CI/CD pipelines and deployment automation workflows
+* Improve system observability through monitoring, logging, and performance analysis
+* Collaborate with DevOps teams to optimize infrastructure, security, and scalability
+* Ensure applications meet high standards for availability, reliability, and operational excellence
+Cross-Functional Collaboration
+* Partner with Product Managers to transform business requirements into technical solutions
+* Collaborate with Designers to deliver intuitive and accessible user experiences
+* Work closely with QA and DevOps teams throughout the software development lifecycle
+* Participate in sprint planning, technical estimation, and roadmap development
+* Foster a collaborative, innovation-driven engineering culture
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 7+ years of professional full stack software engineering experience
+* 2+ years of technical leadership or lead engineering experience
+* Proven experience building large-scale web applications and distributed systems
+* Experience working within Agile software development environments
+Technical Expertise
+Strong experience with:
+* TypeScript and JavaScript
+* React, Angular, or Vue.js
+* Node.js, Java, Go, Python, or .NET
+* REST APIs and GraphQL
+* SQL and NoSQL databases
+* Redis
+* Docker
+* Git
+Strong understanding of:
+* Microservices architecture
+* Distributed systems
+* Cloud-native application development
+* API design and security
+* Frontend performance optimization
+* CI/CD pipelines
+* Secure software development practices
+* Software architecture and design patterns
+________________
+
+
+Preferred Qualifications
+● Experience building fintech, SaaS, AI, blockchain, or enterprise software platforms
+● Experience with AWS, Azure, or Google Cloud Platform
+● Familiarity with Kubernetes, Terraform, and Infrastructure as Code
+● Experience with Kafka, RabbitMQ, or event-driven architectures
+● Knowledge of automated testing frameworks across frontend and backend technologies
+● Experience mentoring engineering teams and leading large technical initiatives
+________________
+
+
+Technology Environment
+Frontend Technologies
+React • Next.js • Angular • Vue.js • TypeScript • Tailwind CSS
+Backend Technologies
+Node.js • Java • Go • Python • .NET • NestJS • Spring Boot
+Cloud & Infrastructure
+AWS • Azure • Google Cloud Platform • Docker • Kubernetes • Terraform
+Databases & Messaging
+PostgreSQL • MySQL • MongoDB • Redis • Kafka • RabbitMQ
+DevOps & Observability
+GitHub Actions • Jenkins • Prometheus • Grafana • OpenTelemetry
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to lead the development of modern, cloud-native software platforms
+✨ Exposure to fintech, AI, blockchain, and emerging technology initiatives
+✨ Collaborative, engineering-first culture focused on innovation, ownership, and technical excellence
+✨ Career advancement into Staff Engineer, Principal Engineer, Software Architect, Engineering Manager, or Director of Engineering
+✨ Strong investment in leadership development, continuous learning, mentorship, and technical innovation
+________________
+
+
+Apply
+If you are passionate about building scalable full stack applications, leading engineering teams, and solving complex technical challenges with modern technologies, we'd love to connect with you.

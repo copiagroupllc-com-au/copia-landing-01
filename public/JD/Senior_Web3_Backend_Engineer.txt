@@ -1,0 +1,127 @@
+﻿Senior Web3 Backend Engineer
+Blockchain Infrastructure, Distributed Systems & DeFi Platform Development
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🌐 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across blockchain, fintech, AI, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of decentralized technologies, digital asset ecosystems, and next-generation financial platforms. Our portfolio companies build blockchain infrastructure, DeFi protocols, tokenization platforms, DAO ecosystems, and Web3 applications that are transforming the future of finance and digital ownership.
+We are seeking an experienced Senior Web3 Backend Engineer to design, develop, and scale secure backend systems that power decentralized applications, blockchain infrastructure, and Web3 platforms.
+________________
+
+
+The Opportunity
+As a Senior Web3 Backend Engineer, you will build mission-critical backend services that interact with blockchain networks, smart contracts, wallets, and decentralized protocols. You'll collaborate closely with Smart Contract Engineers, Frontend Developers, DevOps Engineers, Product Managers, and Security teams to deliver scalable, reliable, and secure Web3 applications.
+This role offers significant ownership over backend architecture, blockchain integrations, and distributed systems while providing opportunities to influence technical direction across cutting-edge Web3 products.
+________________
+
+
+What You'll Do
+Backend Development
+* Design, develop, and maintain scalable backend services for Web3 applications
+* Build secure REST APIs, GraphQL services, and microservices supporting decentralized platforms
+* Develop blockchain transaction processing, indexing, and event-driven systems
+* Build backend services for wallets, token management, NFT platforms, and DeFi protocols
+* Write clean, maintainable, and well-tested production code
+Blockchain Integration
+* Integrate backend services with Ethereum and other EVM-compatible blockchains
+* Develop blockchain listeners, indexers, and transaction monitoring services
+* Work closely with Smart Contract Engineers to integrate on-chain functionality
+* Build systems supporting staking, governance, token transfers, and cross-chain interactions
+* Optimize blockchain communication for performance, reliability, and cost efficiency
+Platform & Cloud Engineering
+* Design cloud-native distributed systems capable of handling high transaction volumes
+* Implement asynchronous workflows, background job processing, and event-driven architectures
+* Improve platform observability through logging, monitoring, and distributed tracing
+* Build CI/CD pipelines and deployment automation for backend services
+* Ensure system availability, scalability, and operational resilience
+Security & Engineering Excellence
+* Implement secure authentication, authorization, and API protection mechanisms
+* Apply security best practices for blockchain integrations and digital asset management
+* Conduct code reviews and contribute to backend architecture decisions
+* Mentor junior engineers and promote engineering best practices
+* Stay current with emerging blockchain technologies, protocols, and Web3 standards
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of professional backend software engineering experience
+* 2+ years of hands-on Web3 or blockchain backend development experience
+* Proven experience building production-grade distributed systems and cloud-native applications
+* Experience working in Agile software development environments
+Technical Expertise
+Strong experience with:
+* Go, Rust, Node.js (TypeScript), Java, or Python
+* PostgreSQL and Redis
+* REST APIs and GraphQL
+* Docker and Kubernetes
+* Git
+* Message queues and event-driven architectures
+Strong experience with Web3 technologies:
+* Ethereum
+* Solidity (integration experience)
+* ethers.js, viem, or Web3.js
+* JSON-RPC
+* Smart contract interactions
+* Wallet integrations
+* Blockchain indexing
+* EVM-compatible ecosystems
+Strong understanding of:
+* Distributed systems architecture
+* Blockchain consensus and transaction lifecycle
+* DeFi protocols and token standards (ERC-20, ERC-721, ERC-1155)
+* Smart contract security principles
+* OAuth2, JWT, and API security
+* Cloud-native development
+* CI/CD and DevOps practices
+________________
+
+
+Preferred Qualifications
+● Experience building DeFi protocols, staking platforms, DAO infrastructure, NFT marketplaces, or digital asset platforms
+● Experience with Layer 2 ecosystems including Arbitrum, Optimism, Base, Polygon, Avalanche, or zkSync
+● Familiarity with blockchain infrastructure providers such as Alchemy, Infura, QuickNode, Chainlink, or The Graph
+● Experience with Kafka, RabbitMQ, Apache Pulsar, or event-streaming platforms
+● Knowledge of Infrastructure as Code using Terraform or Pulumi
+● Contributions to open-source blockchain projects or active participation in the Web3 community
+________________
+
+
+Technology Environment
+Backend Technologies
+Go • Rust • Node.js • TypeScript • Python • Java • GraphQL
+Blockchain Stack
+Ethereum • Solidity • EVM • ethers.js • viem • Web3.js • Hardhat • Foundry
+Infrastructure & Cloud
+AWS • Docker • Kubernetes • Terraform • GitHub Actions
+Databases & Messaging
+PostgreSQL • Redis • MongoDB • Kafka • RabbitMQ
+Blockchain Infrastructure
+Alchemy • Infura • QuickNode • Chainlink • The Graph
+Observability & Monitoring
+Prometheus • Grafana • OpenTelemetry • Datadog
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to build next-generation Web3 infrastructure and decentralized platforms
+✨ Exposure to innovative blockchain, DeFi, AI, and fintech initiatives
+✨ Collaborative, engineering-first culture focused on ownership, innovation, and technical excellence
+✨ Career advancement into Lead Backend Engineer, Blockchain Architect, Staff Engineer, or Engineering Manager
+✨ Strong investment in continuous learning, open-source contributions, technical leadership, and emerging technologies
+________________
+
+
+Apply
+If you are passionate about building scalable Web3 backend systems, blockchain infrastructure, and decentralized applications that power the future of digital finance and the decentralized internet, we'd love to connect with you.

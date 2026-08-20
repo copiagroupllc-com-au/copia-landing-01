@@ -1,0 +1,124 @@
+﻿Chief Technology Officer (CTO)
+Technology Strategy, Innovation & Engineering Leadership
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Fractional Opportunities Available
+🏢 The Copia Group, LLC
+🚀 Executive Leadership
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, blockchain, AI, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of transformative businesses by providing capital, strategic guidance, and operational support. Our portfolio includes companies building next-generation software platforms, financial technologies, decentralized systems, and AI-driven products that are reshaping industries worldwide.
+We are seeking a visionary Chief Technology Officer (CTO) to define technology strategy, lead world-class engineering organizations, and drive innovation across a growing portfolio of technology-driven initiatives.
+________________
+
+
+The Opportunity
+As CTO, you will serve as the senior technology leader responsible for shaping technical vision, engineering culture, platform strategy, and long-term innovation initiatives.
+You will partner closely with executive leadership, product teams, investors, and engineering leaders to build scalable technology organizations, evaluate emerging technologies, and ensure the successful execution of strategic business objectives.
+This role combines executive leadership, technical expertise, organizational development, and innovation management.
+________________
+
+
+What You'll Do
+Executive Technology Leadership
+* Define and execute the company's long-term technology vision and strategy
+* Align technology investments with business goals and growth initiatives
+* Serve as a key member of the executive leadership team
+* Advise stakeholders on technology opportunities, risks, and strategic decisions
+* Represent technology initiatives to investors, partners, and executive leadership
+Engineering Organization Leadership
+* Build, lead, and scale high-performing engineering organizations
+* Recruit, develop, and retain top engineering talent
+* Establish engineering processes, standards, and operational excellence
+* Foster a culture of innovation, accountability, collaboration, and continuous learning
+* Develop leadership capabilities across engineering management teams
+Architecture & Technology Strategy
+* Oversee platform architecture, infrastructure strategy, and technical roadmaps
+* Guide critical architectural decisions across software, cloud, AI, and blockchain initiatives
+* Ensure systems are scalable, secure, resilient, and future-ready
+* Drive modernization efforts and technology transformation programs
+* Evaluate emerging technologies and identify competitive advantages
+Product & Innovation
+* Collaborate with Product Leadership to align technical execution with customer needs
+* Support the development of innovative products and market-leading solutions
+* Drive research and experimentation across AI, blockchain, cloud, and emerging technologies
+* Promote data-driven decision-making and technical innovation
+* Establish frameworks for rapid iteration and product scalability
+Security, Governance & Operations
+* Oversee cybersecurity, compliance, and risk management initiatives
+* Establish governance frameworks for technology operations
+* Ensure reliability, availability, and operational excellence across platforms
+* Support business continuity and disaster recovery planning
+* Monitor technology performance, KPIs, and operational metrics
+________________
+
+
+What We're Looking For
+Required Qualifications
+Leadership Experience
+* 15+ years of software engineering and technology leadership experience
+* 5+ years in executive technology leadership roles (CTO, VP Engineering, Head of Engineering, or equivalent)
+* Proven experience scaling engineering organizations and technology platforms
+* Track record of leading successful technology transformations and growth initiatives
+* Experience working directly with executive leadership, boards, and investors
+Technical Expertise
+Strong understanding of:
+* Software architecture and distributed systems
+* Cloud infrastructure and platform engineering
+* AI and machine learning technologies
+* Cybersecurity and risk management
+* Enterprise software development
+* Data engineering and analytics platforms
+* Blockchain and emerging technologies
+* DevOps, SRE, and modern engineering practices
+Experience with:
+* Cloud platforms (AWS, Azure, or GCP)
+* SaaS and enterprise-scale architectures
+* High-growth technology environments
+* Product development and innovation management
+* Technology budgeting and resource planning
+________________
+
+
+Preferred Qualifications
+● Experience within fintech, investment management, payments, blockchain, AI, or enterprise software industries
+● Experience leading globally distributed engineering organizations
+● Background in scaling startups through rapid growth phases
+● Experience managing technology due diligence for acquisitions or investments
+● MBA, Master's degree, or advanced technical degree is a plus
+● Strong network within the technology and startup ecosystem
+________________
+
+
+Technology Environment
+Cloud & Infrastructure
+AWS • Azure • Google Cloud Platform • Kubernetes • Terraform
+Engineering & Development
+Java • Python • Go • Node.js • React • TypeScript
+AI & Data
+Machine Learning • Data Engineering • Analytics Platforms • Generative AI
+Blockchain & Web3
+Ethereum • Smart Contracts • Digital Assets • DeFi Infrastructure
+Security & Operations
+DevSecOps • SRE • Compliance • Cybersecurity
+Leadership & Collaboration
+GitHub • Jira • Slack • Notion • Executive Reporting Platforms
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time, fractional, and executive advisory opportunities available
+✨ Competitive executive compensation package
+✨ Opportunity to define technology strategy at the highest level
+✨ Exposure to innovative fintech, blockchain, AI, and emerging technology ventures
+✨ Direct collaboration with executive leadership and investment professionals
+✨ Ability to influence the growth of multiple technology-driven businesses
+✨ Strong commitment to innovation, leadership development, and long-term impact
+________________
+
+
+Apply
+If you are a visionary technology leader passionate about building exceptional engineering organizations, driving innovation, and shaping the future of technology across high-growth businesses, we'd love to connect with you.

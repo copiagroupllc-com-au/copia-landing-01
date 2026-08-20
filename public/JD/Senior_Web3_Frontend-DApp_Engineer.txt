@@ -1,0 +1,158 @@
+﻿Senior Web3 Frontend / DApp Engineer
+Location: Australia / Remote
+Employment Type: Full-time
+Department: Engineering
+Level: Senior
+About Copia Group
+Copia Group is building a Web3 fintech and payments platform — essentially “Stripe for Web3.”
+Our mission is to make blockchain payments and financial products as simple, reliable, and intuitive as modern fintech applications.
+As we expand internationally, including our planned Australia presence, we're looking for a Senior Web3 Frontend / DApp Engineer to help build the user-facing layer of our Web3 payments ecosystem.
+About the Role
+We're looking for a senior frontend engineer who combines strong React/TypeScript skills with hands-on Web3 experience.
+You'll build production-grade DApps and user experiences that interact directly with blockchain networks, smart contracts, wallets, and payment infrastructure.
+You'll work closely with Product Designers, Backend Engineers, Smart Contract Engineers, and DevOps/Infrastructure teams to turn complex blockchain functionality into simple, fast, and secure user experiences.
+This is a hands-on role with significant ownership over frontend architecture and the Web3 user experience.
+Key Responsibilities
+* Build and maintain production-grade Web3 applications and DApps.
+* Develop modern frontend applications using React and TypeScript.
+* Integrate wallets, smart contracts, blockchain networks, and Web3 APIs.
+* Build intuitive flows for payments, transactions, deposits, withdrawals, and wallet interactions.
+* Design robust transaction-state handling, including pending, confirmed, failed, and rejected transactions.
+* Integrate and interact with EVM-compatible smart contracts.
+* Build reusable frontend components and Web3 interaction libraries.
+* Work closely with smart-contract engineers to integrate contract interfaces safely.
+* Implement responsive interfaces based on Figma designs.
+* Optimize frontend performance and application scalability.
+* Implement secure wallet connection and transaction-signing flows.
+* Handle blockchain-specific UX challenges such as gas estimation, network switching, confirmations, and transaction failures.
+* Write unit, integration, and end-to-end tests.
+* Participate in frontend architecture and technical design decisions.
+* Contribute to CI/CD and production deployment workflows.
+* Monitor and troubleshoot frontend and Web3 production issues.
+* Help establish frontend engineering standards and best practices.
+* Mentor junior and mid-level engineers as the team grows.
+Web3 Responsibilities
+You'll work directly with technologies and concepts including:
+* Ethereum and EVM-compatible networks
+* Smart-contract interaction
+* Wallet connectivity
+* Token transfers
+* ERC-20 / ERC-721 / ERC-1155
+* Stablecoins
+* On-chain transactions
+* Gas estimation and optimization
+* Transaction signing
+* RPC providers
+* Blockchain indexing
+* Web3 authentication
+* Multi-chain applications
+* DeFi and payment workflows
+Required Qualifications
+* 5+ years of professional frontend/software engineering experience.
+* 2+ years of hands-on Web3/blockchain development experience preferred.
+* Strong React and TypeScript experience.
+* Strong JavaScript/TypeScript fundamentals.
+* Experience building production web applications.
+* Hands-on experience integrating wallets and smart contracts.
+* Experience with ethers.js, viem, Web3.js, or equivalent.
+* Understanding of Ethereum/EVM architecture.
+* Experience working with REST APIs and backend services.
+* Strong understanding of frontend architecture and state management.
+* Experience with Git and modern development workflows.
+* Experience writing automated tests.
+* Strong understanding of responsive web development.
+* Ability to work closely with product, design, backend, and blockchain engineers.
+Web3 Technology Experience
+Experience with some of the following is highly valuable:
+Frontend
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Redux / Zustand / similar state-management tools
+Web3
+* ethers.js
+* viem
+* Web3.js
+* wagmi
+* WalletConnect
+* MetaMask
+* Coinbase Wallet
+* EVM networks
+Smart Contracts
+* Solidity
+* ABI integration
+* Hardhat
+* Foundry
+Infrastructure
+* Docker
+* AWS
+* Vercel
+* GitHub Actions
+* CI/CD
+You don't need to know every technology listed.
+Fintech / Payments Experience
+Experience building financial or payment products is a strong advantage.
+Particularly valuable experience includes:
+* Payment gateways
+* Digital wallets
+* Stablecoin payments
+* Crypto payments
+* Checkout experiences
+* Transaction processing
+* Financial dashboards
+* Exchanges
+* DeFi applications
+* Banking or fintech products
+Security & Reliability
+Because the platform handles financial transactions, you'll be expected to take security and reliability seriously.
+You should understand:
+* Secure wallet interactions
+* Transaction signing
+* Authentication
+* Input validation
+* Frontend security
+* Smart-contract interaction risks
+* RPC failures
+* Transaction replay/duplicate handling
+* Network failures
+* Safe handling of sensitive data
+You won't be responsible for smart-contract security alone, but you'll work closely with our blockchain engineers to ensure the frontend interacts with contracts safely.
+Nice to Have
+* Experience with Solidity.
+* Experience building DApps from 0 → 1.
+* Multi-chain development experience.
+* Experience with Layer 2 networks.
+* Experience with stablecoins and payments.
+* Experience with DeFi.
+* Experience with blockchain indexing solutions.
+* Experience with GraphQL.
+* Experience with WebSockets/realtime applications.
+* Experience with performance optimization.
+* Open-source Web3 contributions.
+* Experience mentoring engineers.
+* Startup experience.
+What You'll Own
+Frontend Architecture → DApp Development → Wallet Integration → Smart Contract Integration → Transaction UX → Testing → Performance → Production Reliability
+You'll play a central role in defining how users interact with Copia's "Stripe for Web3" platform.
+First 6 Months
+You will be expected to:
+* Establish a scalable frontend architecture.
+* Build core Web3 payment and wallet experiences.
+* Integrate smart contracts and blockchain networks.
+* Implement robust transaction-state management.
+* Build reusable Web3 frontend components.
+* Establish automated frontend and DApp testing.
+* Improve performance and reliability.
+* Work with Product and Design to simplify complex blockchain workflows.
+* Help establish frontend engineering standards for the growing team.
+Why Join Copia Group?
+* Build at the intersection of Web3, fintech, and payments.
+* Work on a 0→1 product with significant technical ownership.
+* Help create a platform designed to make Web3 payments as simple as modern fintech.
+* Work closely with blockchain, backend, DevOps, product, and design teams.
+* International growth with Australia expansion.
+* Opportunity to grow into Lead Frontend Engineer / Web3 Engineering Lead as the team scales.
+Ideal Candidate
+We're looking for someone who is more than a traditional React developer.
+The ideal candidate is a strong frontend engineer who genuinely understands Web3 — someone who can connect wallets, interact with smart contracts, reason about blockchain transactions, handle the unique UX challenges of crypto, and still build a frontend that feels as polished and simple as a modern fintech application.

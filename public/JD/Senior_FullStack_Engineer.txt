@@ -1,0 +1,85 @@
+﻿Senior Full Stack Engineer
+Fintech Infrastructure & Commerce Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+👨‍💻 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management and technology-focused firm partnering with innovative companies across fintech, digital infrastructure, and emerging technologies.
+We collaborate on projects connected to Stripe’s ecosystem, helping build scalable payment systems, developer platforms, financial infrastructure, and next-generation commerce experiences used by global businesses and modern digital platforms.
+We’re building a high-caliber engineering team focused on performance, scalability, and product excellence.
+________________
+
+
+The Opportunity
+We’re looking for a Senior Full Stack Engineer to help design and scale modern fintech and commerce applications across frontend systems, backend services, APIs, and cloud infrastructure.
+You’ll work closely with engineers, product leaders, and designers to build secure, reliable, and user-focused platforms powering modern payment and financial experiences.
+This is a high-impact role with strong ownership, technical influence, and long-term growth potential.
+________________
+
+
+What You’ll Do
+Engineering & Product Development
+* Build scalable full stack applications using modern frontend and backend technologies
+* Develop responsive and high-performance user interfaces using React, Next.js, and TypeScript
+* Design and maintain APIs, backend services, and cloud-based systems
+* Build secure and reliable systems supporting payments, transactions, and financial workflows
+* Collaborate cross-functionally with product, design, and engineering teams
+Architecture & Scalability
+* Contribute to system architecture and technical decision-making
+* Optimize performance, scalability, reliability, and maintainability
+* Improve engineering workflows, deployment pipelines, and developer experience
+* Maintain clean, well-documented, and testable codebases
+Leadership
+* Participate in code reviews and technical planning
+* Mentor engineers and contribute to engineering best practices
+* Take ownership of features and technical initiatives end-to-end
+________________
+
+
+What We’re Looking For
+Required Experience
+* 5+ years of professional full stack engineering experience
+* Strong frontend expertise with React, Next.js, TypeScript, and modern JavaScript frameworks
+* Backend development experience with Node.js, TypeScript, Python, or similar technologies
+* Experience building REST and/or GraphQL APIs
+* Strong understanding of databases such as PostgreSQL, MongoDB, MySQL, or Redis
+* Experience with cloud platforms, CI/CD pipelines, and modern deployment workflows
+* Strong understanding of scalable architecture, performance optimization, and security best practices
+Nice to Have
+* Experience working in fintech, payments, SaaS, or infrastructure platforms
+* Familiarity with Stripe APIs and payment systems
+* Experience with AWS, Docker, Kubernetes, or distributed systems
+* Startup or high-growth product experience
+* Experience building dashboards, internal tools, or developer platforms
+________________
+
+
+Tech Stack
+Frontend
+React • Next.js • TypeScript • Tailwind CSS
+Backend
+Node.js • Python • Express • NestJS
+Infrastructure
+AWS • Docker • Kubernetes • CI/CD
+Database
+PostgreSQL • MongoDB • Redis
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation
+✨ High-impact technical ownership
+✨ Modern engineering culture and collaborative environment
+✨ Opportunity to work on innovative fintech and infrastructure projects
+✨ Long-term growth and leadership opportunities
+________________
+
+
+Apply
+If you enjoy building scalable systems, modern financial platforms, and high-quality product experiences, we’d love to connect with you.

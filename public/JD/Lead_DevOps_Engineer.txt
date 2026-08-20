@@ -1,0 +1,117 @@
+﻿Lead DevOps Engineer
+Cloud Infrastructure, Platform Reliability & Engineering Excellence
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+⚙️ Lead Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, digital infrastructure, commerce, and emerging technology sectors.
+Through strategic investments and partnerships, we help advance the development of modern financial services, payment technologies, developer platforms, and scalable software solutions used by businesses worldwide.
+We are seeking an experienced Lead DevOps Engineer to drive infrastructure strategy, improve platform reliability, and lead the evolution of our cloud-native engineering practices.
+________________
+
+
+The Opportunity
+As a Lead DevOps Engineer, you will play a critical role in designing and scaling infrastructure that supports modern applications and engineering teams. You will lead initiatives focused on automation, reliability, observability, security, and operational excellence.
+Working closely with software engineers, security teams, and technical leadership, you will help establish best practices and build resilient systems that enable teams to deliver products efficiently and confidently.
+This role combines hands-on technical expertise with leadership responsibilities and strategic influence across multiple engineering initiatives.
+________________
+
+
+What You'll Do
+Infrastructure & Platform Engineering
+* Design, build, and maintain scalable cloud infrastructure environments
+* Develop and improve Infrastructure as Code (IaC) solutions
+* Lead containerization and orchestration initiatives across engineering teams
+* Support highly available, secure, and resilient production systems
+* Drive platform standardization and infrastructure modernization efforts
+Automation & CI/CD
+* Design and optimize CI/CD pipelines to improve software delivery processes
+* Automate deployment, provisioning, and operational workflows
+* Implement release strategies that improve deployment reliability and efficiency
+* Reduce manual processes through tooling and infrastructure automation
+* Continuously improve engineering productivity through platform enhancements
+Reliability & Operations
+* Establish monitoring, logging, and observability standards across environments
+* Lead incident response efforts and post-incident reviews
+* Improve system performance, uptime, and disaster recovery capabilities
+* Define and monitor reliability objectives and operational metrics
+* Champion a proactive approach to identifying and mitigating operational risks
+Leadership & Collaboration
+* Mentor DevOps and infrastructure engineers across the organization
+* Partner with engineering teams to embed DevOps best practices into development workflows
+* Collaborate with Security teams to strengthen infrastructure security posture
+* Provide technical leadership on cross-functional initiatives and major projects
+* Influence infrastructure strategy and long-term platform roadmaps
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 7+ years of professional experience in DevOps, Site Reliability Engineering, or Infrastructure Engineering
+* 2+ years of experience leading technical initiatives or mentoring engineering teams
+* Proven experience managing production environments supporting business-critical applications
+* Experience working within Agile and fast-paced engineering organizations
+Technical Expertise
+Strong experience with:
+* Cloud platforms (AWS, Azure, or GCP)
+* Infrastructure as Code (Terraform, CloudFormation, or similar tools)
+* Docker and containerization technologies
+* Kubernetes and container orchestration platforms
+* CI/CD pipeline design and implementation
+* Linux systems administration
+* Monitoring and observability platforms
+* Scripting and automation practices
+Strong understanding of:
+* High availability and fault-tolerant architectures
+* Incident response and operational excellence
+* Networking fundamentals and cloud security principles
+* Performance optimization and scalability strategies
+* DevSecOps concepts and secure infrastructure practices
+________________
+
+
+Preferred Qualifications
+● Experience working in fintech, payments, SaaS, or highly regulated industries
+● Familiarity with Stripe integrations and payment infrastructure environments
+● Experience with GitHub Actions, Jenkins, CircleCI, or GitLab CI
+● Experience implementing SRE principles and reliability engineering practices
+● Experience supporting microservices and event-driven architectures
+● Certifications in AWS, Kubernetes, Terraform, or related technologies
+________________
+
+
+Technology Environment
+Cloud & Infrastructure
+AWS • Azure • GCP • Linux
+Containerization & Orchestration
+Docker • Kubernetes • Helm
+Infrastructure as Code
+Terraform • CloudFormation • Ansible
+CI/CD & Automation
+GitHub Actions • Jenkins • GitLab CI • CircleCI
+Observability & Monitoring
+Prometheus • Grafana • Datadog • ELK Stack
+Tools & Collaboration
+GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to shape infrastructure strategy and engineering practices
+✨ Exposure to innovative fintech and emerging technology initiatives
+✨ Collaborative and engineering-first culture
+✨ Leadership opportunities with broad organizational impact
+✨ Strong investment in automation, reliability, and continuous improvement
+________________
+
+
+Apply
+If you are passionate about cloud infrastructure, automation, and building reliable systems that empower engineering teams to move faster, we'd love to connect with you.
