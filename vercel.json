@@ -1,6 +1,8 @@
 {
   "rewrites": [
-    { "source": "/api/:path*", "destination": "/api/:path*" },
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/((?!JD/|team/|favicon\\.png|copia-logo\\.png|hero-bg\\.mp4|hero-bg\\.webm|uniforms\\.png).*)",
+      "destination": "/index.html"
+    }
   ]
 }
