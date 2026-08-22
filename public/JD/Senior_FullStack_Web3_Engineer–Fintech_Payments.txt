@@ -1,0 +1,185 @@
+﻿Senior Full Stack Web3 Engineer – Fintech/Payments
+Company: Copia Group, LLC
+Location: Australia / Remote
+Employment Type: Full-Time
+Department: Engineering
+Level: Senior
+Focus: Web3 · Fintech · Payments · Blockchain · EVM
+About Copia Group
+Copia Group is building a next-generation Web3 fintech and payments platform — essentially “Stripe for Web3.”
+Our goal is to make blockchain-based payments and financial infrastructure easier, faster, and more accessible for businesses and users. As we expand internationally, including our Australia operations, we are building a strong engineering team to develop secure, scalable, production-ready Web3 infrastructure.
+We are looking for a Senior Full Stack Web3 Engineer who can work across smart contracts, backend services, APIs, and modern frontend applications.
+About the Role
+As a Senior Full Stack Web3 Engineer, you will be responsible for designing and building core components of our Web3 fintech and payments platform.
+You will work across the entire technology stack — from Solidity smart contracts and blockchain integrations to backend APIs and frontend applications.
+This is a hands-on engineering role for someone who understands both traditional software engineering and decentralized technologies.
+You will collaborate closely with product, engineering, and infrastructure teams to build reliable payment and financial workflows on blockchain networks.
+Key Responsibilities
+* Design, develop, test, and deploy production-grade Web3 applications and payment infrastructure.
+* Develop and maintain Solidity smart contracts and supporting blockchain services.
+* Build secure and scalable backend services using technologies such as Node.js, TypeScript, Go, or Java.
+* Develop modern frontend applications using React, Next.js, or similar frameworks.
+* Integrate blockchain networks, wallets, smart contracts, exchanges, payment providers, and external APIs.
+* Build APIs and services connecting Web3 infrastructure with traditional fintech systems.
+* Design transaction, payment, settlement, wallet, and token-related workflows.
+* Work with EVM-compatible networks, including Ethereum and Layer 2 ecosystems.
+* Implement smart-contract testing, security testing, monitoring, and deployment automation.
+* Work with blockchain indexing and data infrastructure where required.
+* Collaborate with DevOps engineers to deploy and operate production systems.
+* Participate in architecture decisions and technical design reviews.
+* Identify performance, scalability, and security issues and implement appropriate solutions.
+* Write clean, maintainable, well-tested production code.
+* Review code and provide technical guidance to other engineers.
+* Contribute to engineering standards, documentation, CI/CD, and development processes.
+Required Qualifications
+* 5+ years of professional software engineering experience.
+* Strong experience developing full-stack applications.
+* Professional experience with Web3/blockchain development.
+* Strong hands-on experience with JavaScript/TypeScript.
+* Strong backend development experience with Node.js, Go, Java, or similar.
+* Strong frontend experience with React, Next.js, or equivalent.
+* Practical experience with Solidity and smart contract development.
+* Strong understanding of Ethereum and EVM architecture.
+* Experience integrating smart contracts using ethers.js, viem, web3.js, or similar libraries.
+* Experience building and consuming REST APIs and/or GraphQL APIs.
+* Strong understanding of databases such as PostgreSQL, MySQL, or MongoDB.
+* Experience with Git and modern software development workflows.
+* Understanding of software security and secure coding practices.
+* Experience writing automated tests and maintaining production-quality code.
+Fintech / Payments Experience
+Experience in fintech, payments, digital assets, or financial infrastructure is highly preferred.
+Candidates with experience in any of the following areas are particularly valuable:
+* Blockchain payments
+* Payment gateways
+* Stablecoins
+* Tokenized payments
+* Wallet infrastructure
+* Digital asset payments
+* Settlement systems
+* Transaction processing
+* Merchant payments
+* On-chain/off-chain payment systems
+* DeFi protocols
+* Exchanges
+* Tokenization
+* RWA infrastructure
+* KYC/AML integrations
+* Payment APIs
+* Financial APIs
+* Fee abstraction
+* Account abstraction
+Web3 Technical Experience
+Strong candidates may have experience with:
+Blockchain
+* Ethereum
+* Polygon
+* Arbitrum
+* Optimism
+* Base
+* BNB Chain
+* Other EVM-compatible networks
+Smart Contracts
+* Solidity
+* OpenZeppelin
+* Hardhat
+* Foundry
+* ERC-20
+* ERC-721
+* ERC-1155
+* Upgradeable contracts
+* Proxy patterns
+* Contract security
+Web3 Integration
+* ethers.js
+* viem
+* wagmi
+* WalletConnect
+* MetaMask
+* The Graph
+* Chainlink
+* Blockchain RPC providers
+Backend & Infrastructure
+Experience with some of the following is preferred:
+* Node.js
+* TypeScript
+* Go
+* Java
+* REST
+* GraphQL
+* PostgreSQL
+* Redis
+* Docker
+* Kubernetes
+* AWS / GCP / Azure
+* GitHub Actions
+* CI/CD
+* Microservices
+* Event-driven architecture
+* Message queues
+* Monitoring and observability
+Frontend
+Experience with:
+* React
+* Next.js
+* TypeScript
+* Modern state management
+* Web3 wallet integration
+* Responsive application development
+* API integration
+* Real-time applications
+* Secure authentication and authorization
+Security & Reliability
+Because we are building financial infrastructure, security and reliability are critical.
+You should have a strong understanding of:
+* Smart contract security
+* Blockchain transaction lifecycle
+* Private key and wallet security
+* Authentication and authorization
+* API security
+* Secure coding practices
+* Transaction validation
+* Reentrancy and common smart-contract vulnerabilities
+* Gas optimization
+* Monitoring and incident response
+* Production system reliability
+Nice to Have
+* Experience building payment infrastructure.
+* Experience with stablecoins or tokenized fiat.
+* Experience with USDC, USDT, or similar assets.
+* Experience with account abstraction / ERC-4337.
+* Experience with Layer 2 networks and rollups.
+* Experience with Chainlink oracles.
+* Experience with RWA/tokenization platforms.
+* Experience with DeFi protocols or DEX integrations.
+* Experience with KYC/AML systems.
+* Experience working with regulated financial products.
+* Experience with blockchain indexing infrastructure.
+* Experience with Kubernetes and cloud-native architecture.
+* Open-source Web3 contributions or public GitHub projects.
+* Previous startup or high-growth technology company experience.
+What We’re Looking For
+We are looking for someone who is more than just a Web3 developer.
+The ideal candidate is a strong software engineer who understands blockchain deeply and can move comfortably between:
+Frontend → Backend → APIs → Smart Contracts → Blockchain → Payments
+You should be comfortable taking ownership of a feature from architecture through production deployment.
+We value engineers who:
+* Think about security first.
+* Understand systems rather than only individual technologies.
+* Can make practical architectural decisions.
+* Write maintainable production code.
+* Are comfortable working independently.
+* Communicate clearly with technical and non-technical teams.
+* Enjoy solving difficult problems at the intersection of fintech and Web3.
+* Are excited about building infrastructure rather than simply integrating existing products.
+Why Join Copia Group?
+* Build a Web3 fintech/payments platform from the ground up.
+* Work on infrastructure comparable in ambition to “Stripe for Web3.”
+* Solve real problems at the intersection of payments, blockchain, and financial technology.
+* Work with modern blockchain and cloud technologies.
+* Have significant technical ownership and influence over architecture.
+* Work with an internationally focused engineering team.
+* Opportunity to contribute to the company's international expansion, including Australia.
+* Work on products designed for real-world adoption rather than experimental blockchain projects.
+Application
+If you are an experienced full-stack engineer with strong Web3 knowledge and are excited about building the next generation of blockchain-based payment infrastructure, we'd like to hear from you.
+Apply for: Senior Full Stack Web3 Engineer – Fintech/Payments

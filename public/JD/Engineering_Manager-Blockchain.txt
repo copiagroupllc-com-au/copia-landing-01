@@ -1,0 +1,128 @@
+﻿Engineering Manager (Blockchain)
+Blockchain Engineering, Web3 Infrastructure & Distributed Systems
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🚀 Engineering Management
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across blockchain, fintech, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help advance the development of decentralized technologies, digital asset ecosystems, and next-generation financial platforms. Our portfolio includes companies building blockchain infrastructure, Web3 applications, decentralized finance (DeFi) solutions, and digital asset services that are shaping the future of the internet.
+We are seeking an experienced Engineering Manager (Blockchain) to lead high-performing engineering teams building secure, scalable, and innovative blockchain-based products.
+________________
+
+
+The Opportunity
+As an Engineering Manager (Blockchain), you will lead multiple engineering initiatives across blockchain infrastructure, decentralized applications, backend services, and cloud platforms. You will be responsible for growing engineering talent, driving technical execution, and ensuring the successful delivery of mission-critical Web3 products.
+Working closely with Product Managers, Architects, Designers, and Executive Leadership, you'll help define engineering strategy while creating an environment where teams can build reliable, secure, and scalable blockchain solutions.
+This role combines people leadership, technical strategy, delivery management, and engineering excellence.
+________________
+
+
+What You'll Do
+Engineering Leadership
+* Lead, mentor, and grow high-performing blockchain engineering teams
+* Foster a culture of ownership, collaboration, innovation, and continuous improvement
+* Conduct hiring, onboarding, coaching, and performance management
+* Support career development and technical growth for engineers
+* Promote engineering best practices across the organization
+Technical Strategy & Architecture
+* Partner with technical leaders to define blockchain architecture and platform strategy
+* Guide engineering teams through architectural decisions and technical trade-offs
+* Drive engineering standards, software quality, and operational excellence
+* Support scalability, security, and reliability across blockchain platforms
+* Evaluate emerging Web3 technologies and recommend strategic adoption
+Delivery & Execution
+* Lead cross-functional engineering initiatives from planning through production
+* Collaborate with Product Managers to define technical roadmaps and delivery priorities
+* Manage sprint planning, resource allocation, and project execution
+* Identify and mitigate delivery risks while maintaining engineering quality
+* Ensure predictable and efficient software delivery across multiple teams
+Blockchain Platform Development
+* Oversee the development of blockchain infrastructure, APIs, and decentralized applications
+* Support engineering efforts involving smart contract integrations, wallet connectivity, and blockchain indexing
+* Guide the implementation of secure transaction processing and decentralized architectures
+* Ensure systems meet performance, scalability, and security requirements
+* Collaborate with Security and Infrastructure teams on platform resilience
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 8+ years of professional software engineering experience
+* 3+ years of engineering management or technical leadership experience
+* Experience leading distributed engineering teams delivering complex software products
+* Proven experience managing Agile software development processes
+* Experience building and operating production-scale distributed systems
+Blockchain & Technical Expertise
+Strong understanding of:
+* Blockchain architecture and distributed ledger technologies
+* Ethereum and EVM-compatible ecosystems
+* Smart contract development and lifecycle
+* Decentralized applications (dApps)
+* Wallet integrations and blockchain transaction flows
+* DeFi protocols and digital asset infrastructure
+* DAO governance models
+* Web3 security best practices
+Experience with one or more of:
+* Solidity
+* Rust
+* Go
+* TypeScript
+* Node.js
+* Python
+Strong knowledge of:
+* Cloud-native infrastructure
+* Microservices architecture
+* Kubernetes and Docker
+* CI/CD automation
+* API architecture
+* Database design
+* System observability
+* Infrastructure security
+________________
+
+
+Preferred Qualifications
+● Experience leading engineering teams in blockchain, fintech, or Web3 organizations
+● Experience building DeFi protocols, digital asset platforms, or decentralized exchanges (DEXs)
+● Familiarity with Layer 2 ecosystems including Arbitrum, Optimism, Base, Polygon, or zkSync
+● Experience with blockchain infrastructure providers such as Alchemy, Infura, Chainlink, or QuickNode
+● Experience managing globally distributed engineering organizations
+● Contributions to open-source blockchain projects or active participation in the Web3 community
+________________
+
+
+Technology Environment
+Blockchain Technologies
+Ethereum • Solidity • Rust • EVM • Smart Contracts • Web3
+Backend Development
+Node.js • Go • Python • TypeScript • GraphQL • REST APIs
+Cloud & Infrastructure
+AWS • Kubernetes • Docker • Terraform • GitHub Actions
+Data & Messaging
+PostgreSQL • Redis • Kafka • MongoDB
+Observability & Security
+Prometheus • Grafana • OpenTelemetry • Datadog
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to lead cutting-edge blockchain and Web3 engineering teams
+✨ Exposure to innovative DeFi, digital asset, and decentralized technology initiatives
+✨ Collaborative, engineering-first culture focused on innovation and ownership
+✨ Career advancement into Director of Engineering, Head of Engineering, or VP Engineering
+✨ Strong investment in leadership development, technical excellence, and continuous learning
+________________
+
+
+Apply
+If you are passionate about leading engineering teams, building next-generation blockchain platforms, and helping shape the future of decentralized technology, we'd love to connect with you.

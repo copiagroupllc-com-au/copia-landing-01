@@ -1,0 +1,137 @@
+﻿Lead AI Engineer
+Artificial Intelligence, Machine Learning & Intelligent Platform Leadership
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🤖 Lead Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across AI, fintech, blockchain, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of technology-driven businesses building intelligent applications, autonomous systems, enterprise AI platforms, and next-generation software solutions. Our portfolio companies leverage machine learning, generative AI, and advanced analytics to solve complex business challenges and create transformative customer experiences.
+We are seeking an experienced Lead AI Engineer to lead the design, development, and deployment of cutting-edge AI solutions while mentoring engineering teams and driving AI strategy across multiple products.
+________________
+
+
+The Opportunity
+As a Lead AI Engineer, you will combine hands-on AI development with technical leadership to build production-ready machine learning systems and generative AI applications. You'll collaborate closely with Product Managers, Data Scientists, Software Engineers, DevOps, and Executive Leadership to deliver scalable AI-powered products that drive innovation and business growth.
+This role offers significant ownership over AI architecture, MLOps strategy, and engineering best practices while providing opportunities to mentor engineers and shape the organization's long-term AI roadmap.
+________________
+
+
+What You'll Do
+AI & Machine Learning Development
+* Design, develop, and deploy production-grade machine learning models and AI applications
+* Build intelligent systems using Large Language Models (LLMs), deep learning, and predictive analytics
+* Develop scalable AI APIs, inference services, and model-serving infrastructure
+* Optimize AI model performance, accuracy, latency, and operational efficiency
+* Build reusable AI components that accelerate product development
+Generative AI & LLM Engineering
+* Design and implement applications powered by Large Language Models
+* Develop Retrieval-Augmented Generation (RAG) systems and AI knowledge platforms
+* Build AI agents, copilots, workflow automation, and conversational AI solutions
+* Fine-tune foundation models for domain-specific business use cases
+* Evaluate emerging AI models and recommend adoption strategies
+Technical Leadership
+* Define AI architecture, engineering standards, and best practices
+* Mentor AI Engineers, Machine Learning Engineers, and Software Engineers
+* Conduct technical design reviews and provide architecture guidance
+* Drive experimentation, research, and innovation across AI initiatives
+* Lead technical planning and AI roadmap execution
+MLOps & Cloud Engineering
+* Design scalable MLOps pipelines for training, deployment, monitoring, and model lifecycle management
+* Build cloud-native AI infrastructure using containers and Kubernetes
+* Implement CI/CD pipelines for AI applications and model deployment
+* Monitor production AI systems for reliability, drift, and performance
+* Ensure security, governance, and responsible AI practices across all solutions
+Cross-Functional Collaboration
+* Partner with Product Managers to translate business goals into AI-powered products
+* Work closely with Data Engineers to build scalable data pipelines and feature stores
+* Collaborate with DevOps teams to optimize cloud infrastructure and deployment automation
+* Communicate AI strategy and technical direction to leadership and stakeholders
+* Foster a collaborative culture focused on innovation, experimentation, and continuous learning
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 7+ years of professional software engineering or machine learning engineering experience
+* 4+ years of hands-on AI/ML development in production environments
+* 2+ years of technical leadership or lead engineering experience
+* Proven experience delivering enterprise AI applications at scale
+* Experience working within Agile software development environments
+Technical Expertise
+Strong experience with:
+* Python
+* PyTorch or TensorFlow
+* Scikit-learn
+* Hugging Face Transformers
+* FastAPI or Flask
+* SQL and data processing frameworks
+* Docker
+* Kubernetes
+* Git
+Strong experience with AI technologies:
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* LangChain or LlamaIndex
+* Vector Databases
+* Prompt Engineering
+* Model Fine-Tuning
+* Embedding Models
+Strong understanding of:
+* Deep Learning
+* Natural Language Processing (NLP)
+* MLOps and Model Lifecycle Management
+* Distributed Systems
+* Cloud-Native AI Infrastructure
+* Responsible AI and Model Governance
+* API Design and Microservices
+* CI/CD and DevOps Practices
+________________
+
+
+Preferred Qualifications
+● Experience developing enterprise AI copilots, intelligent assistants, or autonomous agent systems
+● Experience with OpenAI, Anthropic Claude, Google Gemini, Cohere, or open-source LLMs
+● Familiarity with vector databases such as Pinecone, Weaviate, Milvus, Chroma, or pgvector
+● Experience deploying AI workloads on AWS, Azure, or Google Cloud Platform
+● Knowledge of MLflow, Kubeflow, Airflow, SageMaker, or Vertex AI
+● Experience working in fintech, healthcare, SaaS, cybersecurity, or blockchain industries
+● Contributions to open-source AI projects, published research, or technical conferences
+________________
+
+
+Technology Environment
+AI & Machine Learning
+Python • PyTorch • TensorFlow • Scikit-learn • Hugging Face • ONNX
+Generative AI
+OpenAI • Anthropic Claude • Google Gemini • LangChain • LlamaIndex • AI Agents • RAG
+Data & Storage
+Pandas • NumPy • PostgreSQL • Redis • Pinecone • Weaviate • Chroma • pgvector
+Cloud & Infrastructure
+AWS • Azure • Google Cloud Platform • Docker • Kubernetes • MLflow • Terraform
+DevOps & Monitoring
+GitHub Actions • Airflow • Kubeflow • Prometheus • Grafana • OpenTelemetry
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to lead the development of next-generation AI platforms and intelligent products
+✨ Exposure to cutting-edge AI, blockchain, fintech, cloud-native technologies, and emerging innovations
+✨ Collaborative, engineering-first culture focused on innovation, ownership, and technical excellence
+✨ Career advancement into Principal AI Engineer, AI Architect, Engineering Manager, Director of AI Engineering, or Chief AI Officer
+✨ Strong investment in leadership development, AI research, continuous learning, conference participation, and open-source contributions
+________________
+
+
+Apply
+If you are passionate about building production-grade AI systems, leading high-performing engineering teams, and creating intelligent solutions that solve real-world problems, we'd love to connect with you.

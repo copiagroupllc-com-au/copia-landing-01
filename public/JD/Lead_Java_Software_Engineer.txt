@@ -1,0 +1,139 @@
+﻿Lead Java Software Engineer
+Enterprise Java Development, Cloud-Native Architecture & Technical Leadership
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+☕ Lead Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, AI, blockchain, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of technology-driven businesses building enterprise software, cloud-native applications, financial platforms, and intelligent digital products. Our portfolio companies develop scalable, secure, and high-performance solutions that power mission-critical systems across global industries.
+We are seeking an experienced Lead Java Software Engineer to lead the design, development, and modernization of enterprise-grade Java applications while mentoring engineering teams and driving technical excellence.
+________________
+
+
+The Opportunity
+As a Lead Java Software Engineer, you will combine hands-on software development with technical leadership to architect scalable backend systems and enterprise applications. You'll collaborate closely with Product Managers, Solution Architects, DevOps Engineers, QA Engineers, and Engineering Leadership to deliver secure, cloud-native software solutions that support business growth and innovation.
+This role offers significant ownership over software architecture, engineering standards, and platform modernization while providing opportunities to mentor engineers and influence the organization's long-term technology strategy.
+________________
+
+
+What You'll Do
+Java Software Development
+* Design, develop, and maintain enterprise-grade backend applications using Java and the Spring ecosystem
+* Build scalable RESTful APIs, GraphQL services, and microservices
+* Develop secure, reliable, and high-performance distributed systems
+* Write clean, maintainable, and thoroughly tested production-ready code
+* Optimize application performance, scalability, and reliability
+Software Architecture
+* Lead system architecture discussions and technical design reviews
+* Design cloud-native applications using microservices and event-driven architectures
+* Establish coding standards, engineering best practices, and software design principles
+* Evaluate emerging technologies and drive modernization initiatives
+* Ensure applications meet security, scalability, and compliance requirements
+Technical Leadership
+* Mentor Software Engineers through code reviews, architecture guidance, and technical coaching
+* Lead engineering teams in delivering complex software projects
+* Drive engineering excellence through automation, testing, and continuous improvement
+* Support hiring, onboarding, and career development initiatives
+* Promote a collaborative engineering culture focused on innovation and quality
+Cloud & Platform Engineering
+* Design and deploy applications on AWS, Azure, or Google Cloud Platform
+* Build CI/CD pipelines and deployment automation
+* Collaborate with DevOps teams to improve infrastructure scalability and operational efficiency
+* Implement monitoring, logging, and distributed tracing solutions
+* Improve platform resilience, disaster recovery, and system availability
+Cross-Functional Collaboration
+* Partner with Product Managers to transform business requirements into scalable software solutions
+* Collaborate with Frontend Engineers, QA, DevOps, and Security teams
+* Participate in sprint planning, roadmap discussions, and technical estimation
+* Communicate technical strategies and architectural decisions to stakeholders
+* Support continuous delivery and Agile software development practices
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 7+ years of professional Java software engineering experience
+* 2+ years of technical leadership or lead engineering experience
+* Proven experience building enterprise-scale backend applications and distributed systems
+* Strong experience working within Agile software development environments
+* Experience leading software architecture and technical design initiatives
+Technical Expertise
+Strong experience with:
+* Java (11/17/21)
+* Spring Boot
+* Spring Framework
+* Spring Cloud
+* Hibernate / JPA
+* Maven or Gradle
+* REST APIs
+* GraphQL
+* SQL
+* Git
+Strong understanding of:
+* Microservices Architecture
+* Distributed Systems
+* Event-Driven Architecture
+* Object-Oriented Design (OOD)
+* Design Patterns
+* Domain-Driven Design (DDD)
+* API Security (OAuth2, JWT)
+* CI/CD Pipelines
+* Secure Software Development
+* Performance Optimization
+Experience with:
+* Docker
+* Kubernetes
+* PostgreSQL, MySQL, or Oracle
+* Redis
+* Kafka or RabbitMQ
+* AWS, Azure, or Google Cloud Platform
+________________
+
+
+Preferred Qualifications
+● Experience building fintech, AI, blockchain, SaaS, healthcare, or enterprise software platforms
+● Experience with Spring Security, Spring Batch, Spring Data, and Spring Integration
+● Familiarity with Elasticsearch, OpenSearch, Apache Camel, or Apache Kafka
+● Experience using Terraform, Helm, or Infrastructure as Code (IaC)
+● Knowledge of observability platforms including Prometheus, Grafana, OpenTelemetry, Datadog, or New Relic
+● Oracle Certified Professional (OCP Java), AWS Certified Developer, or cloud certifications are a plus
+________________
+
+
+Technology Environment
+Programming Languages
+Java • Kotlin • SQL • TypeScript
+Java Ecosystem
+Spring Boot • Spring Cloud • Spring Security • Hibernate • JPA • Maven • Gradle
+Architecture & APIs
+Microservices • REST APIs • GraphQL • gRPC • Event-Driven Systems
+Cloud & Infrastructure
+AWS • Azure • Google Cloud Platform • Docker • Kubernetes • Terraform
+Databases & Messaging
+PostgreSQL • MySQL • Oracle • Redis • Kafka • RabbitMQ
+DevOps & Monitoring
+GitHub Actions • Jenkins • Prometheus • Grafana • OpenTelemetry • Datadog
+Tools & Collaboration
+GitHub • Jira • Confluence • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to lead the development of enterprise-grade Java applications serving global customers
+✨ Exposure to AI, blockchain, fintech, cloud-native technologies, and emerging digital innovations
+✨ Collaborative, engineering-first culture focused on innovation, ownership, and technical excellence
+✨ Career advancement into Staff Engineer, Principal Engineer, Software Architect, Engineering Manager, Director of Engineering, or CTO
+✨ Strong investment in leadership development, Java ecosystem training, cloud certifications, conference participation, and continuous professional growth
+________________
+
+
+Apply
+If you are passionate about building scalable enterprise software with Java, leading high-performing engineering teams, and architecting modern cloud-native solutions that power business success, we'd love to connect with you.

@@ -1,0 +1,129 @@
+﻿Senior Web3 Full Stack Engineer
+Decentralized Applications, Blockchain Infrastructure & Digital Asset Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🌐⛓️ Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, blockchain, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help advance the development of decentralized technologies, digital asset ecosystems, developer platforms, and next-generation financial applications shaping the future of commerce and ownership.
+We are seeking an experienced Senior Web3 Full Stack Engineer to build scalable decentralized applications and blockchain-powered experiences that bridge traditional software engineering with emerging Web3 technologies.
+________________
+
+
+The Opportunity
+As a Senior Web3 Full Stack Engineer, you will design, develop, and deliver end-to-end applications that integrate modern frontend experiences with secure backend services and blockchain infrastructure.
+You will collaborate closely with product leaders, designers, blockchain engineers, and cross-functional stakeholders to create innovative solutions across wallets, decentralized applications (dApps), smart contract integrations, and digital asset ecosystems.
+This role offers significant technical ownership, opportunities to influence architectural decisions, and the chance to help shape the next generation of Web3 products.
+________________
+
+
+What You'll Do
+Full Stack Development
+* Design, develop, and maintain full stack applications supporting Web3 products and services
+* Build responsive and intuitive user interfaces for decentralized applications
+* Develop backend services, APIs, and integrations that support blockchain interactions
+* Implement wallet connectivity and authentication workflows
+* Deliver clean, maintainable, and production-ready code across frontend and backend systems
+Web3 & Blockchain Integration
+* Integrate applications with blockchain networks and smart contracts
+* Develop features involving token transactions, NFT interactions, staking mechanisms, and on-chain data
+* Collaborate with blockchain engineers to support decentralized infrastructure initiatives
+* Build tools and services that improve the usability and accessibility of Web3 products
+* Monitor emerging technologies and contribute to technical innovation efforts
+Architecture & Platform Engineering
+* Design scalable application architectures supporting high-growth products
+* Optimize performance, security, and reliability across the technology stack
+* Participate in architectural reviews and technical planning sessions
+* Improve observability, testing strategies, and deployment processes
+* Support cloud-native and distributed application initiatives
+Collaboration & Leadership
+* Partner closely with Product Managers, Designers, Blockchain Engineers, and QA teams
+* Mentor engineers through technical guidance and code reviews
+* Lead technical initiatives from concept through deployment
+* Promote engineering best practices and continuous improvement
+* Contribute to a collaborative and knowledge-sharing culture
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of professional software engineering experience
+* 2+ years of experience building Web3 applications or blockchain-integrated products
+* Proven experience delivering full stack applications in production environments
+* Strong understanding of modern software development methodologies
+Technical Expertise
+Strong experience with:
+Frontend Development
+* React
+* TypeScript
+* Next.js
+* HTML5 / CSS3
+* State management libraries
+Backend Development
+* Node.js
+* Express.js or NestJS
+* REST APIs and GraphQL
+* Database design and optimization
+Web3 Development
+* ethers.js or viem
+* Wallet integrations (MetaMask, WalletConnect)
+* Smart contract interaction patterns
+* Blockchain data indexing concepts
+* Ethereum and EVM-based ecosystems
+Strong understanding of:
+* Decentralized application architecture
+* Authentication and authorization models
+* Smart contract security considerations
+* Distributed systems principles
+* Cloud-native deployment practices
+* Performance optimization and scalability
+________________
+
+
+Preferred Qualifications
+● Experience developing smart contracts using Solidity
+● Experience with Layer 2 networks such as Arbitrum, Optimism, Base, or Polygon
+● Familiarity with DeFi protocols, NFT ecosystems, or tokenized applications
+● Experience using The Graph, Alchemy, Infura, or other Web3 infrastructure providers
+● Experience with AWS, Docker, Kubernetes, and CI/CD pipelines
+● Contributions to open-source Web3 projects or blockchain communities
+________________
+
+
+Technology Environment
+Frontend
+React • TypeScript • Next.js • Tailwind CSS
+Backend
+Node.js • NestJS • Express.js • GraphQL • REST APIs
+Web3 Stack
+Solidity • ethers.js • viem • MetaMask • WalletConnect
+Blockchain Ecosystems
+Ethereum • Base • Arbitrum • Optimism • Polygon
+Cloud & Infrastructure
+AWS • Docker • Kubernetes • GitHub Actions • CI/CD
+Database & Messaging
+PostgreSQL • Redis • MongoDB • Kafka
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to build innovative Web3 products with real-world impact
+✨ Exposure to cutting-edge blockchain and digital asset initiatives
+✨ Collaborative and engineering-first culture
+✨ Career advancement and technical leadership opportunities
+✨ Strong emphasis on ownership, experimentation, and continuous learning
+________________
+
+
+Apply
+If you are passionate about decentralized technologies, full stack engineering, and building the next generation of digital experiences powered by blockchain, we'd love to connect with you.

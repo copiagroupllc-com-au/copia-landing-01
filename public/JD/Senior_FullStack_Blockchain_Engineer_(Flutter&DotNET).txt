@@ -1,0 +1,150 @@
+﻿Senior Full-Stack Blockchain Engineer (Flutter & .NET)
+Cross-Platform Mobile Development, Enterprise Backend Engineering & Web3 Innovation
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🌐 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across blockchain, fintech, AI, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of organizations building decentralized applications, enterprise blockchain platforms, digital asset ecosystems, and next-generation financial technologies. Our portfolio companies develop secure, scalable, and user-centric Web3 solutions that bridge traditional enterprise systems with blockchain innovation.
+We are seeking an experienced Senior Full-Stack Blockchain Engineer (Flutter & .NET) to design, develop, and deliver high-performance cross-platform applications and enterprise backend services integrated with blockchain technologies.
+________________
+
+
+The Opportunity
+As a Senior Full-Stack Blockchain Engineer, you will work across the entire technology stack—from developing intuitive Flutter mobile applications to building scalable .NET backend services and integrating blockchain infrastructure. You'll collaborate with Product Managers, UI/UX Designers, Smart Contract Engineers, DevOps Engineers, and Solution Architects to build secure, production-ready Web3 platforms.
+This role offers the opportunity to work on modern fintech and blockchain products while contributing to architecture, performance optimization, and technical innovation.
+________________
+
+
+What You'll Do
+Full-Stack Development
+* Design, develop, and maintain cross-platform applications using Flutter and Dart
+* Build scalable backend APIs and enterprise services using C# and .NET
+* Develop secure RESTful APIs, GraphQL services, and microservices
+* Integrate frontend applications with backend services and blockchain infrastructure
+* Write clean, maintainable, and well-tested production code
+Blockchain Development
+* Integrate applications with Ethereum and EVM-compatible blockchain networks
+* Connect mobile and web applications with smart contracts and decentralized services
+* Develop wallet authentication, transaction signing, and blockchain interaction workflows
+* Build features supporting tokenized assets, NFTs, DeFi, DAO governance, and digital wallets
+* Optimize blockchain communication, transaction efficiency, and user experience
+Mobile Engineering
+* Build responsive, high-performance Flutter applications for iOS and Android
+* Develop reusable widgets, UI components, and scalable application architecture
+* Optimize application performance, offline capabilities, and state management
+* Implement secure authentication, push notifications, deep linking, and biometric authentication
+* Ensure mobile applications meet accessibility and platform quality standards
+Backend & Cloud Engineering
+* Develop enterprise-grade backend services using .NET Core / ASP.NET Core
+* Design distributed systems and microservices architectures
+* Build secure authentication and authorization using OAuth2, JWT, and Identity solutions
+* Implement CI/CD pipelines and cloud-native deployments
+* Improve scalability, monitoring, logging, and system reliability
+Collaboration & Technical Leadership
+* Collaborate with Product Managers and Designers to deliver exceptional user experiences
+* Work closely with Blockchain Engineers and Smart Contract Developers
+* Participate in architecture discussions, sprint planning, and code reviews
+* Mentor junior developers and promote engineering best practices
+* Contribute to technical documentation and continuous process improvement
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of professional software engineering experience
+* 3+ years of Flutter application development
+* 3+ years of .NET / C# backend development
+* 2+ years of blockchain or Web3 application development
+* Proven experience delivering production-grade mobile and backend applications
+* Experience working within Agile software development environments
+Technical Expertise
+Strong experience with:
+Frontend & Mobile
+* Flutter
+* Dart
+* Material Design
+* BLoC, Riverpod, or Provider
+* REST APIs
+* GraphQL
+Backend
+* C#
+* .NET Core / ASP.NET Core
+* Entity Framework Core
+* REST APIs
+* GraphQL
+* SQL Server or PostgreSQL
+* Redis
+Blockchain
+* Ethereum
+* Solidity (integration experience)
+* EVM-compatible networks
+* WalletConnect
+* MetaMask
+* ethers.js or Nethereum
+* Smart Contract Integration
+* JSON-RPC
+Strong understanding of:
+* Cross-platform mobile architecture
+* Microservices Architecture
+* Distributed Systems
+* Blockchain Fundamentals
+* DeFi Protocols
+* NFT Standards (ERC-721, ERC-1155)
+* Token Standards (ERC-20)
+* Secure API Design
+* Authentication & Authorization
+* CI/CD and DevOps
+________________
+
+
+Preferred Qualifications
+● Experience building fintech applications, crypto wallets, NFT marketplaces, DeFi platforms, or tokenized asset platforms
+● Familiarity with Layer 2 ecosystems including Polygon, Arbitrum, Optimism, Base, Avalanche, or zkSync
+● Experience with Azure, AWS, or Google Cloud Platform
+● Experience using Docker, Kubernetes, Terraform, and GitHub Actions
+● Knowledge of blockchain infrastructure providers including Alchemy, Infura, QuickNode, The Graph, and Chainlink
+● Experience with SignalR, Azure Service Bus, Kafka, or RabbitMQ
+● Contributions to open-source Flutter, .NET, or blockchain projects are highly valued
+________________
+
+
+Technology Environment
+Mobile Development
+Flutter • Dart • Material Design • Riverpod • BLoC • Provider
+Backend Development
+C# • .NET Core • ASP.NET Core • Entity Framework Core • SignalR • REST APIs • GraphQL
+Blockchain Technologies
+Ethereum • Solidity • WalletConnect • MetaMask • Nethereum • ethers.js • JSON-RPC
+Cloud & Infrastructure
+Microsoft Azure • AWS • Docker • Kubernetes • Terraform • GitHub Actions
+Databases & Messaging
+SQL Server • PostgreSQL • Redis • MongoDB • Kafka • RabbitMQ
+Blockchain Infrastructure
+Alchemy • Infura • QuickNode • The Graph • Chainlink
+Testing & Quality
+xUnit • NUnit • Flutter Test • Integration Testing • Postman
+Tools & Collaboration
+GitHub • Azure DevOps • Jira • Confluence • Slack • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to build enterprise-grade blockchain platforms and cross-platform mobile applications
+✨ Exposure to blockchain, Web3, fintech, AI, cloud-native technologies, and emerging digital innovations
+✨ Collaborative, engineering-first culture focused on innovation, ownership, and technical excellence
+✨ Career advancement into Lead Blockchain Engineer, Full Stack Architect, Mobile Architect, Principal Engineer, Engineering Manager, or Solutions Architect
+✨ Strong investment in blockchain education, Microsoft certifications, Flutter training, conference participation, open-source contributions, and continuous professional development
+________________
+
+
+Apply
+If you are passionate about building secure, scalable blockchain applications, developing exceptional Flutter mobile experiences, and architecting enterprise-grade .NET backend systems that power the future of decentralized technology, we'd love to connect with you.

@@ -1,0 +1,97 @@
+﻿Senior Security Engineer
+Fintech Infrastructure & Commerce Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🔐 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management and technology-focused firm supporting innovative companies across fintech, digital infrastructure, and emerging technology sectors.
+We collaborate on projects connected to Stripe’s ecosystem, helping build scalable payment systems, financial infrastructure, developer-focused platforms, and modern commerce solutions used by businesses globally.
+We are expanding our security engineering organization and seeking experienced security professionals passionate about protecting modern platforms, cloud infrastructure, and financial technology systems.
+________________
+
+
+The Opportunity
+We are seeking a Senior Security Engineer to help secure modern fintech and commerce platforms across cloud infrastructure, applications, APIs, and internal systems.
+In this role, you will work closely with engineering, DevOps, and product teams to strengthen platform security, improve security operations, and establish best practices across infrastructure, application development, and operational processes.
+This is a high-impact role offering strong technical ownership, cross-functional collaboration, and the opportunity to shape security strategy across rapidly evolving technology platforms.
+________________
+
+
+What You’ll Do
+Security Engineering & Operations
+* Design, implement, and maintain security controls across applications, infrastructure, and cloud environments
+* Identify, assess, and remediate security vulnerabilities across systems and services
+* Conduct security reviews, risk assessments, and threat modeling exercises
+* Monitor systems for security incidents, suspicious activity, and operational risks
+* Support incident response, investigation, and remediation processes
+Application & Infrastructure Security
+* Improve security practices across APIs, authentication systems, and cloud infrastructure
+* Collaborate with engineering teams to integrate security into development workflows and CI/CD pipelines
+* Implement infrastructure hardening, access controls, and secrets management
+* Support secure software development lifecycle (SSDLC) initiatives
+* Conduct penetration testing coordination and security validation activities
+Compliance & Best Practices
+* Help establish and maintain security policies, standards, and operational procedures
+* Support compliance initiatives related to fintech and infrastructure security requirements
+* Improve security awareness and engineering best practices across teams
+* Maintain security documentation, reporting, and remediation tracking
+________________
+
+
+What We’re Looking For
+Required Experience
+* 5+ years of experience in security engineering, application security, or infrastructure security
+* Strong understanding of:
+   * cloud security
+   * application security
+   * network security
+   * authentication and authorization systems
+   * incident response and vulnerability management
+* Experience securing cloud environments such as AWS, Azure, or GCP
+* Experience with security tools including vulnerability scanners, SIEM platforms, and monitoring systems
+* Familiarity with CI/CD security practices and modern DevSecOps workflows
+* Understanding of APIs, web application security, and secure coding principles
+* Strong scripting or automation skills using Python, Bash, or similar technologies
+* Excellent analytical, troubleshooting, and communication skills
+________________
+
+
+Preferred Experience
+● Experience working in fintech, payments, SaaS, or infrastructure platforms
+● Familiarity with Stripe APIs or financial systems
+● Experience with Kubernetes, Docker, and container security
+● Knowledge of compliance frameworks such as SOC 2, ISO 27001, or PCI DSS
+● Experience with penetration testing, threat modeling, or red team exercises
+● Startup or high-growth engineering environment experience
+________________
+
+
+Tech Environment
+Cloud & Infrastructure
+AWS • Docker • Kubernetes • Terraform
+Security & Monitoring
+SIEM • Vulnerability Management • IAM • Secrets Management
+Development & Automation
+Python • Bash • CI/CD • GitHub Actions
+Tools & Collaboration
+GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation
+✨ High-impact security ownership
+✨ Collaborative and engineering-driven culture
+✨ Opportunity to secure innovative fintech and infrastructure platforms
+✨ Long-term growth and leadership opportunities
+________________
+
+
+Apply
+If you are passionate about cybersecurity, infrastructure protection, and securing modern financial technology platforms, we’d love to connect with you.

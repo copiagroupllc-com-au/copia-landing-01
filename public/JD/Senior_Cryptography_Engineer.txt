@@ -1,0 +1,121 @@
+﻿Senior Cryptography Engineer
+Applied Cryptography, Secure Systems & Privacy-Preserving Technologies
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🔐 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across blockchain, cybersecurity, fintech, AI, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the development of secure digital infrastructure, decentralized technologies, financial platforms, and privacy-focused software solutions. Our portfolio companies are building technologies where security, trust, and cryptographic innovation are fundamental to their success.
+We are seeking an experienced Senior Cryptography Engineer to design, implement, and optimize cryptographic systems that protect sensitive data, secure digital assets, and enable trusted distributed applications.
+________________
+
+
+The Opportunity
+As a Senior Cryptography Engineer, you will lead the design and implementation of advanced cryptographic solutions across blockchain platforms, secure communication systems, authentication services, and privacy-preserving technologies. You'll collaborate with Security Engineers, Software Engineers, Blockchain Architects, and Product teams to build secure, scalable, and production-ready systems.
+This role offers the opportunity to solve complex security challenges while contributing to next-generation technologies including digital identity, decentralized systems, confidential computing, and zero-knowledge cryptography.
+________________
+
+
+What You'll Do
+Applied Cryptography
+* Design and implement modern cryptographic protocols and secure communication systems
+* Develop encryption, digital signature, authentication, and key management solutions
+* Build secure cryptographic libraries and reusable security components
+* Evaluate emerging cryptographic standards and recommend implementation strategies
+* Perform cryptographic threat modeling and security analysis
+Blockchain & Distributed Systems
+* Develop cryptographic solutions supporting blockchain infrastructure and decentralized applications
+* Implement secure wallet, transaction signing, and digital asset management systems
+* Design cryptographic protocols for consensus mechanisms and distributed networks
+* Collaborate with blockchain teams on protocol security and smart contract integration
+* Improve security across Web3 and decentralized ecosystems
+Privacy & Security Engineering
+* Build privacy-preserving technologies using advanced cryptographic techniques
+* Implement secure authentication, authorization, and identity verification systems
+* Design secure key lifecycle management and Hardware Security Module (HSM) integrations
+* Conduct security reviews, penetration support, and cryptographic audits
+* Ensure compliance with industry security standards and best practices
+Technical Leadership
+* Provide guidance on cryptographic architecture and secure software development
+* Mentor engineers on cryptographic principles and security engineering practices
+* Collaborate with Product, Infrastructure, and Compliance teams throughout development
+* Participate in architecture reviews and security assessments
+* Stay current with academic research and advancements in applied cryptography
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of professional software engineering or security engineering experience
+* 3+ years of hands-on experience designing or implementing cryptographic systems
+* Experience building production-grade security solutions
+* Strong understanding of secure software development practices
+Technical Expertise
+Strong experience with:
+* Applied Cryptography
+* Public Key Infrastructure (PKI)
+* TLS/SSL
+* Digital Signatures
+* Key Management Systems (KMS)
+* Hardware Security Modules (HSM)
+* Secure Authentication Protocols
+* C++, Rust, Go, or Python
+Strong understanding of:
+* Symmetric and asymmetric cryptography
+* Elliptic Curve Cryptography (ECC)
+* RSA and AES encryption
+* Hash functions and message authentication
+* Zero-Knowledge Proofs (ZKP)
+* Multi-Party Computation (MPC)
+* Threshold cryptography
+* Secure random number generation
+* Secure key exchange protocols
+* Cryptographic attack vectors and mitigation strategies
+________________
+
+
+Preferred Qualifications
+● Experience building blockchain protocols, digital asset platforms, or cryptocurrency infrastructure
+● Familiarity with zk-SNARKs, zk-STARKs, Bulletproofs, or other zero-knowledge technologies
+● Experience with secure enclave technologies such as Intel SGX or AWS Nitro Enclaves
+● Experience implementing FIDO2, WebAuthn, OAuth 2.0, OpenID Connect, or identity management systems
+● Knowledge of post-quantum cryptography and emerging cryptographic standards
+● Contributions to open-source cryptography libraries, blockchain projects, or academic research
+________________
+
+
+Technology Environment
+Programming Languages
+Rust • C++ • Go • Python • Java
+Cryptography & Security
+OpenSSL • libsodium • BoringSSL • PKI • HSM • KMS
+Blockchain & Web3
+Ethereum • Solidity • Bitcoin • Digital Signatures • MPC • Zero-Knowledge Proofs
+Cloud & Infrastructure
+AWS • Azure • Google Cloud Platform • Docker • Kubernetes
+Security & Compliance
+OAuth 2.0 • OpenID Connect • WebAuthn • FIDO2 • SOC 2 • ISO 27001
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Security Testing Tools
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to develop next-generation cryptographic technologies and secure digital infrastructure
+✨ Exposure to innovative blockchain, cybersecurity, fintech, and AI initiatives
+✨ Collaborative, security-first engineering culture focused on research and innovation
+✨ Career advancement into Principal Cryptography Engineer, Security Architect, or Cryptography Research Lead
+✨ Strong investment in technical research, conference participation, open-source contributions, and continuous learning
+________________
+
+
+Apply
+If you are passionate about applied cryptography, secure system design, and building technologies that protect digital assets and sensitive information at scale, we'd love to connect with you.

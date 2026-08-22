@@ -1,0 +1,119 @@
+﻿Senior Ruby on Rails Software Engineer
+Backend Platforms, Financial Technology & Scalable Web Applications
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+💎 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, digital infrastructure, commerce, and emerging technology sectors.
+Through strategic investments and partnerships, we help advance the development of modern financial services, developer platforms, and scalable software solutions that power businesses worldwide.
+We are seeking an experienced Senior Ruby on Rails Software Engineer to help design, build, and scale mission-critical applications supporting innovative products across our portfolio ecosystem.
+________________
+
+
+The Opportunity
+As a Senior Ruby on Rails Software Engineer, you will play a key role in developing robust backend systems, scalable APIs, and high-performance web applications that support business-critical operations.
+You will work closely with Product Managers, Designers, Frontend Engineers, and Infrastructure teams to deliver secure, reliable, and maintainable software solutions while contributing to architectural decisions and engineering best practices.
+This role offers significant ownership, technical influence, and opportunities to help shape the future of our technology initiatives.
+________________
+
+
+What You'll Do
+Backend Application Development
+* Design, develop, and maintain scalable web applications using Ruby on Rails
+* Build and enhance backend services, APIs, and platform integrations
+* Develop reusable, maintainable, and well-tested software components
+* Collaborate with frontend engineers to deliver seamless user experiences
+* Integrate third-party platforms, payment services, and business systems
+Architecture & Platform Engineering
+* Contribute to system architecture and application design decisions
+* Design scalable solutions that support growth, reliability, and performance
+* Optimize database structures, queries, and application performance
+* Improve application monitoring, observability, and operational efficiency
+* Support cloud-native infrastructure and deployment initiatives
+Quality & Engineering Excellence
+* Write clean, maintainable, and thoroughly tested code
+* Participate in code reviews and architectural discussions
+* Identify and resolve performance bottlenecks and technical debt
+* Champion engineering best practices and software quality standards
+* Contribute to CI/CD pipelines and automated deployment workflows
+Collaboration & Mentorship
+* Partner with Product, Design, QA, and Engineering teams throughout the development lifecycle
+* Mentor junior and mid-level engineers through technical guidance and code reviews
+* Participate in sprint planning, estimation, and technical roadmapping
+* Support cross-functional initiatives and strategic technology projects
+* Foster a collaborative and continuous learning environment
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of professional software engineering experience
+* 4+ years of hands-on Ruby on Rails development experience
+* Proven experience building and maintaining production-grade web applications
+* Experience working in Agile software development environments
+Technical Expertise
+Strong experience with:
+* Ruby
+* Ruby on Rails
+* RESTful API development
+* PostgreSQL or MySQL
+* Background job processing systems
+* Caching strategies and performance optimization
+* Automated testing frameworks
+* Git-based development workflows
+Strong understanding of:
+* Object-oriented design principles
+* MVC architecture
+* Database design and optimization
+* Web application security best practices
+* Scalable backend system design
+* CI/CD and deployment automation
+* Cloud-based application environments
+________________
+
+
+Preferred Qualifications
+● Experience working in fintech, payments, SaaS, or high-growth technology environments
+● Familiarity with financial systems, transaction processing, or payment platforms
+● Experience with Sidekiq, Redis, and background processing architectures
+● Experience with GraphQL and modern API architectures
+● Experience with AWS and cloud-native infrastructure
+● Experience mentoring engineers and leading technical initiatives
+________________
+
+
+Technology Environment
+Backend Development
+Ruby • Ruby on Rails • REST APIs • GraphQL
+Databases & Caching
+PostgreSQL • MySQL • Redis
+Background Processing
+Sidekiq • Active Job
+Cloud & Infrastructure
+AWS • Docker • Kubernetes • Terraform
+Testing & Quality
+RSpec • Capybara • CI/CD Pipelines
+Tools & Collaboration
+GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to build and scale impactful software products
+✨ Exposure to innovative fintech and emerging technology initiatives
+✨ Collaborative and engineering-driven culture
+✨ Career advancement and technical leadership opportunities
+✨ Strong investment in learning, ownership, and continuous improvement
+________________
+
+
+Apply
+If you are passionate about Ruby on Rails development, building scalable software systems, and solving complex engineering challenges, we'd love to connect with you.

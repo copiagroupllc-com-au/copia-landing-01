@@ -1,0 +1,120 @@
+﻿Senior Web3 Product Manager
+Product Strategy, Blockchain Innovation & Web3 Ecosystem Growth
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🌐 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across blockchain, fintech, AI, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of decentralized technologies, digital asset ecosystems, and next-generation financial platforms. Our portfolio companies are building Web3 infrastructure, DeFi protocols, tokenized ecosystems, decentralized applications (dApps), and blockchain-powered products that are shaping the future of the internet.
+We are seeking an experienced Senior Web3 Product Manager to lead product strategy, execution, and growth for innovative blockchain and Web3 products while working closely with engineering, design, business, and executive leadership.
+________________
+
+
+The Opportunity
+As a Senior Web3 Product Manager, you will own the product lifecycle from strategy through execution, helping transform complex blockchain technologies into intuitive, customer-focused products. You'll collaborate with Blockchain Engineers, Smart Contract Developers, Designers, Data Analysts, Marketing, and Executive Leadership to build scalable Web3 solutions that drive adoption and deliver measurable business value.
+This role combines product leadership, strategic thinking, technical understanding, and market insight, offering the opportunity to shape products at the forefront of decentralized technology.
+________________
+
+
+What You'll Do
+Product Strategy & Vision
+* Define product vision, strategy, and roadmap for Web3 platforms and blockchain-powered products
+* Identify market opportunities, customer needs, and emerging blockchain trends
+* Prioritize features based on business value, customer feedback, and technical feasibility
+* Develop product requirements, user stories, and success metrics
+* Align product initiatives with business objectives and long-term company strategy
+Product Execution
+* Lead end-to-end product development from discovery to launch
+* Collaborate closely with Engineering, Design, and QA throughout the development lifecycle
+* Manage sprint planning, backlog prioritization, and release planning
+* Monitor product performance and iterate based on analytics and customer insights
+* Drive continuous improvement through experimentation and data-driven decision making
+Web3 Product Development
+* Define products involving smart contracts, wallets, tokenization, NFTs, DAOs, DeFi, or blockchain infrastructure
+* Work with blockchain engineering teams to translate technical capabilities into customer-focused experiences
+* Ensure products are secure, scalable, and aligned with decentralized ecosystem standards
+* Evaluate blockchain protocols, Layer 2 networks, and emerging Web3 technologies
+* Balance decentralization, usability, compliance, and business objectives
+Cross-Functional Leadership
+* Partner with executive leadership on product strategy and portfolio planning
+* Collaborate with Marketing, Sales, Customer Success, and Business Development teams
+* Communicate product vision and roadmap to internal and external stakeholders
+* Coordinate product launches and go-to-market initiatives
+* Foster a culture of innovation, collaboration, and customer-centric thinking
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of Product Management experience in technology companies
+* 2+ years managing blockchain, Web3, crypto, fintech, or digital asset products
+* Proven experience launching and scaling software products from concept to production
+* Experience working in Agile product development environments
+* Strong understanding of product discovery, roadmap planning, and product analytics
+Core Competencies
+Strong experience with:
+* Product Strategy
+* Product Roadmapping
+* Agile & Scrum
+* User Story Development
+* Product Analytics
+* Stakeholder Management
+* Go-to-Market Planning
+* Customer Discovery
+Strong understanding of:
+* Blockchain technology
+* Web3 ecosystems
+* Smart contracts
+* Wallet integrations
+* Tokenomics fundamentals
+* DeFi protocols
+* DAO governance
+* User-centered product design
+________________
+
+
+Preferred Qualifications
+● Experience launching DeFi platforms, wallets, NFT marketplaces, Layer 2 applications, or blockchain infrastructure products
+● Familiarity with Ethereum, Solana, Polygon, Arbitrum, Base, Avalanche, or other blockchain ecosystems
+● Experience working with token economies, staking, governance, or digital asset platforms
+● Knowledge of analytics platforms including Mixpanel, Amplitude, GA4, or Looker
+● Basic understanding of smart contract development and blockchain architecture
+● MBA or certifications such as Certified Scrum Product Owner (CSPO), Pragmatic Institute, or Product School are a plus
+________________
+
+
+Technology Environment
+Product Management
+Jira • Confluence • Productboard • Notion • Aha!
+Design & Collaboration
+Figma • FigJam • Miro • Slack
+Analytics & Data
+Mixpanel • Amplitude • Google Analytics • Looker • Power BI
+Blockchain Ecosystem
+Ethereum • Solidity • EVM • WalletConnect • MetaMask • The Graph • Chainlink
+Cloud & Platforms
+AWS • Docker • Kubernetes • GitHub
+Development Collaboration
+GitHub • Linear • Postman • Swagger
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to define next-generation Web3 products used by global communities
+✨ Exposure to blockchain, DeFi, AI, fintech, and emerging technology initiatives
+✨ Collaborative, product-driven culture focused on innovation, ownership, and customer success
+✨ Career advancement into Lead Product Manager, Group Product Manager, Director of Product, VP of Product, or Chief Product Officer (CPO)
+✨ Strong investment in leadership development, blockchain education, industry conferences, and continuous professional growth
+________________
+
+
+Apply
+If you are passionate about building category-defining Web3 products, solving complex user problems with blockchain technology, and leading cross-functional teams to deliver innovative digital experiences, we'd love to connect with you.

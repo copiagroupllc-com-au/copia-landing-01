@@ -1,0 +1,122 @@
+﻿Senior AI Product Manager
+AI Product Strategy, Generative AI Innovation & Product Leadership
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🤖 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across artificial intelligence, fintech, blockchain, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of technology companies building intelligent software, AI-powered platforms, enterprise automation solutions, and next-generation digital products. Our portfolio companies leverage machine learning, generative AI, and advanced analytics to solve complex business challenges and deliver transformative customer experiences.
+We are seeking an experienced Senior AI Product Manager to lead the strategy, development, and execution of innovative AI-powered products while collaborating with engineering, design, and executive leadership to shape the future of intelligent technology.
+________________
+
+
+The Opportunity
+As a Senior AI Product Manager, you will own the end-to-end product lifecycle for AI and machine learning products—from discovery and roadmap planning to launch and continuous optimization. You'll work closely with AI Engineers, Data Scientists, Software Engineers, UX Designers, and business stakeholders to transform cutting-edge AI capabilities into scalable, customer-centric products.
+This role combines strategic product thinking, technical understanding of AI systems, and strong execution skills, offering the opportunity to build impactful AI solutions across multiple industries.
+________________
+
+
+What You'll Do
+Product Strategy & Vision
+* Define product vision, strategy, and roadmaps for AI-powered products and platforms
+* Identify customer needs, market opportunities, and emerging AI trends
+* Prioritize product initiatives based on business value, customer impact, and technical feasibility
+* Develop product requirements, user stories, and success metrics
+* Align AI product initiatives with company objectives and long-term growth strategies
+AI Product Development
+* Lead the development of AI-driven applications, automation platforms, and intelligent workflows
+* Collaborate with AI Engineers and Data Scientists to translate machine learning capabilities into user-focused features
+* Define product requirements for Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, recommendation engines, and predictive analytics
+* Balance innovation with responsible AI, privacy, and regulatory considerations
+* Ensure AI solutions deliver measurable business outcomes and exceptional user experiences
+Product Execution
+* Manage the complete product lifecycle from concept through launch and continuous improvement
+* Own product backlogs, sprint planning, and feature prioritization
+* Collaborate with Engineering, Design, QA, and Marketing teams to deliver high-quality releases
+* Monitor product adoption, customer feedback, and performance metrics
+* Drive continuous optimization through experimentation and data-driven decision-making
+Cross-Functional Leadership
+* Partner with executive leadership on AI product strategy and investment priorities
+* Work closely with Sales, Marketing, Customer Success, and Business Development teams
+* Present product roadmaps, AI capabilities, and strategic recommendations to stakeholders
+* Coordinate product launches and go-to-market initiatives
+* Foster a collaborative, customer-focused culture across cross-functional teams
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of Product Management experience in software or technology companies
+* 2+ years managing AI, machine learning, or data-driven products
+* Proven experience launching and scaling enterprise or consumer software products
+* Experience working in Agile and Scrum environments
+* Strong understanding of product discovery, roadmap planning, and product analytics
+Core Competencies
+Strong experience with:
+* Product Strategy
+* Product Roadmapping
+* Agile & Scrum
+* User Story Development
+* Product Analytics
+* Stakeholder Management
+* Customer Discovery
+* Go-to-Market Strategy
+
+
+Strong understanding of:
+* Machine Learning fundamentals
+* Large Language Models (LLMs)
+* Generative AI
+* AI Agents
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering concepts
+* AI ethics and governance
+* User-centered product design
+________________
+
+
+Preferred Qualifications
+● Experience building AI copilots, conversational AI platforms, enterprise automation tools, or intelligent SaaS products
+● Familiarity with OpenAI, Anthropic Claude, Google Gemini, Meta Llama, or other foundation models
+● Experience working with vector databases such as Pinecone, Weaviate, Milvus, Chroma, or pgvector
+● Knowledge of analytics platforms including Mixpanel, Amplitude, GA4, Looker, or Tableau
+● Basic understanding of Python, REST APIs, cloud platforms, and AI model deployment
+● MBA, Certified Scrum Product Owner (CSPO), Product School certification, or equivalent product management credentials
+________________
+
+
+Technology Environment
+AI Platforms
+OpenAI • Anthropic Claude • Google Gemini • Meta Llama • Hugging Face
+AI Frameworks
+LangChain • LlamaIndex • RAG • AI Agents • Prompt Engineering
+Product Management
+Jira • Productboard • Aha! • Notion • Confluence
+Analytics & Data
+Mixpanel • Amplitude • Google Analytics • Looker • Power BI
+Cloud & Infrastructure
+AWS • Azure • Google Cloud Platform • Docker • Kubernetes
+Development Collaboration
+GitHub • Postman • Swagger • Figma • Slack
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to shape innovative AI products used by businesses and customers worldwide
+✨ Exposure to cutting-edge AI, fintech, blockchain, cloud-native technologies, and emerging digital solutions
+✨ Collaborative, product-driven culture focused on innovation, ownership, and customer success
+✨ Career advancement into Lead Product Manager, Group Product Manager, Director of Product, VP of Product, Head of AI Products, or Chief Product Officer (CPO)
+✨ Strong investment in AI education, leadership development, industry conferences, certifications, and continuous professional growth
+________________
+
+
+Apply
+If you are passionate about building innovative AI-powered products, translating advanced machine learning capabilities into exceptional customer experiences, and leading cross-functional teams to shape the future of intelligent technology, we'd love to connect with you.

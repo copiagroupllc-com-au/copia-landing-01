@@ -1,0 +1,137 @@
+﻿CTO / Blockchain Engineering Lead
+Company: Copia Group, LLC
+Location: Australia / Remote
+Type: Full-time
+Department: Engineering / Blockchain Infrastructure
+Level: Executive / Senior Leadership
+About Copia Group
+Copia Group is building a next-generation Web3 fintech and payments platform — essentially “Stripe for Web3.”
+Our goal is to make blockchain-based financial infrastructure easier for businesses, developers, and financial institutions to integrate, while providing reliable infrastructure for payments, digital assets, liquidity, and financial products.
+As we expand globally, including establishing our presence in Australia, we're looking for a technically exceptional leader to help shape the blockchain architecture and engineering organization from the ground up.
+________________
+
+
+The Role
+We are looking for a CTO / Blockchain Engineering Lead to own the technical direction of our blockchain and Web3 infrastructure.
+This is a hands-on leadership role. You will not simply manage engineering teams — you'll be expected to participate in architecture decisions, protocol design, technical strategy, security, infrastructure, and critical implementation work.
+You will work closely with product, business, and engineering stakeholders to turn the company's Web3 fintech vision into a scalable production platform.
+The ideal candidate has deep experience with blockchain protocols, EVM, distributed systems, wallets, payments, digital assets, and/or financial infrastructure, combined with experience leading engineering teams or building products from zero to production.
+________________
+
+
+
+
+Key Responsibilities
+Blockchain & Technical Architecture
+* Own the overall technical architecture for Copia's blockchain and Web3 infrastructure.
+* Design scalable, secure and reliable blockchain-based financial systems.
+* Lead architecture decisions across EVM, smart contracts, blockchain nodes, APIs, wallets, payment infrastructure and distributed systems.
+* Evaluate blockchain protocols, infrastructure providers and emerging Web3 technologies.
+* Design systems capable of supporting high transaction volumes and institutional-grade reliability.
+* Establish technical standards for scalability, security, observability and maintainability.
+Web3 / Financial Infrastructure
+* Help architect blockchain-based payment and settlement infrastructure.
+* Work with digital assets, stablecoins, wallets, liquidity and transaction infrastructure.
+* Design integrations with blockchain networks, custodians, exchanges, liquidity providers and financial institutions.
+* Help establish secure transaction, signing and custody architectures.
+* Identify opportunities to simplify blockchain integration for businesses and developers.
+Engineering Leadership
+* Build and lead a high-performing blockchain engineering team.
+* Define engineering standards, development processes and technical best practices.
+* Mentor senior engineers and technical leads.
+* Participate in hiring and building the engineering organization.
+* Establish an engineering culture focused on ownership, quality and execution.
+* Work closely with Product and Business leadership on technical strategy and roadmap.
+Security & Reliability
+* Own the security architecture of blockchain-related systems.
+* Establish practices for smart-contract and infrastructure security.
+* Lead security reviews, threat modeling and technical risk assessments.
+* Design systems that can safely handle financial transactions and digital assets.
+* Lead incident response and recovery for critical blockchain infrastructure.
+Product & Company Strategy
+* Translate the company's business vision into a long-term technical roadmap.
+* Work directly with founders and senior leadership on product and technology strategy.
+* Assess build-vs-buy decisions and external technology partnerships.
+* Represent the technical organization with strategic partners and customers when required.
+* Help define the company's long-term blockchain infrastructure strategy.
+________________
+
+
+Required Qualifications
+* 8+ years of software engineering experience, with significant experience in blockchain/Web3.
+* Strong experience designing and building production blockchain systems.
+* Deep understanding of blockchain architecture and distributed systems.
+* Strong experience with one or more of:
+   * EVM / Ethereum
+   * Solidity
+   * Go
+   * Cosmos SDK
+   * Rust
+   * Substrate
+   * Layer-1 / Layer-2 infrastructure
+   * Smart-contract infrastructure
+* Strong understanding of blockchain transactions, consensus, networking and on-chain state.
+* Experience with wallets, exchanges, payments, custody, liquidity or digital-asset infrastructure is highly valuable.
+* Experience designing scalable backend systems and APIs.
+* Experience with cloud infrastructure, containers and Kubernetes.
+* Strong understanding of security principles for financial and blockchain systems.
+* Previous experience leading engineers, technical teams, or a technology organization.
+* Ability to operate effectively at both strategic and hands-on technical levels.
+________________
+
+
+Highly Preferred
+Experience with:
+* Stablecoins and digital-asset payments
+* Cross-border payments
+* Blockchain bridges / interoperability
+* IBC
+* Layer-1 / Layer-2 systems
+* Account abstraction
+* Custody infrastructure
+* Liquidity management
+* DEX / DeFi infrastructure
+* Smart-contract security
+* Blockchain node infrastructure
+* Transaction indexing
+* Event-driven architectures
+* Financial APIs
+* Institutional digital-asset infrastructure
+* Regulatory or compliance considerations in fintech
+________________
+
+
+Leadership Profile
+We're looking for someone who:
+* Thinks like an architect and builder, not only a manager.
+* Can take a system from zero → architecture → production.
+* Is comfortable making difficult technical decisions.
+* Understands the difference between a blockchain prototype and production-grade financial infrastructure.
+* Can communicate complex technical concepts clearly to non-technical stakeholders.
+* Takes ownership of problems rather than waiting for instructions.
+* Can build and mentor a strong engineering organization.
+* Is excited about building something ambitious in Web3 fintech and payments.
+________________
+
+
+What You'll Own
+As CTO / Blockchain Engineering Lead, you will have ownership across:
+Blockchain Architecture → Web3 Infrastructure → Payments Infrastructure → Security → Engineering Team → Technical Roadmap
+You will have a significant influence on how Copia's technology platform is designed and built.
+________________
+
+
+
+
+
+
+Why Join Copia Group?
+* Build a Web3 fintech platform from the ground up.
+* Help create “Stripe for Web3” infrastructure.
+* Work at the intersection of payments, blockchain and financial technology.
+* High level of technical ownership and autonomy.
+* Opportunity to shape the engineering organization and architecture.
+* Global expansion, including our Australia presence.
+* Work directly with leadership on product and technology strategy.
+The ideal candidate
+We're particularly interested in engineers who have built real blockchain infrastructure, not just interacted with Web3 APIs.

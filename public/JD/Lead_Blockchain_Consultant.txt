@@ -1,0 +1,138 @@
+﻿Lead Blockchain Consultant
+Blockchain Strategy, Enterprise Solutions & Web3 Advisory Leadership
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+⛓️ Lead Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across blockchain, fintech, AI, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help organizations adopt and scale transformative technologies that drive business growth and digital innovation. Our portfolio companies develop blockchain infrastructure, decentralized finance (DeFi) platforms, tokenization solutions, enterprise blockchain applications, and Web3 ecosystems that are shaping the future of finance and digital commerce.
+We are seeking an experienced Lead Blockchain Consultant to provide strategic guidance, technical leadership, and blockchain advisory services for enterprise clients and innovative technology initiatives.
+________________
+
+
+The Opportunity
+As a Lead Blockchain Consultant, you will serve as a trusted advisor to executives, product teams, and engineering organizations, helping them evaluate, design, and implement blockchain-powered solutions. You'll work closely with business stakeholders, Solution Architects, Blockchain Engineers, Product Managers, and executive leadership to translate business objectives into scalable, secure, and future-ready blockchain strategies.
+This role combines consulting expertise, technical architecture, and business acumen, offering the opportunity to lead enterprise blockchain initiatives across industries including fintech, digital assets, supply chain, healthcare, gaming, and enterprise software.
+________________
+
+
+What You'll Do
+Blockchain Consulting & Strategy
+* Advise clients on blockchain adoption strategies, digital transformation, and Web3 innovation
+* Assess business challenges and identify opportunities where blockchain technology delivers measurable value
+* Develop blockchain roadmaps, solution architectures, and implementation strategies
+* Conduct blockchain feasibility studies, technology assessments, and proof-of-concept initiatives
+* Present technical recommendations and strategic guidance to executive stakeholders
+Solution Architecture
+* Design enterprise blockchain architectures for scalable and secure solutions
+* Recommend appropriate blockchain platforms, protocols, and infrastructure
+* Define integration strategies between blockchain networks and enterprise systems
+* Evaluate trade-offs between public, private, consortium, and hybrid blockchain models
+* Ensure solutions meet security, compliance, scalability, and operational requirements
+Web3 & Digital Asset Advisory
+* Advise on decentralized applications (dApps), smart contracts, DeFi, NFTs, DAOs, and tokenization platforms
+* Guide clients through wallet integrations, blockchain identity, and digital asset management
+* Support tokenomics design, governance frameworks, and decentralized ecosystem planning
+* Evaluate Layer 1 and Layer 2 blockchain technologies for business use cases
+* Stay informed on emerging trends across blockchain, digital assets, and decentralized infrastructure
+Technical Leadership
+* Lead architecture workshops, client discovery sessions, and technical presentations
+* Mentor engineering teams and junior consultants on blockchain technologies and best practices
+* Collaborate with engineering teams during implementation and solution delivery
+* Define blockchain engineering standards and consulting methodologies
+* Contribute to business development, proposal creation, and technical pre-sales engagements
+Cross-Functional Collaboration
+* Partner with Product Managers, Engineering Leaders, and Business Executives
+* Collaborate with Security, Compliance, and Legal teams to support regulatory readiness
+* Work with project managers to ensure successful project execution and client satisfaction
+* Support customer workshops, training sessions, and knowledge transfer initiatives
+* Foster long-term client relationships through trusted advisory and technical excellence
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 8+ years of professional experience in software engineering, solution architecture, or technology consulting
+* 4+ years of blockchain, Web3, or digital asset consulting experience
+* Proven experience delivering enterprise blockchain solutions and digital transformation initiatives
+* Experience leading client engagements and presenting to executive stakeholders
+* Strong understanding of Agile delivery methodologies and enterprise consulting 
+* practices
+Technical Expertise
+Strong knowledge of:
+* Blockchain Architecture
+* Distributed Ledger Technology (DLT)
+* Ethereum
+* Hyperledger Fabric
+* Polygon
+* Solana
+* Cosmos
+* Layer 2 Scaling Solutions
+* Smart Contracts
+* Tokenization Platforms
+* Digital Asset Infrastructure
+Strong understanding of:
+* Decentralized Applications (dApps)
+* DeFi Protocols
+* DAO Governance
+* NFTs and Digital Ownership
+* Wallet Integration
+* Identity and Access Management
+* API Integration
+* Cloud Architecture
+* Cybersecurity Principles
+* Enterprise Integration Patterns
+Experience with:
+* AWS, Azure, or Google Cloud Platform
+* REST APIs and GraphQL
+* Docker and Kubernetes
+* SQL and NoSQL databases
+* Git and CI/CD pipelines
+________________
+
+
+Preferred Qualifications
+● Experience consulting within fintech, banking, healthcare, government, gaming, or supply chain industries
+● Familiarity with Solidity, Rust, Go, or TypeScript for blockchain application development
+● Experience with enterprise blockchain platforms including Hyperledger Fabric, Quorum, Corda, or R3
+● Knowledge of blockchain compliance, digital identity, KYC/AML, and regulatory frameworks
+● Cloud certifications or blockchain certifications such as Certified Blockchain Solution Architect (CBSA), Certified Enterprise Blockchain Professional (CEBP), AWS Certified Solutions Architect, or equivalent
+● Experience supporting technical pre-sales, solution demonstrations, and proposal development
+________________
+
+
+Technology Environment
+Blockchain Platforms
+Ethereum • Hyperledger Fabric • Polygon • Solana • Cosmos • Avalanche • Base • Arbitrum
+Smart Contract Development
+Solidity • Hardhat • Foundry • Rust • Move
+Cloud & Infrastructure
+AWS • Azure • Google Cloud Platform • Docker • Kubernetes • Terraform
+Databases & Integration
+PostgreSQL • MongoDB • Redis • REST APIs • GraphQL • Kafka
+Security & Compliance
+Identity Management • Multi-Signature Wallets • KYC/AML • Smart Contract Auditing • Encryption
+Tools & Collaboration
+GitHub • Jira • Confluence • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to advise leading organizations on blockchain strategy and digital transformation
+✨ Exposure to cutting-edge blockchain, Web3, AI, fintech, and emerging technology initiatives
+✨ Collaborative, consulting-driven culture focused on innovation, strategic thinking, and technical excellence
+✨ Career advancement into Principal Consultant, Blockchain Architect, Director of Consulting, Head of Blockchain, VP of Technology, or CTO
+✨ Strong investment in professional certifications, leadership development, blockchain research, industry conferences, and continuous learning
+________________
+
+
+Apply
+If you are passionate about helping organizations unlock the potential of blockchain technology, delivering innovative enterprise solutions, and leading transformational Web3 initiatives, we'd love to connect with you.

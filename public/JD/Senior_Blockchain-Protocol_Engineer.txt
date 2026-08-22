@@ -1,0 +1,83 @@
+﻿Senior Blockchain / Protocol Engineer
+Location: Remote / Global
+Employment Type: Full-time
+Department: Engineering
+Level: Senior / Lead
+Industry: Web3 · Fintech · Blockchain · Payments
+About Copia Group
+Copia Group is building a Stripe-like infrastructure for Web3 — a next-generation fintech and payments platform designed to make blockchain-based payments, digital assets, and financial services easier to build and use.
+As we expand internationally, including our planned presence in Australia, we're building a strong engineering team focused on secure, scalable blockchain infrastructure and real-world financial applications.
+The Role
+We are looking for a Senior Blockchain / Protocol Engineer to take ownership of the architecture and development of blockchain protocols and smart-contract infrastructure powering our Web3 fintech platform.
+You will work across EVM-compatible networks and emerging blockchain ecosystems, designing secure protocols, smart contracts, transaction infrastructure, and integrations.
+This is a hands-on engineering role with significant ownership. You will work closely with backend, frontend, product, and security engineers to take blockchain functionality from architecture through production.
+Key Responsibilities
+* Design and develop smart contracts and blockchain protocols for Web3 fintech and payment applications.
+* Architect secure and scalable DeFi, payment, tokenization, and RWA infrastructure.
+* Develop and maintain Solidity-based smart contracts for EVM networks.
+* Research and evaluate blockchain technologies, L2s, interoperability solutions, and emerging protocols.
+* Design blockchain integrations, bridges, transaction flows, and on-chain/off-chain architectures.
+* Build backend services that interact with smart contracts and blockchain networks.
+* Review smart-contract architecture and identify potential security and economic risks.
+* Develop comprehensive unit, integration, fuzzing, and invariant tests.
+* Participate in protocol audits and security reviews.
+* Optimize gas usage, transaction throughput, reliability, and protocol performance.
+* Work with cryptographic primitives and formal verification where appropriate.
+* Collaborate with product and engineering leadership to translate business requirements into technical architecture.
+* Mentor engineers and contribute to engineering standards and best practices.
+* Take ownership of blockchain features from architecture → development → testing → deployment → production.
+Required Qualifications
+* 5+ years of software engineering experience, with significant blockchain experience.
+* 3+ years of hands-on smart contract / protocol engineering experience.
+* Strong experience with Solidity and EVM architecture.
+* Strong understanding of:
+   * Ethereum
+   * Smart contracts
+   * DeFi protocols
+   * Token standards
+   * Oracles
+   * DEX architecture
+   * Staking / vesting mechanisms
+   * Bridges and cross-chain systems
+   * L2 infrastructure
+* Strong understanding of smart-contract security and common attack vectors.
+* Experience with Foundry, Hardhat, or comparable blockchain development frameworks.
+* Strong experience writing automated smart-contract tests.
+* Proficiency in at least one systems/backend language such as Rust, Go, Python, or TypeScript.
+* Experience designing blockchain systems beyond simply integrating existing contracts.
+* Strong understanding of distributed systems and blockchain architecture.
+* Ability to independently own complex technical projects.
+Nice to Have
+* Experience with Sui / Move.
+* Experience with Solana / Rust.
+* Experience with Stacks / Clarity or other alternative blockchain ecosystems.
+* Formal verification experience.
+* Experience with blockchain security auditing.
+* Experience building DEXs, lending protocols, RWA platforms, payment protocols, or stablecoin infrastructure.
+* Experience with account abstraction / smart accounts.
+* Experience with cross-chain protocols and interoperability.
+* Experience with blockchain indexing and transaction simulation.
+* Experience working on high-throughput or low-latency blockchain infrastructure.
+* Open-source blockchain contributions.
+* Experience leading blockchain engineering teams.
+Tech Stack
+Blockchain: Ethereum, EVM, L2s, Sui, Solana
+Smart Contracts: Solidity, Move, Rust, Clarity
+Development: Foundry, Hardhat, Ethers.js
+Backend: Rust, Python, Node.js / TypeScript
+Infrastructure: Docker, cloud infrastructure, CI/CD
+Security: Formal verification, fuzzing, invariant testing, smart-contract auditing
+What We’re Looking For
+We're looking for someone who goes beyond simply writing smart contracts.
+The ideal engineer understands why a protocol is designed a certain way, can challenge architectural decisions, identify security and economic risks, and independently turn a protocol concept into production-ready infrastructure.
+You should be comfortable working in ambiguous environments, researching new blockchain technologies, and taking ownership of technically complex problems.
+Why Join Copia Group?
+* Build core infrastructure for a Web3 fintech and payments platform.
+* Work on problems at the intersection of blockchain, fintech, payments, DeFi, and RWA.
+* Significant technical ownership and influence over protocol architecture.
+* Opportunity to work across multiple blockchain ecosystems.
+* International engineering environment.
+* Opportunity to help shape the architecture of a new-generation Web3 financial platform.
+* Collaborate with experienced engineers, product leaders, and blockchain specialists.
+Ideal title for Andrii: Senior Blockchain / Protocol Engineer
+Alternative if you want to position him at a higher level: Lead Blockchain / Protocol Engineer.

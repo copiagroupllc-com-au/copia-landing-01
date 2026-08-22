@@ -1,0 +1,98 @@
+﻿Senior Software Engineer (Rust)
+Fintech Infrastructure & High-Performance Systems
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🦀 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management and technology-focused firm supporting innovative companies across fintech, digital infrastructure, and emerging technology sectors.
+We collaborate on projects connected to Stripe’s ecosystem, helping build scalable payment systems, financial infrastructure, developer-focused platforms, and modern commerce solutions used by businesses globally.
+We are expanding our engineering organization and seeking experienced Rust engineers passionate about building high-performance systems, scalable infrastructure, and secure backend platforms.
+________________
+
+
+The Opportunity
+We are seeking a Senior Software Engineer (Rust) to help architect, develop, and scale modern backend infrastructure powering fintech and commerce platforms.
+In this role, you will work on distributed systems, low-latency services, platform infrastructure, APIs, and performance-critical applications while collaborating closely with engineering, infrastructure, and product teams.
+This is a high-impact engineering role offering strong technical ownership, architectural influence, and the opportunity to contribute directly to next-generation financial infrastructure systems.
+________________
+
+
+What You’ll Do
+Backend & Systems Engineering
+* Design, develop, and maintain scalable backend systems using Rust
+* Build secure APIs, distributed services, and high-performance platform infrastructure
+* Develop low-latency applications supporting financial workflows and transaction systems
+* Write clean, maintainable, and production-ready code
+* Collaborate with frontend, DevOps, and product teams to deliver end-to-end solutions
+Architecture & Performance
+* Contribute to system architecture and technical strategy
+* Optimize application performance, concurrency, reliability, and scalability
+* Build and maintain distributed systems and event-driven services
+* Improve observability, monitoring, and operational performance
+* Participate in technical planning, architecture reviews, and engineering discussions
+Collaboration & Leadership
+* Participate in code reviews and technical mentorship
+* Take ownership of technical initiatives from development through deployment
+* Collaborate cross-functionally with engineering, infrastructure, and product stakeholders
+* Help establish backend engineering standards and Rust best practices
+________________
+
+
+What We’re Looking For
+Required Experience
+* 5+ years of professional software engineering experience
+* Strong expertise in Rust and systems/backend programming
+* Experience building scalable backend services and distributed systems
+* Strong understanding of:
+   * concurrent and asynchronous programming
+   * systems architecture
+   * memory-safe programming
+   * performance optimization
+   * scalability and reliability engineering
+   * secure software development practices
+* Experience working with APIs, microservices, and cloud-native systems
+* Familiarity with relational and NoSQL databases
+* Experience with containerized environments and CI/CD workflows
+* Strong analytical, communication, and problem-solving skills
+________________
+
+
+Preferred Experience
+● Experience working in fintech, payments, SaaS, or infrastructure platforms
+● Familiarity with Stripe APIs or financial systems
+● Experience with Tokio, Actix, Axum, or async Rust ecosystems
+● Experience with AWS, Docker, Kubernetes, or Terraform
+● Experience with Kafka, gRPC, or event-driven architectures
+● Startup or high-growth engineering environment experience
+________________
+
+
+Tech Environment
+Backend & Systems
+Rust • Tokio • Axum • Actix • REST APIs • gRPC
+Infrastructure
+AWS • Docker • Kubernetes • Terraform • CI/CD
+Database & Messaging
+PostgreSQL • Redis • MongoDB • Kafka
+Tools & Collaboration
+GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation
+✨ High-impact engineering ownership
+✨ Collaborative and engineering-driven culture
+✨ Opportunity to work on innovative fintech and infrastructure platforms
+✨ Long-term growth and leadership opportunities
+________________
+
+
+Apply
+If you are passionate about Rust engineering, distributed systems, and building high-performance infrastructure powering modern financial technology platforms, we’d love to connect with you.

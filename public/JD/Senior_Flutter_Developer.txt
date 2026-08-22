@@ -1,0 +1,101 @@
+﻿Senior Flutter Developer
+Mobile Commerce & Financial Technology Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+📱 Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, digital infrastructure, commerce, and emerging technology sectors.
+Through our portfolio and strategic partnerships, we help support the development of scalable financial services, payment technologies, developer platforms, and next-generation digital products used by businesses worldwide.
+We are seeking an experienced Senior Flutter Developer to help build high-performance cross-platform mobile applications that deliver seamless user experiences across iOS, Android, and emerging platforms.
+________________
+
+
+The Opportunity
+As a Senior Flutter Developer, you will play a key role in designing, developing, and scaling modern mobile applications that power fintech, commerce, and digital platform experiences.
+You will collaborate closely with product managers, designers, backend engineers, and infrastructure teams to build secure, reliable, and intuitive mobile products while helping define mobile architecture and engineering best practices.
+This is a high-impact engineering role offering significant ownership, technical influence, and opportunities to shape the future of our mobile technology initiatives.
+________________
+
+
+What You'll Do
+Mobile Application Development
+* Design, develop, and maintain scalable cross-platform applications using Flutter and Dart
+* Build high-quality mobile experiences for iOS and Android platforms
+* Develop reusable UI components, libraries, and mobile frameworks
+* Integrate mobile applications with backend APIs, cloud services, and third-party platforms
+* Deliver clean, maintainable, and production-ready code
+Architecture & Performance
+* Define and implement scalable mobile architecture patterns
+* Optimize application performance, responsiveness, and reliability
+* Improve mobile application security and stability
+* Participate in architecture discussions and technical planning
+* Troubleshoot and resolve complex mobile engineering challenges
+Collaboration & Leadership
+* Work closely with Product, Design, Backend, and QA teams
+* Participate in code reviews and mentor junior engineers
+* Help establish engineering standards, testing practices, and development workflows
+* Contribute to sprint planning, estimation, and technical decision-making
+* Support application deployment, monitoring, and release management
+________________
+
+
+What We're Looking For
+Required Qualifications
+* 5+ years of professional mobile development experience
+* 3+ years of experience building production applications with Flutter
+* Strong expertise in Dart and Flutter framework
+* Experience publishing and maintaining applications on the Apple App Store and Google Play Store
+* Strong understanding of:
+   * Flutter architecture and state management
+   * mobile application lifecycle
+   * RESTful APIs and backend integrations
+   * performance optimization
+   * mobile security best practices
+   * responsive and adaptive UI design
+* Experience with Git and modern software development workflows
+* Strong communication, collaboration, and problem-solving skills
+________________
+
+
+Preferred Qualifications
+● Experience working in fintech, payments, e-commerce, or SaaS products
+● Familiarity with payment processing and financial technology platforms
+● Experience with Bloc, Riverpod, Provider, or similar state management solutions
+● Experience with Firebase services and cloud integrations
+● Experience integrating analytics, push notifications, and third-party SDKs
+● Experience working in startup or high-growth technology environments
+________________
+
+
+Technology Environment
+Mobile Development
+Flutter • Dart • Android • iOS
+State Management
+Bloc • Riverpod • Provider
+Backend & APIs
+REST APIs • GraphQL • Firebase
+Cloud & DevOps
+AWS • Firebase • CI/CD Pipelines
+Tools & Collaboration
+GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to build products used by global customers
+✨ Strong engineering culture focused on quality and innovation
+✨ Exposure to fintech, commerce, and emerging technology initiatives
+✨ Career growth and technical leadership opportunities
+✨ Collaborative and fast-moving environment
+________________
+
+
+Apply
+If you are passionate about Flutter development, mobile architecture, and building exceptional cross-platform experiences, we'd love to connect with you.

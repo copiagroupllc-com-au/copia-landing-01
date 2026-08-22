@@ -1,0 +1,117 @@
+﻿Senior Web3 Software Engineer
+Blockchain Infrastructure, Smart Contracts & Decentralized Applications
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+⛓️ Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across blockchain, fintech, digital infrastructure, AI, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the development of decentralized technologies, digital asset ecosystems, and next-generation financial platforms. Our portfolio includes companies building blockchain infrastructure, Web3 applications, decentralized finance (DeFi) solutions, and innovative digital products transforming the future of finance and the internet.
+We are seeking an experienced Senior Web3 Software Engineer to develop secure, scalable, and high-performance blockchain applications and decentralized systems that power the next generation of Web3 innovation.
+________________
+
+
+The Opportunity
+As a Senior Web3 Software Engineer, you will be responsible for designing, building, and maintaining blockchain-enabled applications, backend services, and decentralized infrastructure. You'll collaborate with Product Managers, Blockchain Architects, Frontend Engineers, and DevOps teams to deliver secure, scalable, and production-ready Web3 solutions.
+This role offers significant technical ownership, architectural influence, and the opportunity to contribute to cutting-edge blockchain technologies across decentralized finance (DeFi), DAOs, tokenized assets, and digital identity platforms.
+________________
+
+
+What You'll Do
+Web3 Application Development
+* Design, develop, and maintain decentralized applications (dApps) and blockchain-enabled services
+* Build scalable backend systems that interact with smart contracts and blockchain networks
+* Develop secure APIs and middleware supporting Web3 applications
+* Integrate wallet authentication, digital assets, and blockchain transactions into modern applications
+* Write clean, maintainable, and well-tested production code
+Blockchain Engineering
+* Develop and integrate smart contracts using modern blockchain development frameworks
+* Build services that interact with Ethereum and EVM-compatible networks
+* Implement blockchain event listeners, indexing services, and transaction processing systems
+* Optimize blockchain interactions for security, performance, and reliability
+* Support multi-chain architectures and cross-chain interoperability initiatives
+Architecture & Platform Engineering
+* Design scalable distributed systems supporting decentralized applications
+* Improve application performance, fault tolerance, and operational reliability
+* Implement cloud-native infrastructure and deployment automation
+* Contribute to architectural decisions and technical roadmaps
+* Promote engineering best practices across Web3 development initiatives
+Collaboration & Technical Leadership
+* Partner with Product Managers, Designers, Infrastructure Engineers, and Security teams
+* Participate in architecture reviews, sprint planning, and technical discussions
+* Mentor junior engineers through code reviews and technical guidance
+* Stay current with emerging blockchain technologies and ecosystem developments
+* Contribute to a collaborative, engineering-first culture focused on continuous improvement
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 5+ years of professional software engineering experience
+* 2+ years of experience building blockchain or Web3 applications
+* Experience delivering production-ready decentralized applications or blockchain infrastructure
+* Strong understanding of Agile software development methodologies
+Technical Expertise
+Strong experience with:
+* TypeScript or JavaScript
+* Node.js
+* Solidity
+* React or Next.js
+* REST APIs and GraphQL
+* PostgreSQL or MongoDB
+* Git and modern software development workflows
+Strong understanding of:
+* Ethereum and EVM-compatible blockchains
+* Smart contract development and deployment
+* Wallet integrations (MetaMask, WalletConnect)
+* Web3 libraries such as ethers.js, viem, or web3.js
+* Blockchain security best practices
+* Distributed systems and event-driven architectures
+* Cloud-native application development
+________________
+
+
+Preferred Qualifications
+● Experience with Layer 2 ecosystems including Arbitrum, Optimism, Base, Polygon, or zkSync
+● Experience building DeFi protocols, staking platforms, NFT marketplaces, or DAO governance systems
+● Familiarity with blockchain infrastructure providers such as Alchemy, Infura, QuickNode, or Chainlink
+● Experience using Hardhat, Foundry, or Truffle development frameworks
+● Experience with Docker, Kubernetes, Terraform, and cloud platforms including AWS or GCP
+● Contributions to open-source blockchain projects or active participation in the Web3 community
+________________
+
+
+Technology Environment
+Web3 & Blockchain
+Ethereum • Solidity • Ethers.js • viem • Web3.js • Hardhat • Foundry
+Frontend
+React • Next.js • TypeScript • Tailwind CSS
+Backend
+Node.js • NestJS • Express • GraphQL • REST APIs
+Cloud & Infrastructure
+AWS • Docker • Kubernetes • Terraform • GitHub Actions
+Databases & Messaging
+PostgreSQL • MongoDB • Redis • Kafka
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to build innovative Web3 products and blockchain infrastructure
+✨ Exposure to cutting-edge DeFi, DAO, tokenization, and digital asset initiatives
+✨ Collaborative, engineering-first culture focused on ownership and innovation
+✨ Career advancement into Staff Engineer, Blockchain Architect, or Engineering Leadership
+✨ Strong investment in continuous learning, open-source contribution, and emerging technologies
+________________
+
+
+Apply
+If you are passionate about decentralized technologies, blockchain engineering, and building secure, scalable Web3 applications that shape the future of digital innovation, we'd love to connect with you.

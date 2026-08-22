@@ -1,0 +1,101 @@
+﻿Senior DevOps Engineer
+Fintech Infrastructure & Commerce Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+⚙️ Senior Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management and technology-focused firm supporting innovative companies across fintech, digital infrastructure, and emerging technology sectors.
+We collaborate on projects connected to Stripe’s ecosystem, helping build scalable payment systems, financial infrastructure, developer-focused platforms, and modern commerce solutions used by businesses globally.
+We are expanding our infrastructure and platform engineering organization and seeking experienced DevOps professionals passionate about building secure, scalable, and reliable cloud infrastructure.
+________________
+
+
+The Opportunity
+We are seeking a Senior DevOps Engineer to help architect, automate, and scale cloud infrastructure and deployment systems supporting modern fintech and commerce platforms.
+In this role, you will work closely with engineering, security, and platform teams to improve infrastructure reliability, deployment workflows, system scalability, and operational excellence across distributed applications and cloud-native environments.
+This is a high-impact role offering strong technical ownership, infrastructure leadership, and the opportunity to shape modern engineering operations.
+________________
+
+
+What You’ll Do
+Infrastructure & Cloud Operations
+* Design, deploy, and maintain scalable cloud infrastructure environments
+* Manage infrastructure across AWS, Kubernetes, Docker, and cloud-native systems
+* Improve system reliability, scalability, availability, and security
+* Automate infrastructure provisioning and operational workflows
+* Monitor production environments and respond to operational incidents
+CI/CD & Automation
+* Build and maintain CI/CD pipelines for modern development workflows
+* Improve deployment automation, release processes, and infrastructure tooling
+* Implement Infrastructure as Code (IaC) practices using Terraform or similar tools
+* Optimize developer experience and operational efficiency across engineering teams
+Security & Reliability
+* Implement infrastructure security best practices and access controls
+* Support monitoring, observability, logging, and incident response systems
+* Improve disaster recovery, backup strategies, and operational resilience
+* Collaborate with engineering teams on performance optimization and system architecture
+Collaboration & Leadership
+* Work closely with software engineers, platform teams, and product stakeholders
+* Participate in technical planning, infrastructure strategy, and architecture discussions
+* Mentor engineers and contribute to DevOps best practices and operational standards
+* Support scalable engineering operations in fast-paced product environments
+________________
+
+
+What We’re Looking For
+Required Experience
+* 5+ years of DevOps, Site Reliability Engineering, or infrastructure engineering experience
+* Strong experience with AWS or other cloud platforms
+* Experience managing Kubernetes, Docker, and containerized applications
+* Strong understanding of CI/CD pipelines and deployment automation
+* Experience with Infrastructure as Code tools such as Terraform or CloudFormation
+* Strong understanding of:
+   * cloud infrastructure
+   * networking and security
+   * monitoring and observability
+   * scalability and reliability engineering
+   * Linux systems and automation scripting
+* Experience with Git-based development workflows and modern engineering environments
+* Strong troubleshooting, communication, and collaboration skills
+________________
+
+
+Preferred Experience
+● Experience working in fintech, payments, SaaS, or infrastructure platforms
+● Familiarity with Stripe APIs or payment systems
+● Experience with observability tools such as Prometheus, Grafana, Datadog, or ELK Stack
+● Experience with distributed systems and microservices architecture
+● Knowledge of security compliance and infrastructure hardening practices
+● Startup or high-growth engineering environment experience
+________________
+
+
+Tech Environment
+Cloud & Infrastructure
+AWS • Docker • Kubernetes • Terraform
+CI/CD & Automation
+GitHub Actions • Jenkins • GitLab CI • ArgoCD
+Monitoring & Observability
+Prometheus • Grafana • Datadog • ELK Stack
+Systems & Tools
+Linux • Bash • Python • Git • Networking
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation
+✨ High-impact infrastructure ownership
+✨ Collaborative and engineering-driven culture
+✨ Opportunity to work on innovative fintech and infrastructure platforms
+✨ Long-term growth and leadership opportunities
+________________
+
+
+Apply
+If you are passionate about cloud infrastructure, automation, scalability, and building reliable systems powering modern financial technology, we’d love to connect with you.

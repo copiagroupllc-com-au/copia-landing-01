@@ -1,0 +1,121 @@
+﻿Lead Python Software Engineer
+Backend Engineering, Cloud-Native Development & Technical Leadership
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+🐍 Lead Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management firm supporting innovative companies across fintech, AI, blockchain, digital infrastructure, and emerging technology sectors.
+Through strategic investments and partnerships, we help accelerate the growth of technology-driven businesses by supporting the development of scalable software platforms, intelligent applications, financial technologies, and enterprise solutions. Our portfolio companies rely on modern cloud-native architectures and high-performance backend systems to power mission-critical products used around the world.
+We are seeking an experienced Lead Python Software Engineer to lead the design, development, and delivery of scalable backend platforms while mentoring engineering teams and driving technical excellence.
+________________
+
+
+The Opportunity
+As a Lead Python Software Engineer, you will combine hands-on software development with technical leadership to build secure, scalable, and cloud-native applications. You'll collaborate closely with Product Managers, Frontend Engineers, DevOps, QA, and Engineering Leadership to architect backend systems, guide engineering decisions, and deliver reliable software that supports business growth.
+This role offers significant ownership over technical strategy, software architecture, and engineering best practices while providing opportunities to mentor developers and shape the future of our technology platforms.
+________________
+
+
+What You'll Do
+Backend Development
+* Design, develop, and maintain scalable backend applications using Python
+* Build secure RESTful APIs, GraphQL services, and microservices for web and mobile platforms
+* Develop high-performance services that process large volumes of data and transactions
+* Write clean, maintainable, and well-tested production code
+* Optimize application performance, scalability, and reliability
+Technical Leadership
+* Lead architecture discussions and technical design reviews
+* Establish coding standards, engineering best practices, and development guidelines
+* Mentor software engineers through code reviews, technical coaching, and knowledge sharing
+* Drive modernization initiatives and continuous improvements across backend systems
+* Evaluate emerging technologies and recommend adoption where appropriate
+Cloud & Platform Engineering
+* Design cloud-native applications and distributed systems
+* Develop Infrastructure as Code (IaC) and deployment automation
+* Build and optimize CI/CD pipelines for reliable software delivery
+* Improve system observability through monitoring, logging, and tracing
+* Partner with DevOps teams to ensure platform security, scalability, and operational excellence
+Cross-Functional Collaboration
+* Collaborate with Product Managers to transform business requirements into scalable technical solutions
+* Work closely with Frontend Engineers, QA, DevOps, and Data teams throughout the software development lifecycle
+* Participate in sprint planning, technical estimation, and roadmap discussions
+* Identify technical risks and implement effective mitigation strategies
+* Foster a collaborative, engineering-first culture focused on innovation and continuous improvement
+________________
+
+
+What We're Looking For
+Required Qualifications
+Experience
+* 7+ years of professional software engineering experience
+* 5+ years of hands-on Python development experience
+* 2+ years of technical leadership or lead engineering experience
+* Proven experience building large-scale backend systems and distributed applications
+* Experience working within Agile software development environments
+Technical Expertise
+Strong experience with:
+* Python
+* FastAPI, Django, or Flask
+* SQLAlchemy or Django ORM
+* REST APIs and GraphQL
+* PostgreSQL or MySQL
+* Redis
+* Docker
+* Git
+Strong understanding of:
+* Microservices architecture
+* Distributed systems
+* Object-Oriented Programming (OOP)
+* Asynchronous programming (AsyncIO, Celery)
+* Cloud-native application development
+* API security and authentication (OAuth2, JWT)
+* CI/CD pipelines and DevOps practices
+* Software architecture and design patterns
+________________
+
+
+Preferred Qualifications
+● Experience developing fintech, AI/ML, SaaS, blockchain, or enterprise software platforms
+● Experience with AWS, Azure, or Google Cloud Platform
+● Familiarity with Kubernetes, Terraform, and Infrastructure as Code
+● Experience with Kafka, RabbitMQ, Celery, or event-driven architectures
+● Knowledge of Elasticsearch, MongoDB, or vector databases
+● Experience integrating AI/ML services, data pipelines, or LLM-based applications
+● Contributions to open-source Python projects or active participation in the Python community
+________________
+
+
+Technology Environment
+Backend Technologies
+Python • FastAPI • Django • Flask • SQLAlchemy • Celery
+Cloud & Infrastructure
+AWS • Azure • Google Cloud Platform • Docker • Kubernetes • Terraform
+Databases & Messaging
+PostgreSQL • MySQL • Redis • MongoDB • Kafka • RabbitMQ
+DevOps & Observability
+GitHub Actions • Jenkins • Prometheus • Grafana • OpenTelemetry
+Testing & Quality
+PyTest • Unittest • Playwright • SonarQube • CI/CD Pipelines
+Tools & Collaboration
+GitHub • Jira • Slack • Notion • Figma
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation package
+✨ Opportunity to lead the development of scalable backend platforms powering innovative global businesses
+✨ Exposure to fintech, AI, blockchain, cloud-native technologies, and emerging technology initiatives
+✨ Collaborative, engineering-first culture focused on ownership, innovation, and technical excellence
+✨ Career advancement into Staff Engineer, Principal Engineer, Software Architect, Engineering Manager, or Director of Engineering
+✨ Strong investment in leadership development, continuous learning, open-source contributions, and technical innovation
+________________
+
+
+Apply
+If you are passionate about building scalable Python applications, leading high-performing engineering teams, and solving complex technical challenges with modern backend technologies, we'd love to connect with you.

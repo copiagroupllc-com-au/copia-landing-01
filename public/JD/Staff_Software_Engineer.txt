@@ -1,0 +1,111 @@
+﻿Staff Software Engineer
+Fintech Infrastructure & Commerce Platforms
+📍 Remote / Hybrid / Onsite
+🕒 Full-Time or Part-Time
+🏢 The Copia Group, LLC
+👨‍💻 Staff Level
+________________
+
+
+About The Copia Group
+The Copia Group is an investment management and technology-focused firm supporting innovative companies across fintech, digital infrastructure, and emerging technology sectors.
+We collaborate on projects connected to Stripe’s ecosystem, helping build scalable payment systems, financial infrastructure, developer-focused platforms, and modern commerce solutions used by businesses globally.
+We are growing our engineering organization and seeking experienced technical leaders passionate about building scalable systems, driving engineering excellence, and shaping modern financial technology platforms.
+________________
+
+
+
+
+
+
+
+
+
+
+The Opportunity
+We are seeking a Staff Software Engineer to lead the design and development of scalable platform infrastructure, distributed systems, and core applications powering fintech and commerce products.
+In this role, you will serve as a senior technical leader across engineering initiatives, driving architecture decisions, improving engineering standards, and mentoring teams while contributing directly to high-impact platform development.
+This is a highly influential role with broad technical ownership, cross-functional collaboration, and long-term leadership opportunities.
+________________
+
+
+What You’ll Do
+Technical Leadership
+* Lead architecture and technical direction for large-scale software systems
+* Drive engineering best practices across performance, scalability, reliability, and security
+* Guide teams through complex technical decisions and system design challenges
+* Establish scalable development standards, workflows, and engineering processes
+* Mentor engineers across multiple teams and support technical growth
+Software Engineering
+* Design, develop, and maintain scalable backend systems, APIs, and platform services
+* Build distributed systems supporting fintech infrastructure, payment workflows, and commerce platforms
+* Contribute hands-on to critical projects and core platform development
+* Improve platform reliability, observability, and operational efficiency
+* Collaborate with frontend, infrastructure, product, and leadership teams
+Cross-Functional Impact
+* Partner with engineering leadership on long-term technical strategy
+* Support roadmap planning, technical prioritization, and platform evolution
+* Help scale engineering operations, architecture, and team collaboration
+* Evaluate emerging technologies and recommend scalable solutions
+________________
+
+
+What We’re Looking For
+Required Experience
+* 8+ years of professional software engineering experience
+* Strong expertise in backend systems, distributed architecture, and scalable infrastructure
+* Experience building high-scale APIs, microservices, and cloud-native applications
+* Strong proficiency with technologies such as Node.js, TypeScript, Python, Go, Java, or .NET
+* Deep understanding of:
+   * distributed systems
+   * cloud infrastructure
+   * scalability and performance optimization
+   * system reliability and observability
+   * software architecture and design patterns
+* Experience with databases such as PostgreSQL, MySQL, MongoDB, or Redis
+* Strong experience with CI/CD pipelines, containerization, and cloud platforms
+* Excellent communication, mentorship, and leadership abilities
+________________
+
+
+Preferred Experience
+● Experience working in fintech, payments, SaaS, or infrastructure platforms
+● Familiarity with Stripe APIs and financial systems
+● Experience leading technical initiatives across multiple teams
+● Experience with AWS, Kubernetes, Docker, and event-driven architectures
+● Startup or high-growth engineering environment experience
+● Background in platform engineering or developer infrastructure
+________________
+
+
+
+
+
+
+
+
+Tech Environment
+Backend & Platform
+Node.js • TypeScript • Python • Go • .NET
+Infrastructure
+AWS • Docker • Kubernetes • CI/CD • Terraform
+Database & Messaging
+PostgreSQL • Redis • MongoDB • Kafka
+Tools & Collaboration
+GitHub • Jira • Slack • Notion
+________________
+
+
+Why Join Us
+✨ Flexible remote, hybrid, and onsite work options
+✨ Full-time and part-time opportunities
+✨ Competitive compensation
+✨ High-impact technical leadership role
+✨ Collaborative and engineering-driven culture
+✨ Opportunity to shape modern fintech and infrastructure platforms
+✨ Long-term growth and leadership opportunities
+________________
+
+
+Apply
+If you are passionate about solving complex engineering challenges and leading the development of scalable technology platforms, we’d love to connect with you.
