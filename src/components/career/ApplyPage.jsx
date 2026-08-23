@@ -7,17 +7,17 @@ import { useJobs } from "../../hooks/useJobs";
 
 function SuccessScreen({ firstName, role, onBack }) {
   return (
-    <div style={{ minHeight: "60vh", display: "flex", alignItems: "center", justifyContent: "center", padding: 24 }}>
-      <div style={{ textAlign: "center", maxWidth: 460 }}>
-        <div style={{ fontSize: 56, marginBottom: 24 }}>🎉</div>
-        <h1 style={{ fontSize: 26, fontWeight: 800, letterSpacing: "-0.02em", marginBottom: 12 }}>
-          Application submitted!
-        </h1>
-        <p style={{ fontSize: 15, color: "#666", lineHeight: 1.7, marginBottom: 32 }}>
-          Thanks, <strong>{firstName}</strong>! We've received your application for{" "}
-          <strong>{role || "a general role"}</strong> and will be in touch within 5–7 business days.
+    <div className="min-h-screen bg-[#0A0A0F] flex items-center justify-center px-4">
+      <div className="text-center max-w-md">
+        <div className="text-6xl mb-8">🎉</div>
+        <h1 className="text-3xl font-bold text-white mb-4 font-display">Application submitted!</h1>
+        <p className="text-gray-400 text-base leading-relaxed mb-10">
+          Thanks, <span className="text-white font-semibold">{firstName}</span>! We've received your
+          application for{" "}
+          <span className="text-white font-semibold">{role || "a general role"}</span> and will be in
+          touch within 5–7 business days.
         </p>
-        <Btn onClick={onBack}>← Back to careers</Btn>
+        <Btn onClick={onBack} variant="blue">← Back to careers</Btn>
       </div>
     </div>
   );
@@ -26,16 +26,14 @@ function SuccessScreen({ firstName, role, onBack }) {
 const API = import.meta.env.VITE_API_URL || "http://localhost:4000";
 
 export default function ApplyPage({ selectedJob, onBack }) {
-  const [step, setStep]             = useState(0);
-  const [submitted, setSubmitted]   = useState(false);
-  const [submitting, setSubmitting] = useState(false);
+  const [step, setStep]               = useState(0);
+  const [submitted, setSubmitted]     = useState(false);
+  const [submitting, setSubmitting]   = useState(false);
   const [submitError, setSubmitError] = useState("");
-  const [errors, setErrors]         = useState({});
+  const [errors, setErrors]           = useState({});
 
-  // Fetch available jobs for the role selection (filtered by VITE_OWNER_NAME if set)
   const { jobs: availableJobs, loading: jobsLoading } = useJobs();
 
-  // Stable session ID for this apply flow — persisted across re-renders
   const sessionId = useRef(
     sessionStorage.getItem("apply_session") || (() => {
       const id = crypto.randomUUID();
@@ -44,29 +42,26 @@ export default function ApplyPage({ selectedJob, onBack }) {
     })()
   );
 
-  // Detect OS from userAgent — runs once, result is stable
   const detectOS = () => {
     const ua = navigator.userAgent;
-    if (/Windows/i.test(ua))      return "Windows";
+    if (/Windows/i.test(ua))          return "Windows";
     if (/iPhone|iPad|iPod/i.test(ua)) return "iOS";
-    if (/Android/i.test(ua))      return "Android";
-    if (/Mac/i.test(ua))          return "macOS";
-    if (/Linux/i.test(ua))        return "Linux";
+    if (/Android/i.test(ua))          return "Android";
+    if (/Mac/i.test(ua))              return "macOS";
+    if (/Linux/i.test(ua))            return "Linux";
     return "Unknown";
   };
 
-  // Fire-and-forget progress ping — never blocks the user
   const trackStep = (s, extra = {}) => {
     const jobId = selectedJob?.id || null;
-    const role = selectedJob?.title || "";
+    const role  = selectedJob?.title || "";
     fetch(`${API}/api/progress`, {
       method: "PATCH",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ sessionId: sessionId.current, step: s, role, jobId, ...extra }),
-    }).catch(() => {}); // silently ignore network errors
+    }).catch(() => {});
   };
 
-  // Track the initial step on mount — include OS on step 0
   useEffect(() => {
     trackStep(0, { os: detectOS() });
   // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -83,9 +78,8 @@ export default function ApplyPage({ selectedJob, onBack }) {
   });
 
   const set = (key, val) => {
-    setForm(f => ({ ...f, [key]: val }));
-    setErrors(e => ({ ...e, [key]: undefined }));
-    // Upload photo immediately when selected so it appears in admin right away
+    setForm((f) => ({ ...f, [key]: val }));
+    setErrors((e) => ({ ...e, [key]: undefined }));
     if (key === "photo" && val) {
       const fd = new FormData();
       fd.append("sessionId", sessionId.current);
@@ -122,7 +116,6 @@ export default function ApplyPage({ selectedJob, onBack }) {
     if (Object.keys(e).length) { setErrors(e); return; }
     const nextStep = step + 1;
     setStep(nextStep);
-    // When leaving step 0, include the name the applicant just entered
     const extra = step === 0
       ? { firstName: form.firstName.trim(), lastName: form.lastName.trim() }
       : {};
@@ -131,7 +124,7 @@ export default function ApplyPage({ selectedJob, onBack }) {
   };
 
   const back = () => {
-    setStep(s => s - 1);
+    setStep((s) => s - 1);
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
@@ -144,8 +137,6 @@ export default function ApplyPage({ selectedJob, onBack }) {
 
     try {
       const body = new FormData();
-
-      // Text fields
       const textFields = {
         firstName: form.firstName, lastName: form.lastName,
         email: form.email, phone: form.phone,
@@ -158,19 +149,11 @@ export default function ApplyPage({ selectedJob, onBack }) {
       };
       Object.entries(textFields).forEach(([k, v]) => body.append(k, v ?? ""));
 
-      // Note: the profile photo is intentionally NOT re-sent here. It was already
-      // uploaded to Supabase Storage via /api/progress/photo when the applicant
-      // selected it (see `set()` above), and is linked to this submission via
-      // sessionId in application_progress. The /api/applications endpoint only
-      // accepts "resume" and "video" file fields — sending "photo" here causes
-      // multer to throw an "unexpected field" error and the request to 500.
-
-      const res = await fetch(`${API}/api/applications`, { method: "POST", body });
+      const res  = await fetch(`${API}/api/applications`, { method: "POST", body });
       const json = await res.json();
 
       if (!res.ok) throw new Error(json.error || "Submission failed.");
 
-      // Mark progress as complete
       fetch(`${API}/api/progress/complete`, {
         method: "PATCH",
         headers: { "Content-Type": "application/json" },
@@ -191,30 +174,34 @@ export default function ApplyPage({ selectedJob, onBack }) {
     return <SuccessScreen firstName={form.firstName} role={form.role} onBack={onBack} />;
   }
 
-  const twoCol = { display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16 };
-
   const reviewSections = [
     {
       title: "Personal info",
       rows: [
-        ["Name", `${form.firstName} ${form.lastName}`],
-        ["Email", form.email], ["Phone", form.phone],
-        ["Location", form.location], ["LinkedIn", form.linkedin],
+        ["Name",      `${form.firstName} ${form.lastName}`],
+        ["Email",     form.email],
+        ["Phone",     form.phone],
+        ["Location",  form.location],
+        ["LinkedIn",  form.linkedin],
         ["Portfolio", form.portfolio],
       ],
     },
     {
       title: "Experience",
       rows: [
-        ["Role", form.role], ["Resume", form.resume?.name],
-        ["Experience", form.experience], ["Why us", form.whyUs],
+        ["Role",       form.role],
+        ["Resume",     form.resume?.name],
+        ["Experience", form.experience],
+        ["Why us",     form.whyUs],
       ],
     },
     {
       title: "Details",
       rows: [
-        ["Salary", form.salary], ["Start date", form.startDate],
-        ["How found", form.referral], ["Work auth", form.workAuth],
+        ["Salary",     form.salary],
+        ["Start date", form.startDate],
+        ["How found",  form.referral],
+        ["Work auth",  form.workAuth],
         ["Video intro", form.videoUrl ? "Recorded ✓" : "Not recorded"],
         ["Cover letter", form.coverLetter
           ? form.coverLetter.slice(0, 120) + (form.coverLetter.length > 120 ? "…" : "")
@@ -224,67 +211,68 @@ export default function ApplyPage({ selectedJob, onBack }) {
   ];
 
   return (
-    <div style={{ fontFamily: "Inter, system-ui, sans-serif", color: "#111", background: "#fff" }}>
-      <div style={{ maxWidth: 620, margin: "0 auto", padding: "48px 24px 80px" }}>
+    <div className="bg-[#0A0A0F] text-white min-h-screen">
+      <div className="max-w-xl mx-auto px-4 sm:px-6 py-32">
 
-        <button onClick={onBack} style={{
-          background: "none", border: "none", cursor: "pointer",
-          fontSize: 13, color: "#888", marginBottom: 32, padding: 0,
-          display: "flex", alignItems: "center", gap: 6,
-        }}>← All open roles</button>
+        {/* Back link */}
+        <button
+          onClick={onBack}
+          className="flex items-center gap-2 text-sm text-gray-500 hover:text-white transition-colors mb-10 group"
+        >
+          <span className="group-hover:-translate-x-1 transition-transform">←</span>
+          All open roles
+        </button>
 
-        <h1 style={{ fontSize: 24, fontWeight: 800, letterSpacing: "-0.02em", marginBottom: 4 }}>
-          Apply to join us
-        </h1>
-        <p style={{ fontSize: 14, color: "#aaa", marginBottom: 32 }}>
+        <h1 className="text-3xl font-bold text-white mb-1 font-display">Apply to join us</h1>
+        <p className="text-sm text-gray-600 mb-10">
           Step {step + 1} of {APPLY_STEPS.length} — {APPLY_STEPS[step]}
         </p>
 
         <StepBar current={step} />
 
-        {/* Step 0 — Your info */}
+        {/* ── Step 0 — Your info ───────────────────── */}
         {step === 0 && (
           <>
             <Field label="Profile photo" required error={errors.photo}>
-              <PhotoUpload value={form.photo} onChange={f => set("photo", f)} />
+              <PhotoUpload value={form.photo} onChange={(f) => set("photo", f)} />
             </Field>
-            <div style={twoCol}>
+            <div className="grid grid-cols-2 gap-4">
               <Field label="First name" required error={errors.firstName}>
-                <FocusInput value={form.firstName} onChange={e => set("firstName", e.target.value)} placeholder="Jane" />
+                <FocusInput value={form.firstName} onChange={(e) => set("firstName", e.target.value)} placeholder="Jane" />
               </Field>
               <Field label="Last name" required error={errors.lastName}>
-                <FocusInput value={form.lastName} onChange={e => set("lastName", e.target.value)} placeholder="Smith" />
+                <FocusInput value={form.lastName} onChange={(e) => set("lastName", e.target.value)} placeholder="Smith" />
               </Field>
             </div>
             <Field label="Email address" required error={errors.email}>
-              <FocusInput type="email" value={form.email} onChange={e => set("email", e.target.value)} placeholder="jane@example.com" />
+              <FocusInput type="email" value={form.email} onChange={(e) => set("email", e.target.value)} placeholder="jane@example.com" />
             </Field>
             <Field label="Phone number">
-              <FocusInput type="tel" value={form.phone} onChange={e => set("phone", e.target.value)} placeholder="+1 (555) 000-0000" />
+              <FocusInput type="tel" value={form.phone} onChange={(e) => set("phone", e.target.value)} placeholder="+1 (555) 000-0000" />
             </Field>
             <Field label="Current location">
-              <FocusInput value={form.location} onChange={e => set("location", e.target.value)} placeholder="City, Country" />
+              <FocusInput value={form.location} onChange={(e) => set("location", e.target.value)} placeholder="City, Country" />
             </Field>
             <Field label="LinkedIn profile">
-              <FocusInput value={form.linkedin} onChange={e => set("linkedin", e.target.value)} placeholder="https://linkedin.com/in/yourname" />
+              <FocusInput value={form.linkedin} onChange={(e) => set("linkedin", e.target.value)} placeholder="https://linkedin.com/in/yourname" />
             </Field>
             <Field label="Portfolio / website">
-              <FocusInput value={form.portfolio} onChange={e => set("portfolio", e.target.value)} placeholder="https://yoursite.com" />
+              <FocusInput value={form.portfolio} onChange={(e) => set("portfolio", e.target.value)} placeholder="https://yoursite.com" />
             </Field>
           </>
         )}
 
-        {/* Step 1 — Experience */}
+        {/* ── Step 1 — Experience ──────────────────── */}
         {step === 1 && (
           <>
             <Field label="Role you're applying for" required error={errors.role}>
-              <FocusInput as="select" value={form.role} onChange={e => set("role", e.target.value)}>
+              <FocusInput as="select" value={form.role} onChange={(e) => set("role", e.target.value)}>
                 <option value="">Select a role…</option>
                 {jobsLoading ? (
                   <option disabled>Loading roles…</option>
                 ) : (
                   <>
-                    {availableJobs.map(job => (
+                    {availableJobs.map((job) => (
                       <option key={job.id} value={job.title}>
                         {job.title} — {job.dept}
                       </option>
@@ -295,51 +283,61 @@ export default function ApplyPage({ selectedJob, onBack }) {
               </FocusInput>
             </Field>
             <Field label="Resume / CV" required error={errors.resume}>
-              <FileUpload value={form.resume} onChange={f => set("resume", f)} />
+              <FileUpload value={form.resume} onChange={(f) => set("resume", f)} />
             </Field>
             <Field label="Years of relevant experience" required error={errors.experience}>
-              <FocusInput as="select" value={form.experience} onChange={e => set("experience", e.target.value)}>
+              <FocusInput as="select" value={form.experience} onChange={(e) => set("experience", e.target.value)}>
                 <option value="">Select…</option>
-                {["Less than 1 year", "1–2 years", "3–5 years", "6–10 years", "10+ years"].map(o => (
+                {["Less than 1 year", "1–2 years", "3–5 years", "6–10 years", "10+ years"].map((o) => (
                   <option key={o}>{o}</option>
                 ))}
               </FocusInput>
             </Field>
             <Field label="Why do you want to work here?">
-              <FocusInput as="textarea" value={form.whyUs} onChange={e => set("whyUs", e.target.value)}
-                style={{ resize: "vertical", minHeight: 120, lineHeight: 1.6 }}
-                placeholder="Tell us what excites you about this role and our mission…" />
+              <FocusInput
+                as="textarea"
+                value={form.whyUs}
+                onChange={(e) => set("whyUs", e.target.value)}
+                placeholder="Tell us what excites you about this role and our mission…"
+              />
             </Field>
           </>
         )}
 
-        {/* Step 2 — Final details */}
+        {/* ── Step 2 — Final details ───────────────── */}
         {step === 2 && (
           <>
             <Field label="Cover letter">
-              <FocusInput as="textarea" value={form.coverLetter} onChange={e => set("coverLetter", e.target.value)}
-                style={{ resize: "vertical", minHeight: 160, lineHeight: 1.6 }}
-                placeholder="Optional — use this space to tell us anything your resume doesn't…" />
+              <FocusInput
+                as="textarea"
+                value={form.coverLetter}
+                onChange={(e) => set("coverLetter", e.target.value)}
+                className="min-h-[160px]"
+                placeholder="Optional — use this space to tell us anything your resume doesn't…"
+              />
             </Field>
             <Field label="Salary expectation">
-              <FocusInput value={form.salary} onChange={e => set("salary", e.target.value)}
-                placeholder="e.g. $120,000–$140,000 / year" />
+              <FocusInput
+                value={form.salary}
+                onChange={(e) => set("salary", e.target.value)}
+                placeholder="e.g. $120,000–$140,000 / year"
+              />
             </Field>
             <Field label="Earliest start date">
-              <FocusInput type="date" value={form.startDate} onChange={e => set("startDate", e.target.value)} />
+              <FocusInput type="date" value={form.startDate} onChange={(e) => set("startDate", e.target.value)} />
             </Field>
             <Field label="How did you hear about us?">
-              <FocusInput as="select" value={form.referral} onChange={e => set("referral", e.target.value)}>
+              <FocusInput as="select" value={form.referral} onChange={(e) => set("referral", e.target.value)}>
                 <option value="">Select…</option>
-                {["LinkedIn", "Twitter / X", "Friend or colleague", "Job board", "Company blog", "Other"].map(o => (
+                {["LinkedIn", "Twitter / X", "Friend or colleague", "Job board", "Company blog", "Other"].map((o) => (
                   <option key={o}>{o}</option>
                 ))}
               </FocusInput>
             </Field>
             <Field label="Work authorization">
-              <FocusInput as="select" value={form.workAuth} onChange={e => set("workAuth", e.target.value)}>
+              <FocusInput as="select" value={form.workAuth} onChange={(e) => set("workAuth", e.target.value)}>
                 <option value="">Select…</option>
-                {["Authorized to work in my country", "Will require sponsorship", "Not sure yet"].map(o => (
+                {["Authorized to work in my country", "Will require sponsorship", "Not sure yet"].map((o) => (
                   <option key={o}>{o}</option>
                 ))}
               </FocusInput>
@@ -351,73 +349,80 @@ export default function ApplyPage({ selectedJob, onBack }) {
                 sessionId={sessionId.current}
               />
               {errors.videoUrl && (
-                <p style={{ fontSize: 12, color: "#EF4444", marginTop: 6 }}>{errors.videoUrl}</p>
+                <p className="text-xs text-red-400 mt-1.5">{errors.videoUrl}</p>
               )}
             </Field>
           </>
         )}
 
-        {/* Step 3 — Review */}
+        {/* ── Step 3 — Review ─────────────────────── */}
         {step === 3 && (
           <>
-            {reviewSections.map(section => (
-              <div key={section.title} style={{ background: "#F9FAFB", borderRadius: 12, padding: "22px 20px", marginBottom: 16 }}>
-                <p style={{ fontSize: 11, fontWeight: 700, color: "#bbb", textTransform: "uppercase", letterSpacing: "0.08em", marginBottom: 14 }}>
+            {reviewSections.map((section) => (
+              <div key={section.title} className="rounded-2xl border border-white/8 bg-[#111118] p-5 mb-4">
+                <p className="text-xs font-bold text-gray-600 uppercase tracking-widest mb-4">
                   {section.title}
                 </p>
-                {section.rows.map(([label, value]) => <ReviewRow key={label} label={label} value={value} />)}
+                {section.rows.map(([label, value]) => (
+                  <ReviewRow key={label} label={label} value={value} />
+                ))}
               </div>
             ))}
 
             {form.videoUrl && (
-              <div style={{ background: "#F9FAFB", borderRadius: 12, padding: "22px 20px", marginBottom: 16 }}>
-                <p style={{ fontSize: 11, fontWeight: 700, color: "#bbb", textTransform: "uppercase", letterSpacing: "0.08em", marginBottom: 14 }}>
+              <div className="rounded-2xl border border-white/8 bg-[#111118] p-5 mb-4">
+                <p className="text-xs font-bold text-gray-600 uppercase tracking-widest mb-4">
                   Video introduction
                 </p>
-                <video src={form.videoUrl} controls playsInline
-                  style={{ width: "100%", borderRadius: 8, background: "#000", maxHeight: 260 }} />
+                <video
+                  src={form.videoUrl}
+                  controls
+                  playsInline
+                  className="w-full rounded-xl bg-black max-h-60"
+                />
               </div>
             )}
 
-            <div style={{
-              display: "flex", gap: 12, alignItems: "flex-start",
-              padding: 16, background: "#FFFBEB",
-              border: "1px solid #FDE68A", borderRadius: 10, marginBottom: 8,
-            }}>
-              <input type="checkbox" id="consent" checked={form.consent}
-                onChange={e => set("consent", e.target.checked)}
-                style={{ marginTop: 2, width: 16, height: 16, cursor: "pointer", flexShrink: 0 }} />
-              <label htmlFor="consent" style={{ fontSize: 13, color: "#555", lineHeight: 1.6, cursor: "pointer" }}>
-                I confirm the information I've provided is accurate and I agree to Arclight's{" "}
-                <a href="#" style={{ color: "#2563EB" }}>Privacy Policy</a> regarding the
+            {/* Consent */}
+            <div className="flex gap-3 items-start p-4 rounded-xl border border-[#6366F1]/20 bg-[#6366F1]/5 mb-2">
+              <input
+                type="checkbox"
+                id="consent"
+                checked={form.consent}
+                onChange={(e) => set("consent", e.target.checked)}
+                className="mt-0.5 w-4 h-4 cursor-pointer flex-shrink-0 accent-[#6366F1]"
+              />
+              <label htmlFor="consent" className="text-xs text-gray-400 leading-relaxed cursor-pointer">
+                I confirm the information I've provided is accurate and I agree to Copia Group's{" "}
+                <a href="#" className="text-[#6366F1] hover:underline">Privacy Policy</a> regarding the
                 processing of my personal data for recruitment purposes.
               </label>
             </div>
-            {errors.consent && <p style={{ fontSize: 12, color: "#EF4444", marginTop: 4 }}>{errors.consent}</p>}
+            {errors.consent && <p className="text-xs text-red-400 mt-1">{errors.consent}</p>}
           </>
         )}
 
-        {/* Navigation */}
-        <div style={{ display: "flex", justifyContent: "space-between", marginTop: 36, gap: 12 }}>
+        {/* ── Navigation ──────────────────────────── */}
+        <div className="flex justify-between items-center mt-10 gap-3">
           {step > 0 ? (
             <Btn onClick={back} variant="outline">← Back</Btn>
-          ) : <div />}
+          ) : (
+            <div />
+          )}
           {step < APPLY_STEPS.length - 1 ? (
-            <Btn onClick={next}>Continue →</Btn>
+            <Btn onClick={next} variant="blue">Continue →</Btn>
           ) : (
             <Btn onClick={submit} variant="blue" disabled={submitting}>
               {submitting ? "Submitting…" : "Submit application ✓"}
             </Btn>
           )}
         </div>
+
         {submitError && (
-          <p style={{ fontSize: 13, color: "#EF4444", marginTop: 12, textAlign: "right" }}>
-            ⚠️ {submitError}
-          </p>
+          <p className="text-xs text-red-400 mt-4 text-right">⚠️ {submitError}</p>
         )}
 
       </div>
     </div>
   );
 }
-

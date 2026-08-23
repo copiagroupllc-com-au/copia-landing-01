@@ -2,37 +2,45 @@ import { APPLY_STEPS } from "../../data/careerConstants";
 
 export default function StepBar({ current }) {
   return (
-    <div style={{ display: "flex", alignItems: "center", marginBottom: 40 }}>
+    <div className="flex items-center mb-10">
       {APPLY_STEPS.map((step, i) => {
-        const done = i < current;
+        const done   = i < current;
         const active = i === current;
         return (
           <div
             key={step}
-            style={{ display: "flex", alignItems: "center", flex: i < APPLY_STEPS.length - 1 ? 1 : "none" }}
+            className={`flex items-center ${i < APPLY_STEPS.length - 1 ? "flex-1" : ""}`}
           >
-            <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
-              <div style={{
-                width: 28, height: 28, borderRadius: "50%",
-                display: "flex", alignItems: "center", justifyContent: "center",
-                fontSize: 12, fontWeight: 700, flexShrink: 0,
-                background: done ? "#2563EB" : active ? "#111" : "#F0F0F0",
-                color: done || active ? "#fff" : "#aaa",
-              }}>
+            <div className="flex flex-col items-center">
+              {/* Circle */}
+              <div
+                className={`w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0 transition-colors ${
+                  done
+                    ? "bg-[#6366F1] text-white"
+                    : active
+                    ? "bg-white text-[#0A0A0F]"
+                    : "bg-white/8 text-gray-600"
+                }`}
+              >
                 {done ? "✓" : i + 1}
               </div>
-              <div style={{
-                fontSize: 11, fontWeight: 600, marginTop: 4, whiteSpace: "nowrap",
-                color: active ? "#111" : done ? "#2563EB" : "#bbb",
-              }}>
+              {/* Label */}
+              <div
+                className={`text-xs font-semibold mt-1.5 whitespace-nowrap transition-colors ${
+                  active ? "text-white" : done ? "text-[#6366F1]" : "text-gray-600"
+                }`}
+              >
                 {step}
               </div>
             </div>
+
+            {/* Connector line */}
             {i < APPLY_STEPS.length - 1 && (
-              <div style={{
-                flex: 1, height: 1.5, margin: "0 8px", marginBottom: 18,
-                background: done ? "#2563EB" : "#E8E8E8",
-              }} />
+              <div
+                className={`flex-1 h-px mx-2 mb-5 transition-colors ${
+                  done ? "bg-[#6366F1]" : "bg-white/8"
+                }`}
+              />
             )}
           </div>
         );

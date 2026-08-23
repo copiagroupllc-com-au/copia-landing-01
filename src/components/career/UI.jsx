@@ -1,119 +1,111 @@
 import { useState, useRef } from "react";
 
-const INPUT_BASE = {
-  width: "100%",
-  padding: "10px 14px",
-  fontSize: 14,
-  border: "1px solid #e0e0e0",
-  borderRadius: 8,
-  outline: "none",
-  fontFamily: "inherit",
-  color: "#111",
-  background: "#fff",
-  boxSizing: "border-box",
-};
+// ── Base classes ────────────────────────────────────────────────────────────
 
-export function FocusInput({ as: Tag = "input", style, ...props }) {
-  const [focused, setFocused] = useState(false);
+const INPUT_BASE =
+  "w-full px-4 py-3 rounded-xl text-sm text-white bg-[#16161F] border border-white/10 outline-none transition-colors placeholder:text-gray-600 focus:border-[#6366F1] focus:ring-1 focus:ring-[#6366F1]/30";
+
+// ── FocusInput ──────────────────────────────────────────────────────────────
+
+export function FocusInput({ as: Tag = "input", className = "", ...props }) {
   return (
     <Tag
       {...props}
-      style={{ ...INPUT_BASE, borderColor: focused ? "#2563EB" : "#e0e0e0", ...style }}
-      onFocus={() => setFocused(true)}
-      onBlur={() => setFocused(false)}
+      className={`${INPUT_BASE} ${Tag === "textarea" ? "resize-y min-h-[120px] leading-relaxed" : ""} ${Tag === "select" ? "cursor-pointer" : ""} ${className}`}
     />
   );
 }
 
+// ── Field ───────────────────────────────────────────────────────────────────
+
 export function Field({ label, required, error, children }) {
   return (
-    <div style={{ marginBottom: 20 }}>
-      <label style={{ display: "block", fontSize: 13, fontWeight: 600, color: "#333", marginBottom: 6 }}>
-        {label} {required && <span style={{ color: "#EF4444" }}>*</span>}
+    <div className="mb-5">
+      <label className="block text-sm font-semibold text-gray-300 mb-2">
+        {label}{" "}
+        {required && <span className="text-red-400">*</span>}
       </label>
       {children}
-      {error && <p style={{ fontSize: 12, color: "#EF4444", marginTop: 4 }}>{error}</p>}
+      {error && <p className="text-xs text-red-400 mt-1.5">{error}</p>}
     </div>
   );
 }
+
+// ── FileUpload ──────────────────────────────────────────────────────────────
 
 export function FileUpload({ value, onChange }) {
   const ref = useRef();
   return (
     <div
       onClick={() => ref.current.click()}
-      style={{
-        border: "1.5px dashed #d0d0d0", borderRadius: 10, padding: "24px 16px",
-        textAlign: "center", cursor: "pointer",
-        background: value ? "#F0FDF4" : "#FAFAFA", transition: "background 0.15s",
-      }}
-      onMouseEnter={e => { if (!value) e.currentTarget.style.background = "#F5F5F5"; }}
-      onMouseLeave={e => { if (!value) e.currentTarget.style.background = "#FAFAFA"; }}
+      className={`border-2 border-dashed rounded-xl p-6 text-center cursor-pointer transition-colors ${
+        value
+          ? "border-[#6366F1]/40 bg-[#6366F1]/8"
+          : "border-white/10 bg-[#16161F] hover:border-white/20"
+      }`}
     >
-      <input ref={ref} type="file" accept=".pdf,.doc,.docx" style={{ display: "none" }}
-        onChange={e => onChange(e.target.files[0])} />
+      <input
+        ref={ref}
+        type="file"
+        accept=".pdf,.doc,.docx"
+        className="hidden"
+        onChange={(e) => onChange(e.target.files[0])}
+      />
       {value ? (
         <>
-          <div style={{ fontSize: 22, marginBottom: 6 }}>✅</div>
-          <div style={{ fontSize: 13, fontWeight: 600, color: "#166534" }}>{value.name}</div>
-          <div style={{ fontSize: 12, color: "#888", marginTop: 4 }}>Click to replace</div>
+          <div className="text-2xl mb-2">✅</div>
+          <div className="text-sm font-semibold text-[#6366F1]">{value.name}</div>
+          <div className="text-xs text-gray-600 mt-1">Click to replace</div>
         </>
       ) : (
         <>
-          <div style={{ fontSize: 22, marginBottom: 6 }}>📎</div>
-          <div style={{ fontSize: 13, fontWeight: 600, color: "#555" }}>Upload your resume</div>
-          <div style={{ fontSize: 12, color: "#aaa", marginTop: 4 }}>PDF, DOC, DOCX — max 5 MB</div>
+          <div className="text-2xl mb-2">📎</div>
+          <div className="text-sm font-semibold text-gray-400">Upload your resume</div>
+          <div className="text-xs text-gray-600 mt-1">PDF, DOC, DOCX — max 5 MB</div>
         </>
       )}
     </div>
   );
 }
 
+// ── PhotoUpload ─────────────────────────────────────────────────────────────
+
 export function PhotoUpload({ value, onChange }) {
   const ref = useRef();
   const previewUrl = value ? URL.createObjectURL(value) : null;
   return (
-    <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
+    <div className="flex items-center gap-5">
       {/* Avatar preview */}
       <div
         onClick={() => ref.current.click()}
-        style={{
-          width: 80, height: 80, borderRadius: "50%", flexShrink: 0,
-          background: previewUrl ? "transparent" : "#F3F4F6",
-          border: previewUrl ? "2px solid #e0e0e0" : "2px dashed #d0d0d0",
-          display: "flex", alignItems: "center", justifyContent: "center",
-          cursor: "pointer", overflow: "hidden",
-        }}
+        className="w-20 h-20 rounded-full flex-shrink-0 border-2 border-dashed border-white/15 bg-[#16161F] flex items-center justify-center cursor-pointer overflow-hidden hover:border-[#6366F1]/40 transition-colors"
       >
-        {previewUrl
-          ? <img src={previewUrl} alt="Photo preview" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
-          : <span style={{ fontSize: 28 }}>🧑</span>
-        }
+        {previewUrl ? (
+          <img src={previewUrl} alt="Photo preview" className="w-full h-full object-cover" />
+        ) : (
+          <span className="text-3xl">🧑</span>
+        )}
       </div>
       {/* Label + button */}
       <div>
-        <p style={{ fontSize: 13, fontWeight: 600, color: "#333", margin: "0 0 4px" }}>
+        <p className="text-sm font-semibold text-gray-300 mb-0.5">
           {value ? value.name : "Profile photo"}
         </p>
-        <p style={{ fontSize: 12, color: "#aaa", margin: "0 0 8px" }}>
-          JPG, PNG, WEBP — max 500 KB
-        </p>
+        <p className="text-xs text-gray-600 mb-3">JPG, PNG, WEBP — max 500 KB</p>
         <button
           type="button"
           onClick={() => ref.current.click()}
-          style={{
-            padding: "6px 14px", background: "#111", color: "#fff",
-            border: "none", borderRadius: 7, fontSize: 12, fontWeight: 600,
-            cursor: "pointer",
-          }}
+          className="px-4 py-2 bg-[#6366F1] text-white text-xs font-bold rounded-lg hover:bg-indigo-400 transition-colors"
         >
           {value ? "Change photo" : "Upload photo"}
         </button>
       </div>
       <input
-        ref={ref} type="file" accept="image/jpeg,image/png,image/webp"
-        style={{ display: "none" }}
-        onChange={e => {
+        ref={ref}
+        type="file"
+        accept="image/jpeg,image/png,image/webp"
+        className="hidden"
+        onChange={(e) => {
           const file = e.target.files[0];
           if (!file) return;
           const allowed = ["image/jpeg", "image/png", "image/webp"];
@@ -134,33 +126,37 @@ export function PhotoUpload({ value, onChange }) {
   );
 }
 
+// ── Btn ─────────────────────────────────────────────────────────────────────
+
+const BTN_VARIANTS = {
+  primary: "bg-white text-[#0A0A0F] hover:bg-gray-200",
+  blue:    "bg-[#6366F1] text-white hover:bg-indigo-400 shadow-lg shadow-indigo-500/25",
+  outline: "bg-transparent text-gray-400 border border-white/15 hover:bg-white/5 hover:text-white hover:border-white/25",
+};
+
 export function Btn({ children, onClick, variant = "primary", style, disabled }) {
-  const base = {
-    padding: "12px 26px", borderRadius: 10, fontSize: 14,
-    fontWeight: 600, cursor: disabled ? "default" : "pointer",
-    border: "none", transition: "opacity 0.15s", opacity: disabled ? 0.5 : 1,
-  };
-  const variants = {
-    primary: { background: "#111",    color: "#fff" },
-    blue:    { background: "#2563EB", color: "#fff" },
-    outline: { background: "transparent", color: "#555", border: "1px solid #e0e0e0" },
-  };
   return (
-    <button disabled={disabled} onClick={onClick}
-      style={{ ...base, ...variants[variant], ...style }}
-      onMouseEnter={e => { if (!disabled) e.currentTarget.style.opacity = "0.82"; }}
-      onMouseLeave={e => { e.currentTarget.style.opacity = disabled ? "0.5" : "1"; }}>
+    <button
+      disabled={disabled}
+      onClick={onClick}
+      style={style}
+      className={`px-6 py-3 rounded-full text-sm font-bold transition-all duration-200 ${BTN_VARIANTS[variant]} ${
+        disabled ? "opacity-50 cursor-not-allowed" : "cursor-pointer"
+      }`}
+    >
       {children}
     </button>
   );
 }
 
+// ── ReviewRow ───────────────────────────────────────────────────────────────
+
 export function ReviewRow({ label, value }) {
   if (!value) return null;
   return (
-    <div style={{ display: "flex", gap: 16, padding: "11px 0", borderBottom: "1px solid #F0F0F0" }}>
-      <div style={{ fontSize: 13, color: "#888", width: 140, flexShrink: 0 }}>{label}</div>
-      <div style={{ fontSize: 13, color: "#111", wordBreak: "break-word" }}>{value}</div>
+    <div className="flex gap-4 py-3 border-b border-white/8 last:border-0">
+      <div className="text-xs text-gray-500 w-36 flex-shrink-0">{label}</div>
+      <div className="text-sm text-gray-300 break-words">{value}</div>
     </div>
   );
 }

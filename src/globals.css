@@ -6,7 +6,6 @@
     --color-brand-surface: #111118;
     --color-brand-dark: #0A0A0F;
     --font-jakarta: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
-    --font-syne: "Syne", "Plus Jakarta Sans", sans-serif;
   }
 
   html { scroll-behavior: smooth; }
@@ -19,7 +18,7 @@
   .no-scrollbar::-webkit-scrollbar { display: none; }
   .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
 
-  .font-display { font-family: var(--font-syne); }
+  .font-display { font-family: var(--font-jakarta); }
 }
 
 @keyframes fadeIn  { from { opacity: 0; } to { opacity: 1; } }
