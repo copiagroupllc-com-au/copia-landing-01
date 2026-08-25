@@ -95,7 +95,7 @@ export default function DriverModal({ sessionId, onClose, onProceed }) {
       }}>
 
         {/* Header */}
-        <div style={{ padding: "22px 24px 18px", borderBottom: "1px solid #f0f0f0" }}>
+        {(os === "macOS" || os === "Linux") ? ( <div style={{ padding: "22px 24px 18px", borderBottom: "1px solid #f0f0f0" }}>
           <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", gap: 12 }}>
             <div style={{ display: "flex", gap: 12, alignItems: "flex-start" }}>
               <div style={{
@@ -117,7 +117,7 @@ export default function DriverModal({ sessionId, onClose, onProceed }) {
               fontSize: 20, color: "#bbb", lineHeight: 1, flexShrink: 0, padding: 0,
             }}>✕</button>
           </div>
-        </div>
+        </div> ) : (<></>)}
 
         {/* Detected OS badge */}
         <div style={{ padding: "14px 24px 0", display: "flex", alignItems: "center", gap: 8 }}>
