@@ -1,3 +1,4 @@
+import { useNavigate } from "react-router-dom";
 import { DEPT_COLORS } from "../../data/careerConstants";
 
 const HIRING_PROCESS = [
@@ -9,6 +10,8 @@ const HIRING_PROCESS = [
 ];
 
 export default function JobDetailPage({ jobTitle, onApply, onBack }) {
+  const navigate = useNavigate();
+  const handleBack = onBack ?? (() => navigate("/career"));
   const color = jobTitle ? (DEPT_COLORS[jobTitle.dept] || { bg: "#374151", text: "#9CA3AF" }) : {};
 
   return (
@@ -21,7 +24,7 @@ export default function JobDetailPage({ jobTitle, onApply, onBack }) {
 
           {/* Breadcrumb */}
           <button
-            onClick={onBack}
+            onClick={handleBack}
             className="flex items-center gap-2 text-sm text-gray-500 hover:text-white transition-colors mb-10 group"
           >
             <span className="group-hover:-translate-x-1 transition-transform">←</span>

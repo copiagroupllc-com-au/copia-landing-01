@@ -1,3 +1,12 @@
+/** Converts a job title to a URL-safe slug. e.g. "Senior Backend Engineer" → "senior-backend-engineer" */
+export function toSlug(title = "") {
+  return title
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9\s-]/g, "")
+    .replace(/\s+/g, "-");
+}
+
 export const JOBS = [
   { id: 1,  title: "Senior Backend Engineer",        dept: "Engineering", location: "Remote", type: "Full-time" },
   { id: 2,  title: "Staff Frontend Engineer",         dept: "Engineering", location: "Remote", type: "Full-time" },
