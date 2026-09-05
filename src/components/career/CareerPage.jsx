@@ -418,30 +418,3 @@ export default function CareerPage({ onApply }) {
     </div>
   );
 }
-
-const TEAM = [
-  { name: "Nick Field",           role: "Managing Director",            photo: "/team/nick-field.png",           accent: "#6366F1" },
-  { name: "Andy Fordyce",         role: "Project Manager",              photo: "/team/andy-fordyce.png",         accent: "#3B82F6" },
-  { name: "Cezar Torescu",        role: "Product Engineering Manager",  photo: "/team/cezar-torescu.png",        accent: "#8B5CF6" },
-  { name: "Jake Malliaros",       role: "Senior Product Manager",       photo: "/team/jake-malliaros.png",       accent: "#10B981" },
-  { name: "Fabian Stierle",       role: "Senior Business Consultant",   photo: "/team/fabian-stierle.png",       accent: "#06B6D4" },
-  { name: "Jori Lope",            role: "Senior Business Consultant",   photo: "/team/jori-lope.png",            accent: "#F59E0B" },
-  { name: "Mykhailo Plametiu",    role: "Senior Business Manager",      photo: "/team/mykhailo-plametiu.png",    accent: "#EF4444" },
-  { name: "Oleh Kopeichenko",     role: "Senior Business Manager",      photo: "/team/oleh-kopeichenko.png",     accent: "#EC4899" },
-  { name: "Yaroslav Kreshchenko", role: "Business Manager",             photo: "/team/yaroslav-kreshchenko.png", accent: "#6366F1" },
-  { name: "Volodymyr Volchyk",    role: "Business Development Manager", photo: "/team/volodymyr-volchyk.png",    accent: "#3B82F6" },
-  { name: "Viktoriia Rieznik",    role: "IT Business Partner",          photo: "/team/viktoriia-rieznik.png",    accent: "#10B981" },
-  { name: "Erik Green",           role: "Business Consultant",          photo: "/team/erik-green.png",           accent: "#8B5CF6" },
-  { name: "Ron Cussons",          role: "Financial Advisor",            photo: "/team/ron-cussons.png",          accent: "#F59E0B" },
-  { name: "Peter AL Schrader",    role: "Private Investor",             photo: "/team/peter-schrader.png",       accent: "#06B6D4" },
-];
-
-// Copia Group's actual core values — sourced from About page
-const VALUES = [
-  { icon: "🔭", title: "Vision First",      desc: "We look beyond the horizon, anticipating market shifts before they happen." },
-  { icon: "🤝", title: "Trust & Integrity", desc: "Every relationship we build is grounded in honesty and accountability." },
-  { icon: "⚡", title: "Speed & Execution", desc: "Ideas are only as good as their execution. We move fast and deliver with precision." },
-  { icon: "🌏", title: "Global Mindset",    desc: "Based in Australia, thinking globally. We bridge Asia-Pacific opportunity with world-class technology." },
-  { icon: "🔗", title: "Decentralisation",  desc: "Empowering individuals through open protocols and transparent systems." },
-  { icon: "♻️", title: "Sustainability",    desc: "We build businesses that create lasting value for people and the planet." },
-];
