@@ -38,7 +38,7 @@ export const VALUES = [
   { roman: "IV",  label: "Embrace hard problems",    desc: "We work on things others avoid. That's where the interesting work lives." },
 ];
 
-export const DEPARTMENTS = ["All", "Engineering", "Product", "Design", "Marketing", "Operations"];
+export const DEPARTMENTS = ["All", "Engineering", "Product", "Design", "Marketing", "Operations", "Businesss"];
 
 export const DEPT_COLORS = {
   Engineering: { bg: "#EEF2FF", text: "#3730A3" },
