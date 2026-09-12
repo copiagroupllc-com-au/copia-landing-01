@@ -3,10 +3,9 @@ import { DEPT_COLORS } from "../../data/careerConstants";
 
 const HIRING_PROCESS = [
   "Application review (within 5 days)",
-  "Intro call — 30 min",
-  "Technical / skills interview — 60 min",
-  "Team interviews — 90 min",
-  "Offer",
+  "Technical interview with the PM (includes a 5-minute live coding test and a discussion on the status of company projects)",
+  "Technical interview with the engineering team",
+  "Final interview and job offer",
 ];
 
 export default function JobDetailPage({ jobTitle, onApply, onBack }) {
